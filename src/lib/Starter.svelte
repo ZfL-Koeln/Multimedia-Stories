@@ -5,9 +5,9 @@
     import page3 from "$lib/assets/img/stock-img/page3.jpg"
 </script>
 
-<section id="starter" class="grid grid-cols-3" style="height: 100vh">
-    <div style="height: 100vh; position: relative" class="bg-black col-span-1">
-      <span class="text-white text-2xl block p-20 justify-center ">
+<section id="starter" class="grid grid-rows-2 lg:grid-rows-1 lg:grid-cols-2 xl:grid-cols-3" >
+    <div style="height: 100vh; position: relative" class="bg-black">
+      <span class="text-white text-2xl md:text-4xl xl:text-4xl block p-20 justify-center ">
       Jedes Jahr verlassen
       Zehntausende junge Menschen
       die Schule ohne Abschluss.
@@ -21,8 +21,8 @@
       </span>
         <img src="{zfl}" alt="ZfL-Logo" style="position: absolute; height: 15%; bottom: 1rem; left: 1rem">
     </div>
-    <div style="height: 100vh" class="col-span-2">
-        <img src="{starter}" alt="Starter Image" class="overflow-y-auto" style="height: 100%; object-fit: cover">
+    <div class="lg:col-span-1 xl:col-span-2">
+        <img src="{starter}" alt="Starter Image" class="overflow-y-auto" style="height: 100vh; object-fit: cover">
     </div>
 </section>
 
