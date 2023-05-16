@@ -3,7 +3,7 @@ import starter from "$lib/assets/img/stock-img/starter.jpg";
 import zfl from "$lib/assets/img/zfl-logo.png";
 </script>
 
-<section class="relative flex flex-col py-16 lg:pt-0 lg:flex-col lg:pb-0 bg-black">
+<section class="max-w-full relative flex flex-col pt-16 lg:pt-0 m-0 lg:flex-col lg:pb-0 bg-black">
     <div class="flex flex-col cols items-start w-full max-w-xl mx-auto lg:mx-4 px-4 lg:px-8 lg:max-w-screen-xl h-screen" >
         <div class="my-auto lg:max-w-lg lg:pr-5">
             <div class="max-w-xl mb-6">
@@ -23,8 +23,8 @@ import zfl from "$lib/assets/img/zfl-logo.png";
         </div>
     </div>
 
-    <div class="bg-white inset-y-0 right-0 h-screen lg:pl-8 lg:pr-0 lg:mb-0 lg:mx-0 lg:w-1/2 xl:w-2/3 xl:max-w-full lg:absolute xl:px-0 p-0">
-        <img class="h-screen object-cover p-0" src="{starter}" alt=""/>
+    <div class="bg-black inset-y-0 right-0 lg:pl-8 lg:pr-0 lg:mb-0 lg:mx-0 lg:w-1/2 xl:w-2/3 xl:max-w-full lg:absolute xl:px-0 p-0">
+        <img class="h-screen object-cover  p-0" src="{starter}" alt=""/>
     </div>
     <img src="{zfl}" alt="ZfL-Logo" class="absolute top-1 right-1 w-44 invert-0">
 </section>
