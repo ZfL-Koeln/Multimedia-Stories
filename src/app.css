@@ -3,12 +3,23 @@
 @tailwind utilities;
 
 @font-face {
-    font-family: Roboto;
-    src: local('Roboto'), url("$lib/assets/fonts/RobotoSlab-VariableFont_wght.ttf") format('ttf');
+	font-family: Roboto;
+	src: local('Roboto'), url("$lib/assets/fonts/RobotoSlab-VariableFont_wght.ttf") format('ttf');
+}
+
+/* Responsives Scrollsnapping ab breakpoint lg:... */
+@media screen and (min-width: 1024px) {
+	html {
+		scroll-snap-type: y mandatory;
+	}
+	
+	.page-container {
+		scroll-snap-align: start;
+	}
 }
 
 body {
-    margin: 0;
-    padding: 0;
-    font-family: "Open Sans", sans-serif;
+	margin: 0;
+	padding: 0;
+	font-family: "Open Sans", sans-serif;
 }

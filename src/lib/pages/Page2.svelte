@@ -1,10 +1,13 @@
 <script>
 	import page2 from "$lib/assets/img/stock-img/page-2.jpg";
+
+
+
 </script>
 
 
-<section id="page-2" class="min-h-screen">
-	<div class="flex flex-col lg:max-h-screen">
+<section id="page-2" class="min-h-screen page-container">
+	<div class="flex flex-col ">
 
 		<div class="flex flex-col justify-center h-2/6">
 			<div class="flex justify-center pt-12">
@@ -16,14 +19,15 @@
 		</div>
 
 		<div class="flex-row min-h-screen lg:flex h-4/6">
-			<figure class="w-full h-4/6 lg:w-1/2 overflow-hidden">
+			<figure class="w-full h-4/6 lg:w-1/2 overflow-hidden" style="background-image: {page2}">
 				<!-- Hier noch das Bild Zentrieren.
 				vll hilft sowas:
 				https://tailwindcss.com/docs/object-position oder die anderen Object properties, align/place etc...
 				-->
-				<img src="{page2}" alt="Page2 Stock Img" class="max-w-none object-contain h-full">
+				<img src="{page2}" alt="Page2 Stock Img" class="" style="object-fit: contain; max-width: none; object-position: center">
 			</figure>
-			<article class="text-black text-2xl md:text-4xl xl:text-4xl p-20 w-full h-screen lg:h-auto lg:w-1/2 align-text-bottom pb-0 " style="font-family: Roboto,serif;">
+			<section class="text-black text-3xl md:text-4xl lg:text-2xl xl:text-3xl 2xl:text-4xl p-12 lg:p-16 2xl:p-20  w-full h-screen lg:h-auto lg:w-1/2 align-text-bottom pb-0" style="font-family: Roboto,serif;">
+				<span>
 				Noch immer beenden in Deutschland Zehntausende
 				junge Menschen die Schule ohne Abschluss. Allein im
 				Jahr 2021 waren dies laut einer Studie des
@@ -36,7 +40,8 @@
 				mit ausländischer Staatsbürgerschaft als mit deutscher
 				Staatsangehörigkeit. Und: es gibt deutliche
 				Unterschiede zwischen den Bundesländern.
-			</article>
+				</span>
+			</section>
 		</div>
 	</div>
 </section>
