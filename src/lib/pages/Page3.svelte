@@ -59,12 +59,14 @@
 			Demografische Verknappung und qualifikatorische Vergeudung.
 			Bertelsmann-Stiftung
 		</p>
+		<div class="flex justify-center">
 		<button class="bg-pink-200 hover:bg-pink-300 text-black font-bold py-2 px-4 border border-black rounded-full" style="box-shadow:+6px 6px black;">
 			mehr Infos
 		</button>
+		</div>
 	</article>
 		<figure class="h-screen page-scroll-subsection">
-			<img src="{page3}" alt="Stock Image P3" class="h-full lg:h-auto object-cover lg:object-contain lg:pt-16">
+			<img src="{page3}" alt="Stock P3" class="h-full lg:h-auto object-cover lg:object-contain lg:pt-16">
 
 		</figure>
 
