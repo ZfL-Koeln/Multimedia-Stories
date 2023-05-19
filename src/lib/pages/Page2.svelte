@@ -26,7 +26,7 @@
 				-->
 				<img src="{page2}" alt="Page2 Stock Img" class="" style="object-fit: contain; max-width: none; object-position: center">
 			</figure>
-			<section class="text-black text-3xl md:text-4xl lg:text-2xl xl:text-3xl 2xl:text-4xl p-12 lg:p-16 2xl:p-20  w-full h-screen lg:h-auto lg:w-1/2 align-text-bottom pb-0" style="font-family: Roboto,serif;">
+			<section class="text-black text-2xl md:text-4xl lg:text-2xl xl:text-2xl 2xl:text-3xl p-12 lg:p-16 2xl:p-20  w-full h-screen lg:h-fit lg:w-1/2 align-text-bottom pb-0 font-roboto" style="font-family: Roboto,serif;">
 				<span>
 				Noch immer beenden in Deutschland Zehntausende
 				junge Menschen die Schule ohne Abschluss. Allein im

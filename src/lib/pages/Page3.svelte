@@ -39,8 +39,8 @@
 </section>
 -->
 
-<section class="grid grid-cols-1 lg:grid-cols-2 gap-0 min-h-screen page-container">
-	<article class="text-2xl md:text-4xl lg:text-2xl xl:text-3xl 2xl:text-4xl h-screen p-16">
+<section class="grid grid-cols-1 lg:grid-cols-2 gap-0 min-h-screen page-container font-roboto">
+	<article class="text-2xl md:text-3xl lg:text-2xl 2xl:text-3xl h-screen p-16">
 		Auch wenn die Zahlen insgesamt auf hohem Niveau
 		stagnieren, steigen sie vor allem in Bremen,
 		Rheinland-Pflanz und dem Saarland während sie in
@@ -60,14 +60,14 @@
 			Bertelsmann-Stiftung
 		</p>
 		<div class="flex justify-center">
-		<button class="bg-pink-200 hover:bg-pink-300 text-black font-bold py-2 px-4 border border-black rounded-full" style="box-shadow:+6px 6px black;">
-			mehr Infos
-		</button>
+			<button class="bg-pink-200 hover:bg-pink-300 text-black font-bold py-2 px-4 border border-black rounded-full" style="box-shadow:+6px 6px black;">
+				mehr Infos
+			</button>
 		</div>
 	</article>
-		<figure class="h-screen page-scroll-subsection">
-			<img src="{page3}" alt="Stock P3" class="h-full lg:h-auto object-cover lg:object-contain lg:pt-16">
+	<figure class="h-screen page-scroll-subsection">
+		<img src="{page3}" alt="Stock P3" class="h-full lg:h-auto object-cover lg:object-contain lg:pt-16">
 
-		</figure>
+	</figure>
 
 </section>

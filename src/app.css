@@ -4,7 +4,7 @@
 
 @font-face {
 	font-family: Roboto;
-	src: local('Roboto'), url("$lib/assets/fonts/RobotoSlab-VariableFont_wght.ttf") format('ttf');
+	src: url("$lib/assets/fonts/RobotoSlab-VariableFont_wght.ttf");
 }
 
 /* Responsives Scrollsnapping ab breakpoint lg:... */
