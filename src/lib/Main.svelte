@@ -5,8 +5,10 @@
     import Page4 from "./pages/Page4.svelte"
     import Page5 from "./pages/Page5.svelte"
     import Page6 from "./pages/Page6.svelte"
-    //import Page7 from "./pages/Page7.svelte"
-    //import Page8 from "./pages/Page8.svelte"
+    import Page7 from "./pages/Page7.svelte"
+    import Page8 from "./pages/Page8.svelte"
+    import Page9 from "./pages/Page9.svelte"
+    import Page10 from "./pages/Page10.svelte"
 </script>
 
 <section>
@@ -16,7 +18,10 @@
 	<Page4/>
 	<Page5/>
 	<Page6/>
-	<!--    <Page7/>-->
+	<Page7/>
+	<Page8/>
+	<Page9/>
+	<Page10/>
 </section>
 
 <style lang="postcss">

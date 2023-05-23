@@ -40,7 +40,7 @@
 -->
 
 <section class="grid grid-cols-1 lg:grid-cols-2 gap-0 min-h-screen page-container font-roboto">
-	<article class="text-2xl md:text-3xl lg:text-2xl 2xl:text-3xl h-screen p-16">
+	<article class="text-2xl md:text-3xl lg:text-2xl 2xl:text-3xl 3xl:text-4xl h-screen p-16">
 		Auch wenn die Zahlen insgesamt auf hohem Niveau
 		stagnieren, steigen sie vor allem in Bremen,
 		Rheinland-Pflanz und dem Saarland während sie in
@@ -54,7 +54,7 @@
 		Langzeitarbeitslosigkeit hat neben gesundheitlichen
 		auch wirtschaftliche Folgen.
 		<br/><br/>
-		<p class="text-xl">
+		<p class="text-xl xl:text-2xl pb-8">
 			Klaus Klemm (2023): Jugendliche ohne Hauptschulabschluss.
 			Demografische Verknappung und qualifikatorische Vergeudung.
 			Bertelsmann-Stiftung

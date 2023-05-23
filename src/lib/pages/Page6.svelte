@@ -5,7 +5,7 @@
 <section id="page-6" class="bg-black h-screen page-container flex flex-col justify-center relative">
 
 	<div class="flex items-center">
-		<div class="flex-auto border-t-4 transition duration-500 ease-in-out border-white"></div>
+		<div class="flex-auto border-t-4 transition duration-500 ease-in-out border-white "></div>
 		<div class="flex items-center text-teal-600 relative">
 			<div class="rounded-full transition duration-500 ease-in-out h-20 w-20 p-4 border-4 border-white">
 				<div class="rounded-full bg-[#00b4dc] m-auto h-full w-full"></div>
@@ -39,7 +39,7 @@
 
 	</div>
 
-	<div class="grid grid-rows-3 grid-cols-4 absolute inset-0 text-white text-sm md:text-base lg:text-lg xl:text-xl 2xl:text-2xl p-4 md:p-8 font-roboto">
+	<div class="grid grid-rows-3 grid-cols-4 absolute inset-0 text-white text-sm md:text-base lg:text-lg xl:text-xl 2xl:text-2xl 3xl:text-3xl p-4 md:p-8 font-roboto">
 		<div class="row-start-1 row-span-2 opacity-0 hover:opacity-100 transition-opacity duration-500">Das Sprachförderprojekt PROMPT! startet,
 			bei dem Kölner Lehramtsstudierende mit
 			geflüchteten und neu zugewanderten Kindern, Jugendlichen und jungen

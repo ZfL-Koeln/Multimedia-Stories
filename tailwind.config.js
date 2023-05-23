@@ -3,10 +3,13 @@ export default {
 	content: ['./src/**/*.{html,js,svelte,ts}'],
 	theme: {
 		extend: {
-          fontFamily: {
-            'roboto': ['Roboto', 'serif']
-          }
-        },
+			screens: {
+				'3xl': '1920px'
+			},
+			fontFamily: {
+				'roboto': ['Roboto', 'serif']
+			}
+		},
 	},
 	plugins: [],
 }
