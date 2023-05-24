@@ -8,7 +8,7 @@
 		Weiterbildung für Studierende durch das Projekt KommMit/PROMPT!
 	</p>
 
-	<div class="w-full h-auto grid grid-cols-2 lg:grid-cols-4 lg:grid-rows-4 md:px-16 2xl:px-40 2xl:pt-32 lg:gap-0 ">
+	<div class="w-full h-auto grid grid-cols-2 lg:grid-cols-4 lg:grid-rows-4 md:px-16 2xl:px-40 2xl:pt-12 3xl:pt-32 lg:gap-0 ">
 
 	<!-- Bild Mitte -->
 		<div class="col-span-2 lg:row-span-2 lg:col-start-2 lg:row-start-2">
@@ -50,7 +50,7 @@
 		</div>
 
 		<!-- Rechts Unten-->
-		<div class="lg:col-start-4 lg:row-start-3">
+		<div class="lg:col-start-4 lg:row-start-3 col-span-2 lg:col-span-1 flex justify-center lg:flex-none">
 			<article class="my-auto font-sans pl-8 pb-8 lg:pl-0 flex flex-row lg:flex-col">
 				<span class="text-[#00b4dc] font-extrabold text-3xl lg:text-5xl">80%&nbsp;</span>
 				<span class="text-lg md:text-xl xl:text-2xl font-semibold">der befragten Studierenden können<br/>Förderbedarfe besser erkennen</span>

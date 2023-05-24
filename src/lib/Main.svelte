@@ -9,7 +9,11 @@
     import Page8 from "./pages/Page8.svelte"
     import Page9 from "./pages/Page9.svelte"
     import Page10 from "./pages/Page10.svelte"
+    import Page11 from "./pages/Page11.svelte"
 </script>
+
+<!-- Sticky IN ARBEIT Nachricht -->
+<div class="sticky z-50 top-0 w-full text-center text-red-700 font-sans font-black">[IN ARBEIT]</div>
 
 <section>
 	<Page1/>
@@ -22,6 +26,7 @@
 	<Page8/>
 	<Page9/>
 	<Page10/>
+	<Page11/>
 </section>
 
 <style lang="postcss">
