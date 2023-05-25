@@ -3,7 +3,7 @@
 		<div class="flex justify-center">
 			<div class="bg-black w-2/12 lg:w-1/12 h-2"></div>
 		</div>
-		<header class="font-bold text-4xl md:text-6xl xl:text-7xl 3xl:text-8xl uppercase text-center pb-8">Ungleiche Bildungschancen</header>
+		<h1 class="text-6xl 2xl:text-8xl text-black text-center font-sans pt-2 pb-8">Ungleiche Bildungschancen</h1>
 		<p class="w-full xl:w-2/3 leading-relaxed font-roboto md:text-xl lg:text-2xl 3xl:text-3xl 2xl:px-16">
 			Schulische Leistungen von Kindern und Jugendlichen in
 			Deutschland entwickeln sich seit Jahren auseinander. Zu diesem

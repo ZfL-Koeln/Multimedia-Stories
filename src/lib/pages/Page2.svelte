@@ -13,9 +13,9 @@
 			<div class="flex justify-center pt-12">
 				<div class="bg-black w-1/12 h-2"></div>
 			</div>
-			<div class="text-6xl text-black text-center font-sans pt-2 lg:pb-16 pb-8" style="font-weight: bold">
+			<h1 class="text-6xl text-black text-center font-sans pt-2 lg:pb-16 pb-8">
 				6 PROZENT OHNE ABSCHLUSS
-			</div>
+			</h1>
 		</div>
 
 		<div class="flex-row min-h-screen lg:flex h-4/6">

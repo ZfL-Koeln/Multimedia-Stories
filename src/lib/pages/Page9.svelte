@@ -10,7 +10,7 @@
 
 	<div class="px-12 xl:px-20">
 
-		<div class="grid lg:grid-cols-2 lg:gap-x-4 font-roboto  2xl:px-16 ">
+		<div class="grid lg:grid-cols-2 lg:gap-x-4 font-roboto  2xl:px-16">
 			<div class="col-span-1 md:text-xl lg:text-2xl 3xl:text-4xl">
 				Bildungsprojekte wie WEICHESTELLUNG oder
 				PROMPT! sind auch für Studierende eine wichtige
