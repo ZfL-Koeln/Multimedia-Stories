@@ -10,6 +10,16 @@
     import Page9 from "./pages/Page9.svelte"
     import Page10 from "./pages/Page10.svelte"
     import Page11 from "./pages/Page11.svelte"
+    import Page12 from "./pages/Page12.svelte"
+    import Page13 from "./pages/Page13.svelte"
+    import Page14 from "./pages/Page14.svelte"
+    import Page15 from "./pages/Page15.svelte"
+    import Page17 from "./pages/Page17.svelte"
+    import Page18 from "./pages/Page18.svelte"
+    import Page19 from "./pages/Page19.svelte"
+    import Page20 from "./pages/Page20.svelte"
+    import Footer from "./pages/Footer.svelte"
+    import Map from "./Map.svelte"
 </script>
 
 <!-- Sticky IN ARBEIT Nachricht -->
@@ -27,7 +37,27 @@
 	<Page9/>
 	<Page10/>
 	<Page11/>
+	<Page12/>
+	<Page13/>
+	<Page14/>
+	<Page15/>
+	<!-- Map here -->
+	<Map/>
+	<!-- Map End -->
+	<Page17/>
+	<Page18/>
+	<Page19/>
+	<Page20/>
+	<Footer/>
 </section>
 
 <style lang="postcss">
 </style>
+
+<!--
+!TODO: Links einfügen
+!TODO: Bilder ersetzen
+!TODO: Gewünschte Page 4 Variante auswählen. Rest Löschen
+*TODO: Diagramm (Page11 Component) Linien der X-Achse etwas auffälliger
+?*TODO: Floating ScrollSpy zur besseren Navigation?
+-->

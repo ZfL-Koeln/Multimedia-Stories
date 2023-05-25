@@ -54,7 +54,7 @@
     });
 </script>
 
-<section id="map" bind:this={mapElement}>
+<section id="map" bind:this={mapElement} class="page-container h-screen max-h-screen">
 </section>
 
 <style>
