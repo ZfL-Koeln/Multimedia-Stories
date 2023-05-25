@@ -2,7 +2,7 @@
 	import page3 from "$lib/assets/img/stock-img/page-14.jpg";
 </script>
 
-<section class="grid grid-cols-1 lg:grid-cols-2 gap-0 min-h-screen page-container font-roboto">
+<section id="page-14" class="grid grid-cols-1 lg:grid-cols-2 gap-0 min-h-screen page-container font-roboto" data-scrollspy="Weichenstellung">
 	<article class="text-lg sm:text-xl md:text-2xl lg:text-xl 2xl:text-2xl 3xl:text-3xl h-screen p-16">
 		<b>WEICHENSTELLUNG für Viertklässler</b> ist ein von der
 		ZEIT-Stiftung Ebelin und Gerd Bucerius initiiertes

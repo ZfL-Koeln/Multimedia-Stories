@@ -20,12 +20,14 @@
     import Page20 from "./pages/Page20.svelte"
     import Footer from "./pages/Footer.svelte"
     import Map from "./Map.svelte"
+		import ScrollspyMap from "$lib/ScrollspyMap.svelte";
 </script>
 
 <!-- Sticky IN ARBEIT Nachricht -->
-<div class="sticky z-50 top-0 w-full text-center text-red-700 font-sans font-black">[IN ARBEIT]</div>
+<div class="fixed z-50 top-0 right-0 w-full text-center text-red-700 font-sans font-black">[IN ARBEIT]</div>
 
-<section>
+<section class="relative">
+<ScrollspyMap/>
 	<Page1/>
 	<Page2/>
 	<Page3/>

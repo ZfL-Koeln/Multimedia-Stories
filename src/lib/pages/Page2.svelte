@@ -6,7 +6,7 @@
 </script>
 
 
-<section id="page-2" class="min-h-screen page-container">
+<section id="page-2" class="min-h-screen page-container" data-scrollspy="6 Prozent">
 	<div class="flex flex-col ">
 
 		<div class="flex flex-col justify-center h-2/6">

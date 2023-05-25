@@ -2,7 +2,7 @@
 
 <!-- Hier muss noch eine Responsive Variante her mit Vertikal verlaufendem Stepper
 	Entweder diesen Responsiv Machen oder einen zweiten über md:hidden/block welcher ausgetauscht wird.-->
-<section id="page-6" class="bg-black h-screen page-container flex flex-col justify-center relative">
+<section id="page-6" class="bg-black h-screen page-container flex flex-col justify-center relative"  data-scrollspy="Zeitleiste">
 
 	<div class="flex items-center">
 		<div class="flex-auto border-t-4 transition duration-500 ease-in-out border-white "></div>

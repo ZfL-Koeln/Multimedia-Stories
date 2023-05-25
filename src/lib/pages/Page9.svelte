@@ -1,4 +1,4 @@
-<section id="page-9" class="flex flex-col leading-loose min-h-screen page-container">
+<section id="page-9" class="flex flex-col leading-loose min-h-screen page-container"  data-scrollspy="Vorteile">
 	<div class="flex flex-col justify-center h-2/6">
 		<div class="flex justify-center pt-12">
 			<div class="bg-black w-1/12 h-2"></div>

@@ -1,4 +1,4 @@
-<section id="page-17" class="flex flex-col lg:flex-row h-screen page-container">
+<section id="page-17" class="flex flex-col lg:flex-row h-screen page-container" data-scrollspy="Daniel Keil">
 	<div class="w-full lg:w-5/12 flex justify-center">
 		<p class="text-3xl text-center lg:text-left md:text-4xl xl:text-5xl 2xl:text-6xl mx-auto font-sans font-extrabold py-12 lg:px-16 lg:pt-32">
 			"Diese enge Betreuung sieht die Schüler*innen als Ganzes.“

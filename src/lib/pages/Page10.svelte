@@ -3,7 +3,7 @@
 </script>
 
 
-<section id="page-10" class=" relative page-container max-h-screen h-screen w-full overflow-clip" style="background-image: linear-gradient(to right, #f1aecc, #fefdfd)">
+<section id="page-10" class=" relative page-container max-h-screen h-screen w-full overflow-clip" style="background-image: linear-gradient(to right, #f1aecc, #fefdfd)" data-scrollspy="Studie">
 	<p class="text-3xl text-center md:text-4xl xl:text-5xl 2xl:text-5xl mx-auto p-8 font-sans font-extrabold ">
 		Weiterbildung für Studierende durch das Projekt KommMit/PROMPT!
 	</p>

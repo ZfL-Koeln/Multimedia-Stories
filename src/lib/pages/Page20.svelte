@@ -37,7 +37,7 @@
 	}
 
 </style>
-<section id="page-20" class="h-screen page-container bg-gradient">
+<section id="page-20" class="h-screen page-container bg-gradient" data-scrollspy="Unterstützung">
 	<div class="flex flex-col justify-center h-1/3">
 		<div class="flex justify-center pt-12">
 			<div class="bg-white w-1/12 h-2"></div>

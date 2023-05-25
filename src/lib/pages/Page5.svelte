@@ -1,4 +1,4 @@
-<section id="page-5" class="h-screen page-container">
+<section id="page-5" class="h-screen page-container"  data-scrollspy="Ungleiche Bildungschancen">
 	<article class="p-12 xl:p-20">
 		<div class="flex justify-center">
 			<div class="bg-black w-2/12 lg:w-1/12 h-2"></div>

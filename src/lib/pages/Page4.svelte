@@ -11,7 +11,8 @@
 </style>
 
 <!-- Statische Version ohne Animationen -->
-<section id="page-4" class="flex flex-col text-white page-container h-screen" style="background-image: linear-gradient(to right bottom, #ff82e4, #d296ff, #9ba8ff, #5cb5ff, #00bdff);">
+<!--
+<section id="page-4" class="flex flex-col text-white page-container h-screen" style="background-image: linear-gradient(to right bottom, #ff82e4, #d296ff, #9ba8ff, #5cb5ff, #00bdff);" data-scrollspy="Feedback">
 	<div class="flex flex-col content-between h-full p-12 xl:p-20">
 		<article class="text-xl md:text-2xl lg:text-3xl 2xl:text-4xl font-bold h-1/3 w-full lg:w-3/4">
 			"Endlich wieder lernen zu können ist toll – ich habe
@@ -51,11 +52,11 @@
 		</article>
 	</div>
 </section>
-
+-->
 
 
 <!-- Mit Slide In Animation. Nun schöner mit Peers gelöst-->
-<section id="page-4-2" class="flex flex-col text-white page-container h-screen" style="background-image: linear-gradient(to right bottom, #ff82e4, #d296ff, #9ba8ff, #5cb5ff, #00bdff);">
+<section id="page-4" class="flex flex-col text-white page-container h-screen" style="background-image: linear-gradient(to right bottom, #ff82e4, #d296ff, #9ba8ff, #5cb5ff, #00bdff);" data-scrollspy="Feedback">
 	<div class="flex flex-col content-between h-full p-12 xl:p-20">
 		<div class="h-1/3 w-full lg:w-3/4 ">
 
@@ -105,7 +106,9 @@
 	</div>
 </section>
 
+
 <!-- Mit Austauschendem Text bei Hover-->
+<!--
 <section id="page-4-3" class="flex flex-col text-white page-container h-screen" style="background-image: linear-gradient(to right bottom, #ff82e4, #d296ff, #9ba8ff, #5cb5ff, #00bdff);">
 	<div class="flex flex-col content-between h-full p-12 xl:p-20">
 		<article class="swap-text-on-hover text-2xl md:text-2xl lg:text-3xl 2xl:text-5xl font-bold h-1/3 w-full lg:w-3/4 hover:text-lg hover:md:text-xl hover:lg:text-2xl hover:xl:text-3xl hover:italic hover:font-medium transition-all duration-500 ease-in-out"
@@ -127,3 +130,4 @@
 		</article>
 	</div>
 </section>
+-->

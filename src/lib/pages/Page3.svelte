@@ -39,7 +39,7 @@
 </section>
 -->
 
-<section class="grid grid-cols-1 lg:grid-cols-2 gap-0 min-h-screen page-container font-roboto">
+<section class="grid grid-cols-1 lg:grid-cols-2 gap-0 min-h-screen page-container font-roboto" id="page-3" data-scrollspy="Seite 3">
 	<article class="text-2xl md:text-3xl lg:text-2xl 2xl:text-3xl 3xl:text-4xl h-screen p-16">
 		Auch wenn die Zahlen insgesamt auf hohem Niveau
 		stagnieren, steigen sie vor allem in Bremen,

@@ -28,7 +28,7 @@
 }
 
 </style>
-<section id="page-13" class="page-container h-screen bg-black">
+<section id="page-13" class="page-container h-screen bg-black" data-scrollspy="Schwerpunkte">
 	<div class="flex flex-col justify-center h-1/6 md:h-2/6">
 		<div class="flex justify-center pt-12">
 			<div class="bg-white w-1/12 h-2"></div>
