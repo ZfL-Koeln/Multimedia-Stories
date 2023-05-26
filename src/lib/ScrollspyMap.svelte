@@ -44,7 +44,7 @@
 		right: -240px;
 		width: 280px;
 		transition: right 0.3s ease-in-out;
-		z-index: 50;
+		z-index: 9999;
 	}
 
 	.sidebar:hover {

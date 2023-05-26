@@ -2,6 +2,12 @@
     import starter from "$lib/assets/img/stock-img/starter.jpg";
     import zfl from "$lib/assets/img/zfl-logo.png";
 </script>
+<style>
+    .custom-font {
+        font-size: calc(1.75rem + 0.5vw);
+        font-family: Roboto, serif
+    }
+</style>
 <div class="page-container " id="Page1" data-scrollspy="Start">
 
     <section class="max-w-full relative flex flex-col pt-12 lg:pt-0 m-0 lg:flex-col lg:pb-0 bg-black">
@@ -30,10 +36,3 @@
         <img src="{zfl}" alt="ZfL-Logo" class="absolute top-1 right-1 w-44 invert-0">
     </section>
 </div>
-
-<style>
-    .custom-font {
-        font-size: calc(1.75rem + 0.5vw);
-        font-family: Roboto, serif
-    }
-</style>

@@ -54,7 +54,7 @@
     });
 </script>
 
-<section id="map" bind:this={mapElement} class="page-container h-screen max-h-screen">
+<section id="map" bind:this={mapElement} class="page-container h-screen max-h-screen" data-scrollspy="Karte">
 </section>
 
 <style>
