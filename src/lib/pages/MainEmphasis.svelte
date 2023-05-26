@@ -19,7 +19,7 @@
 	background-image: url("$lib/assets/img/stock-img/ryan-wallace-azA1hLbjBBo-unsplash.jpg");
 }
 
-.image-container.image-middle {
+.image-container.image-middle-left {
 	background-image: url("$lib/assets/img/stock-img/annika-gordon-cZISY8ai2iA-unsplash.jpg");
 }
 
@@ -45,7 +45,7 @@
 				<button class="mx-auto border-[2px] border-white text-white text-2xl font-roboto rounded-full bg-opacity-10 hover:bg-opacity-30 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white">mehr Infos</button>
 			</div>
 		</figure>
-		<figure class="col-auto image-container image-middle">
+		<figure class="col-auto image-container image-middle-left">
 			<div class="flex flex-col justify-evenly text-center image-hover-content w-full h-full text-white text-3xl lg:text-5xl font-roboto">
 				Bildungsübergänge
 				<button class="mx-auto border-[2px] border-white text-white text-2xl font-roboto rounded-full bg-opacity-10 hover:bg-opacity-30 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white">mehr Infos</button>

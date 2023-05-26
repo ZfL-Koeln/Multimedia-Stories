@@ -52,31 +52,39 @@
 			<div class="absolute text-xl sm:text-2xl  lg:p-8 w-full h-full opacity-0 hover:opacity-100 flex flex-col transition-all duration-300 select-none">
 				Werden Sie Mentor*in
 				in einem unserer
-				Projekte für mehr
-				Bildungsteilhabe. Wenden Sie sich dazu
-				gerne an XY. Gemeinsam finden wir
-				das passende Projekt. </div>
+				Projekte und
+				absolvieren Sie Ihr
+				EOP/BFP. Informieren
+				Sie sich gerne zu
+				<a href="#" class="underline selection:cursor-auto">WEICHENSTELLUNG</a>
+				und <a href="#" class="underline selection:cursor-auto">PROMPT!</a>
+			</div>
 		</article>
 		<article class="relative  w-full h-full lg:w-1/3 text-2xl max-h-full overflow-clip text-white text-center font-roboto card-container card-center" data-caption="Schulen">
 			<div class="absolute text-xl sm:text-2xl  lg:p-8 w-full h-full opacity-0 hover:opacity-100 flex flex-col transition-all duration-300 select-none">
+
 				Sie möchten Ihren
 				Schüler*innen die
 				Möglichkeit bieten, in
 				einem unserer Projekte
 				gefördert zu werden?
-				Wenden Sie sich dazu
-				gerne an XY. </div>
+				Wenden Sie sich dazu gerne
+				an die Projektleitungen von
+				<a href="#" class="underline selection:cursor-auto">WEICHENSTELLUNG</a> und
+				<a href="#" class="underline selection:cursor-auto">PROMPT!</a>
+			</div>
 		</article>
 		<article class="relative  w-full h-full lg:w-1/3 text-2xl max-h-full overflow-clip text-white text-center font-roboto card-container card-right" data-caption="Spenden">
 			<div class="absolute text-xl sm:text-2xl  lg:p-8 w-full h-full opacity-0 hover:opacity-100 flex flex-col transition-all duration-300 select-none">
 				Unterstützen Sie
 				unsere Projekte mit
 				Ihrer Spende. Über die
-				universitätseigenen
-				Stiftung Studium und
-				Lehre kommt Ihre
+				universitätseigene
+				<a href="#" class="underline selection:cursor-auto">Stiftung Studium und
+					Lehre</a> kommt Ihre
 				Spende dort an, wo sie
-				gebraucht wird. <a href="#" class="underline selection:cursor-auto">Link</a></div>
+				gebraucht wird.
+			</div>
 		</article>
 
 	</div>

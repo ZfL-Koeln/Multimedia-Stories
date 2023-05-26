@@ -3,7 +3,7 @@
 	import chart from "$lib/assets/img/bar_chart-cropped.svg";
 </script>
 
-<section id="page-11" class=" relative page-container max-h-screen h-screen w-full overflow-clip" style="background-image: linear-gradient(to right, #f1aecc, #fefdfd)" data-scrollspy="Diagramm">
+<section id="page-11" class=" relative page-container max-h-screen h-screen w-full overflow-clip bg-gradient-pink" data-scrollspy="Diagramm">
 	<p class="text-3xl text-center md:text-4xl xl:text-5xl 2xl:text-5xl mx-auto p-8 font-sans font-extrabold ">
 		Positive Entwicklung von Schüler*innen durch das Projekt KommMit/PROMPT!
 	</p>

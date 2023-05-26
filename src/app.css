@@ -18,6 +18,14 @@
 	}
 }
 
+.bg-gradient-pink {
+	background-image: linear-gradient(to right, #f1aecc, #fefdfd);
+}
+
+.bg-gradient-pink-to-blue {
+	background-image: linear-gradient(to right bottom, #ff82e4, #d296ff, #9ba8ff, #5cb5ff, #00bdff);
+}
+
 body {
 	margin: 0;
 	padding: 0;

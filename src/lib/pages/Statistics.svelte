@@ -3,7 +3,7 @@
 </script>
 
 
-<section id="page-10" class=" relative page-container max-h-screen h-screen w-full overflow-clip" style="background-image: linear-gradient(to right, #f1aecc, #fefdfd)" data-scrollspy="Statistik">
+<section id="page-10" class=" relative page-container max-h-screen h-screen w-full overflow-clip bg-gradient-pink" data-scrollspy="Statistik">
 	<p class="text-3xl text-center md:text-4xl xl:text-5xl 2xl:text-5xl mx-auto p-8 font-sans font-extrabold ">
 		Weiterbildung für Studierende durch das Projekt KommMit/PROMPT!
 	</p>
@@ -29,7 +29,7 @@
 		<div class="lg:row-start-2 lg:flex lg:justify-end">
 			<article class="font-sans pl-8 pb-8 flex flex-row lg:flex-col lg:text-right">
 				<span class="text-[#00b4dc] font-extrabold text-3xl lg:text-5xl">70%&nbsp;</span>
-				<span class="text-lg xl:text-2xl font-semibold">der befragten Studierenden<br/> haben das Wissen über<br/> Lernstrategien aufgebaut</span>
+				<span class="text-lg xl:text-2xl font-semibold">der befragten Studierenden<br/> bauen das Wissen über<br/> Lernstrategien aus</span>
 			</article>
 		</div>
 

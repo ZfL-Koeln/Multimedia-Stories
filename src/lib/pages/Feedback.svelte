@@ -2,12 +2,15 @@
 <style>
 	/*Zum Ändern von Inhalt on Hover*/
 	/*Data Attribute data-descr und data-hover in die entsprechenden Tags.*/
+	/*
+
 	.swap-text-on-hover:after{
 		content: attr(data-descr);
 	}
 	.swap-text-on-hover:hover:after{
 		content: attr(data-hover);
 	}
+	 */
 </style>
 
 <!-- Statische Version ohne Animationen -->
@@ -56,7 +59,7 @@
 
 
 <!-- Mit Slide In Animation. Nun schöner mit Peers gelöst-->
-<section id="page-4" class="flex flex-col text-white page-container h-screen" style="background-image: linear-gradient(to right bottom, #ff82e4, #d296ff, #9ba8ff, #5cb5ff, #00bdff);" data-scrollspy="Feedback">
+<section id="page-4" class="flex flex-col text-white page-container h-screen bg-gradient-pink-to-blue" data-scrollspy="Feedback">
 	<div class="flex flex-col content-between h-full p-12 xl:p-20">
 		<div class="h-1/3 w-full lg:w-3/4 ">
 
