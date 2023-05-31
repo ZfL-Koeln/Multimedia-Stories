@@ -23,6 +23,7 @@
 }
 
 .bg-gradient-pink-to-blue {
+	/*background-image: linear-gradient(to right bottom, #e56ea5, #bd7baf, #a482b5, #868bbc, #7e8ebe, #6894c3, #43a0cc, #02b3dc);*/
 	background-image: linear-gradient(to right bottom, #ff82e4, #d296ff, #9ba8ff, #5cb5ff, #00bdff);
 }
 

@@ -39,12 +39,12 @@
 </style>
 <section id="page-20" class="h-screen page-container bg-gradient" data-scrollspy="Unterstützung">
 	<div class="flex flex-col justify-center h-1/3">
-		<div class="flex justify-center pt-12">
-			<div class="bg-white w-1/12 h-2"></div>
-		</div>
-		<div class="text-4xl lg:text-6xl text-white text-center font-sans lg:px-32 pt-2 lg:pb-16 pb-8" style="font-weight: bold">
+		<div class="text-4xl lg:text-6xl text-white text-center font-sans lg:px-32 pt-12 " style="font-weight: bold">
 			Sie möchten sich für mehr
 			Bildungsgerechtigkeit einsetzen?
+		</div>
+		<div class="flex justify-center pt-2 lg:pb-16 pb-8">
+			<div class="bg-white w-2/12 h-2 "></div>
 		</div>
 	</div>
 	<div class="h-2/3 flex flex-col lg:flex-row w-full p-8 lg:p-32">

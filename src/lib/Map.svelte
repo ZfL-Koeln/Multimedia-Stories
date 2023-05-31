@@ -54,7 +54,8 @@
     });
 </script>
 
-<section id="map" bind:this={mapElement} class="page-container h-screen max-h-screen" data-scrollspy="Karte">
+<section id="map" bind:this={mapElement} class="relative page-container h-screen max-h-screen" data-scrollspy="Karte">
+	<p class="absolute top-3 my-auto text-black drop-shadow-lg text-4xl font-black font-sans left-0 text-center w-full z-[1000]">Hier sind Lehramtsstudierende für Bildungsgerechtigkeit im Einsatz</p>
 </section>
 
 <style>

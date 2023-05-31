@@ -27,7 +27,7 @@
 </script>
 
 <!-- Sticky IN ARBEIT Nachricht -->
-<div class="fixed z-50 top-0 right-0 w-full text-center text-red-700 font-sans font-black">[IN ARBEIT]</div>
+<!--<div class="fixed z-50 top-0 right-0 w-full text-center text-red-700 font-sans font-black">[IN ARBEIT]</div>-->
 
 <!-- ################################################### -->
 <!-- Seitenreihenfolge V2 -->

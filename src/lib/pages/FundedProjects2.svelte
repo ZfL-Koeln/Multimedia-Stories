@@ -21,7 +21,7 @@
 		<a href="" class="mx-auto hidden lg:block border-[2px] border-white text-white text-2xl font-roboto rounded-full bg-opacity-10 hover:bg-opacity-30 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-300 ease-in-out">zur
 			Studie</a>
 	</div>
-	<article class="text-base sm:text-lg md:text-xl lg:text-xl xl:text-2xl 2xl:text-3xl 3xl:text-4xl h-screen p-20 pt-0 lg:pt-32">
+	<article class="text-base sm:text-lg md:text-2xl lg:text-xl xl:text-2xl 2xl:text-3xl 3xl:text-4xl h-screen p-8 md:p-16 lg:p-20 pt-0 lg:pt-32">
 		Förderprogramme helfen nicht nur betroffenen Jugendlichen, sie zahlen sich auch wirtschaftlich aus.
 		Das ist das Ergebnis einer Studie, die das Zentrum für Lehrer*innenbildung der Universität zu Köln 2022
 		veröffentlicht hat. Damit sich eine Fördermaßnahme auch wirtschaftlich lohnt, genügen bereits zwei Jugendliche,
