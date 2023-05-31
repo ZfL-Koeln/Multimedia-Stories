@@ -4,7 +4,7 @@
 			„Ich kann mich ausprobieren und meinen eigenen Lehrstil finden.“
 		</p>
 	</div>
-	<div class="w-full h-full lg:w-7/12 px-16">
+	<div class="w-full h-full lg:w-7/12 lg:py-8 px-16">
 		<iframe class="aspect-video w-full" src="https://www.youtube-nocookie.com/embed/bq6elS95_kc" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		<p class="font-roboto text-3xl 2xl:text-5xl text-center lg:text-left font-bold my-4 md:pt-8">
 			Sophia Pentinghaus, Studentin
