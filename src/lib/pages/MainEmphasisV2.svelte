@@ -83,7 +83,7 @@
 		<figure class="col-auto image-container image-left bg-contain">
 			<div class="flex flex-col justify-evenly text-center image-hover-content w-full h-full text-white text-3xl  font-roboto">
 				Sprachförderung
-				<button on:click={() => openModal(0)} class="mx-auto border-[2px] border-white text-white text-2xl font-roboto rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-300">
+				<button on:click={() => openModal(0)} class="mx-auto border-[2px] border-white text-white text-2xl font-roboto rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
 					mehr Infos
 				</button>
 			</div>
@@ -91,7 +91,7 @@
 		<figure class="col-auto image-container image-middle-left bg-contain">
 			<div class="flex flex-col justify-evenly text-center image-hover-content w-full h-full text-white text-3xl  font-roboto">
 				Bildungsüberänge
-				<button on:click={() => openModal(1)} class="mx-auto border-[2px] border-white text-white text-2xl font-roboto rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-300">
+				<button on:click={() => openModal(1)} class="mx-auto border-[2px] border-white text-white text-2xl font-roboto rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
 					mehr Infos
 				</button>
 			</div>
@@ -99,7 +99,7 @@
 		<figure class="col-auto image-container image-middle-right">
 			<div class="flex flex-col justify-evenly text-center image-hover-content w-full h-full text-white text-3xl  font-roboto">
 				Lernlücken
-				<button on:click={() => openModal(2)} class="mx-auto border-[2px] border-white text-white text-2xl font-roboto rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-300">
+				<button on:click={() => openModal(2)} class="mx-auto border-[2px] border-white text-white text-2xl font-roboto rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
 					mehr Infos
 				</button>
 			</div>
@@ -107,7 +107,7 @@
 		<figure class="col-auto image-container image-right">
 			<div class="flex flex-col justify-evenly text-center image-hover-content w-full h-full text-white text-3xl  font-roboto">
 				Sozial-Emotionales Lernen
-				<button on:click={() => openModal(3)} class="mx-auto border-[2px] border-white text-white text-2xl font-roboto rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-300">
+				<button on:click={() => openModal(3)} class="mx-auto border-[2px] border-white text-white text-2xl font-roboto rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
 					mehr Infos
 				</button>
 			</div>

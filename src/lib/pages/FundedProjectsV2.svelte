@@ -14,7 +14,7 @@
 		<div class="bg-black w-1/6 h-2"></div>
 	</div>
 	<!-- Subheading -->
-	<p class="font-roboto text-2xl md:text-2xl xl:text-3xl px-8 lg:px-24 pb-8">
+	<p class="font-roboto text-2xl md:text-xl xl:text-2xl px-8 lg:px-24 pb-8">
 		Das Zentrum für Lehrer*innenbildung der Universität zu Köln fördert bildungsbenachteiligte und neu zugewanderte
 		Kinder und Jugendliche mit den Bildungsprojekten <b>WEICHENSTELLUNG für Viertklässler</b> und <b>PROMPT! Bildungsteilhabe</b> stärken.
 	</p>
@@ -28,7 +28,7 @@
 			<div class="flex justify-center pt-2 pb-8">
 				<div class="bg-black w-1/6 h-2"></div>
 			</div>
-		<span class="w-full lg:w-4/5 text-2xl sm:text-3xl lg:text-base xl:text-2xl 3xl:text-3xl font-roboto px-4 lg:p-4">
+		<span class="w-full lg:w-2/3 3xl:w-4/5 text-2xl lg:text-base md:text-4xl xl:text-xl 2xl:text-2xl 3xl:text-3xl font-roboto px-4 lg:p-4">
 			WEICHENSTELLUNG für Viertklässler ist
 			ein Förderprogramm der ZEIT-Stiftung
 			Ebelin und Gerd Bucerius. Es richtet sich
