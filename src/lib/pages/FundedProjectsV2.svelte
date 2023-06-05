@@ -1,5 +1,5 @@
 <script>
-	import img from "$lib/assets/img/stock-img/istockphoto-1033164240-1024x1024.jpg";
+	import img from "$lib/assets/img/stock-img/istockphoto-1033164240.jpg";
 </script>
 
 

@@ -64,7 +64,7 @@
 	}
 
 	.image-container.image-right {
-		background-image: url("$lib/assets/img/stock-img/annika-gordon-cZISY8ai2iA-unsplash.jpg");
+		background-image: url("$lib/assets/img/stock-img/domingo-alvarez-e-Cs3y8Mn6-Gk-unsplash.jpg");
 		background-position: center;
 	}
 
