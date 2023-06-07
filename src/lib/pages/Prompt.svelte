@@ -3,7 +3,7 @@
 </script>
 
 
-<section id="page-15" class="min-h-screen lg:max-h-screen overflow-hidden page-container"  data-scrollspy="PROMPT!">
+<section id="page-15" class="min-h-screen lg:max-h-screen overflow-hidden page-container" data-scrollspy="PROMPT!">
 	<div class="flex flex-col ">
 
 		<div class="flex flex-col justify-center h-2/6">

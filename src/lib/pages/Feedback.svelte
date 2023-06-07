@@ -70,7 +70,7 @@
 			ich das schaffe."
 
 		</article>
-		<p class="peer-hover:opacity-100 font-roboto text-base md:text-lg lg:text-xl 2xl:text-2xl font-light pt-4 opacity-0  transition-opacity duration-500 flex flex-col justify-end">
+		<p class="peer-hover:opacity-100 font-roboto text-base md:text-lg lg:text-xl 2xl:text-2xl font-light pt-4 lg:opacity-0  transition-opacity duration-500 flex flex-col justify-end">
 			Aleyna, 9 Jahre, ist mit ihrer Familie aus Syrien geflüchtet. Lehramtsstudierende im
 			Projekt PROMPT! Bildungsteilhabe stärken helfen ihr beim Deutschlernen.
 		</p>
@@ -85,7 +85,7 @@
 				Beispiel, wenn man ins Museum geht.
 				Da lernt man dann mehr über die Römer."
 			</article>
-			<p class="peer-hover:opacity-100 font-roboto text-base md:text-lg lg:text-xl 2xl:text-2xl font-light pt-4 opacity-0 transition-opacity duration-500 flex flex-col justify-end">
+			<p class="peer-hover:opacity-100 font-roboto text-base md:text-lg lg:text-xl 2xl:text-2xl font-light pt-4 lg:opacity-0 transition-opacity duration-500 flex flex-col justify-end">
 				Martin,11 Jahre, gefällt am Projekt WEICHENSTELLUNG für
 				Viertklässler, dass man nicht nur in der Schule lernt, sondern auch
 				Ausflüge unternimmt.
@@ -100,7 +100,7 @@
 			Sachen nicht so gut können. Ich finde auch die Ausflüge
 			gut und dass die Studenten zu uns in die Schule kommen.“
 		</article>
-			<p class="peer-hover:opacity-100 font-roboto text-base md:text-lg lg:text-xl 2xl:text-2xl font-light pt-4 opacity-0 hover:opacity-100 transition-opacity duration-500 flex flex-col justify-end">
+			<p class="peer-hover:opacity-100 font-roboto text-base md:text-lg lg:text-xl 2xl:text-2xl font-light pt-4 lg:opacity-0 hover:opacity-100 transition-opacity duration-500 flex flex-col justify-end">
 				Amela, 11 Jahre, hat mit Hilfe des Projekts
 				WEICHENSTELLUNG für Viertklässler den erfolgreichen
 				Wechsel auf die weiterführende Schule geschafft.

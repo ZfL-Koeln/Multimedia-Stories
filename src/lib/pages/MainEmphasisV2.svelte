@@ -38,14 +38,16 @@
 		width: 100%;
 	}
 
-	.image-container > .image-hover-content {
-		opacity: 0;
-		transition: all 100ms ease-in-out;
-	}
+	@media screen and (min-width: 1024px) {
 
-	.image-container > .image-hover-content:hover {
-		opacity: 75%;
-		backdrop-filter: brightness(0%);
+		.image-container > .image-hover-content {
+			opacity: 0;
+			transition: all 250ms ease-in-out;
+		}
+		.image-container > .image-hover-content:hover {
+			opacity: 75%;
+			backdrop-filter: brightness(0%);
+		}
 	}
 
 	.image-container.image-left {
@@ -71,7 +73,7 @@
 </style>
 <section id="page-13" class="relative page-container h-screen bg-black" data-scrollspy="Schwerpunkte">
 	<div class="flex flex-col justify-center h-1/6 lg:h-2/6">
-		<div class="text-6xl 2xl:text-8xl text-white text-center font-sans pt-2 " style="font-weight: bold">
+		<div class="text-5xl sm:text-6xl 2xl:text-8xl text-white text-center font-sans pt-2 " style="font-weight: bold">
 			SCHWERPUNKTE
 		</div>
 		<div class="flex justify-center pb-12">
@@ -81,7 +83,7 @@
 
 	<div class="h-5/6 w-3/5 mb-8 mx-auto lg:m-0 lg:w-full lg:h-2/5 grid grid-rows-4 lg:grid-rows-1 lg grid-cols-1 lg:grid-cols-4 pb-4">
 		<figure class="col-auto image-container image-left bg-contain">
-			<div class="flex flex-col justify-evenly text-center image-hover-content w-full h-full text-white text-3xl  font-roboto">
+			<div class="flex flex-col justify-evenly text-center image-hover-content bg-black bg-opacity-75 w-full h-full text-white text-2xl sm:text-3xl  font-roboto">
 				Sprachförderung
 				<button on:click={() => openModal(0)} class="mx-auto border-[2px] border-white text-white text-2xl font-roboto rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
 					mehr Infos
@@ -89,7 +91,7 @@
 			</div>
 		</figure>
 		<figure class="col-auto image-container image-middle-left bg-contain">
-			<div class="flex flex-col justify-evenly text-center image-hover-content w-full h-full text-white text-3xl  font-roboto">
+			<div class="flex flex-col justify-evenly text-center image-hover-content bg-black bg-opacity-75  w-full h-full text-white text-2xl sm:text-3xl  font-roboto">
 				Bildungsüberänge
 				<button on:click={() => openModal(1)} class="mx-auto border-[2px] border-white text-white text-2xl font-roboto rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
 					mehr Infos
@@ -97,7 +99,7 @@
 			</div>
 		</figure>
 		<figure class="col-auto image-container image-middle-right">
-			<div class="flex flex-col justify-evenly text-center image-hover-content w-full h-full text-white text-3xl  font-roboto">
+			<div class="flex flex-col justify-evenly text-center image-hover-content bg-black bg-opacity-75  w-full h-full text-white text-2xl sm:text-3xl  font-roboto">
 				Lernlücken
 				<button on:click={() => openModal(2)} class="mx-auto border-[2px] border-white text-white text-2xl font-roboto rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
 					mehr Infos
@@ -105,7 +107,7 @@
 			</div>
 		</figure>
 		<figure class="col-auto image-container image-right">
-			<div class="flex flex-col justify-evenly text-center image-hover-content w-full h-full text-white text-3xl  font-roboto">
+			<div class="flex flex-col justify-evenly text-center image-hover-content bg-black bg-opacity-75  w-full h-full text-white text-2xl sm:text-3xl  font-roboto">
 				Sozial-Emotionales Lernen
 				<button on:click={() => openModal(3)} class="mx-auto border-[2px] border-white text-white text-2xl font-roboto rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
 					mehr Infos

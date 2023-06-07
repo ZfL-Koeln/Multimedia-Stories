@@ -31,7 +31,7 @@
         </div>
 
         <div class="bg-black inset-y-0 right-0 lg:pl-8 lg:pr-0 lg:mb-0 lg:mx-0 lg:w-1/2 xl:w-2/3 xl:max-w-full lg:absolute xl:px-0 p-0">
-            <img class="h-screen object-cover page-container p-0" src="{starter}" alt=""/>
+            <img class="h-screen object-cover page-container p-0" src="{starter}" loading="lazy" alt=""/>
         </div>
         <img src="{zfl}" alt="ZfL-Logo" class="absolute top-1 right-1 w-44 invert-0">
     </section>
