@@ -1,5 +1,5 @@
 <script>
-	import page3 from "$lib/assets/img/stock-img/page-14.jpg";
+	//import page3 from "$lib/assets/img/stock-img/page-14.jpg";
 </script>
 
 <section id="page-14" class="grid grid-cols-1 lg:grid-cols-2 gap-0 min-h-screen page-container font-roboto" data-scrollspy="Weichenstellung">
@@ -30,8 +30,9 @@
 
 	</article>
 	<figure class="h-screen page-scroll-subsection">
+		<!--
 		<img src="{page3}" alt="Stock P3" class="h-full lg:h-auto object-cover lg:object-contain lg:pt-16">
-
+		-->
 	</figure>
 
 </section>

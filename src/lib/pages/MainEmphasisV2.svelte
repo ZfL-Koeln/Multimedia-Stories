@@ -71,15 +71,16 @@
 	}
 
 </style>
-<section id="page-13" class="relative page-container h-screen bg-black" data-scrollspy="Schwerpunkte">
+<section id="page-13" class="relative page-container h-screen bg-black" data-scrollspy="Schwerpunkte der Projekte">
 	<div class="flex flex-col justify-center h-1/6 lg:h-2/6">
-		<div class="text-5xl sm:text-6xl 2xl:text-8xl text-white text-center font-sans pt-2 " style="font-weight: bold">
+		<div class="text-6xl 2xl:text-7xl text-white text-center font-sans font-extrabold pt-2 " style="font-weight: bold">
 			SCHWERPUNKTE
 		</div>
-		<div class="flex justify-center pb-12">
+		<div class="flex justify-center pt-2 pb-12">
 			<div class="bg-white w-2/12 h-2"></div>
 		</div>
 	</div>
+
 
 	<div class="h-5/6 w-3/5 mb-8 mx-auto lg:m-0 lg:w-full lg:h-2/5 grid grid-rows-4 lg:grid-rows-1 lg grid-cols-1 lg:grid-cols-4 pb-4">
 		<figure class="col-auto image-container image-left bg-contain">

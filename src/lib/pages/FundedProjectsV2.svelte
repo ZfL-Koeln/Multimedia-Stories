@@ -12,14 +12,14 @@
 
 		<div>
 			<!-- Headline -->
-			<h1 class="text-6xl 2xl:text-7xl text-black text-center font-sans pt-8 ">
+			<h1 class="text-6xl 2xl:text-7xl font-extrabold text-center font-sans pt-8 ">
 				UNSERE FÖRDERPROJEKTE
 			</h1>
 			<div class="flex justify-center pt-2 pb-8">
 				<div class="bg-black w-1/6 h-2"></div>
 			</div>
 			<!-- Subheading -->
-			<p class="font-roboto text-xl md:text-xl xl:text-2xl px-8 h-fit lg:px-16 pb-4">
+			<p class="font-roboto text-xl md:text-lg xl:text-xl px-8 h-fit lg:px-16 pb-4">
 				Das Zentrum für Lehrer*innenbildung der Universität zu Köln fördert bildungsbenachteiligte und neu zugewanderte
 				Kinder und Jugendliche mit den Bildungsprojekten <b>WEICHENSTELLUNG für Viertklässler</b> und <b>PROMPT!
 				Bildungsteilhabe</b> stärken.
@@ -35,14 +35,9 @@
 	<!-- Text Links, Buttons Rechts -->
 	<div class="flex flex-col lg:flex-row w-full h-full lg:h-fit grow-0 mb-8 lg:mb-4">
 
-		<article class="w-full flex flex-col lg:w-1/2 h-screen lg:h-fit">
-			<h1 class="lg:hidden text-5xl 2xl:text-6xl text-black text-center font-sans pt-8 ">
-				WEICHENSTELLUNG
-			</h1>
-			<div class="lg:hidden flex justify-center pt-2 pb-4">
-				<div class=" bg-black w-1/6 h-2"></div>
-			</div>
-			<span class="w-full text-2xl lg:text-base md:text-3xl xl:text-xl 2xl:text-xl 3xl:text-2xl font-roboto px-4 lg:p-4">
+		<article class="w-full flex flex-col lg:w-1/2 lg:h-fit">
+
+			<span class="w-full text-lg 3xl:text-xl font-roboto p-12 py-4 lg:px-8 xl:px-16">
 		WEICHENSTELLUNG für Viertklässler ist
 		ein Förderprogramm der ZEIT-Stiftung
 		Ebelin und Gerd Bucerius. Es richtet sich
@@ -56,22 +51,17 @@
 		zum Ende des sechsten Schuljahrs. Sie
 		unterrichten sie, arbeiten mit ihnen in
 		Lerngruppen und unternehmen einmal im
-		Monat kulturelle Aktivitäten mit ihnen
+		Monat kulturelle Aktivitäten mit ihnen.
 		</span>
-			<button class="bg-pink-200 hover:bg-pink-300 text-black font-bold py-2 px-4 border border-black rounded-full mx-auto mt-8 lg:mt-0" style="box-shadow:+6px 6px black;">
+			<button class="bg-[#F7D3E4] hover:bg-pink-300 text-black font-bold py-2 px-8 border border-black rounded-full mx-auto mt-8 lg:mt-0" style="box-shadow:+6px 6px black;">
 				mehr Infos zu<br/>
 				WEICHENSTELLUNG
 			</button>
 		</article>
 
-		<article class="w-full flex flex-col lg:w-1/2 h-screen lg:h-fit">
-			<h1 class="lg:hidden text-5xl 2xl:text-6xl text-black text-center font-sans pt-8">
-				PROMPT!
-			</h1>
-			<div class="lg:hidden flex justify-center pt-2 pb-4">
-				<div class="bg-black w-1/6 h-2"></div>
-			</div>
-			<span class="w-full text-2xl lg:text-base md:text-3xl xl:text-xl 2xl:text-xl 3xl:text-2xl font-roboto px-4 lg:p-4">
+		<article class="w-full flex flex-col lg:w-1/2 lg:h-fit">
+
+			<span class="w-full text-lg 3xl:text-xl font-roboto p-12 py-4 lg:px-8 xl:px-16">
 			PROMPT! Bildungsteilhabe stärken wurde vom ZfL ins Leben
 			gerufen und wendet sich an neu zugewanderte und
 			bildungsbenachteiligte Kinder und Jugendliche. Sie sollen
@@ -86,7 +76,7 @@
 		</span>
 
 			<!-- Buttons -->
-			<button class="bg-pink-200 hover:bg-pink-300 text-black font-bold py-2 px-4 border border-black rounded-full mx-auto mt-8 lg:mt-0" style="box-shadow:+6px 6px black;">
+			<button class="bg-pink-200 hover:bg-pink-300 text-black font-bold py-2 px-8 border border-black rounded-full mx-auto mt-8 lg:mt-0" style="box-shadow:+6px 6px black;">
 				mehr Infos zu<br/>
 				PROMPT!
 			</button>

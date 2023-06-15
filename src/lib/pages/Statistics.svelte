@@ -3,9 +3,9 @@
 </script>
 
 
-<section id="page-10" class=" relative page-container max-h-screen h-screen w-full overflow-clip bg-gradient-pink" data-scrollspy="Statistik">
+<section id="page-10" class=" relative page-container lg:h-screen w-full overflow-clip bg-gradient-pink" data-scrollspy="Weiterbildung für Studierende">
 	<p class="text-3xl text-center md:text-4xl xl:text-5xl 2xl:text-5xl mx-auto pb-0 lg:pb-8 p-8 font-sans font-extrabold ">
-		Weiterbildung für Studierende durch das Projekt KommMit/PROMPT!
+		Wie profitieren Studierende von den Projekten?
 	</p>
 
 	<div class="w-full h-auto grid grid-cols-2 lg:grid-cols-4 leading-3 lg:grid-rows-4 pt-0 md:px-16 2xl:px-40 2xl:pt-12 3xl:pt-32 lg:gap-0 font-roboto">
@@ -60,6 +60,9 @@
 	</div>
 
 
-	<small class="absolute w-full p-4 bottom-1 lg:left-2 text-center lg:text-left">Quelle: Datenerhebung des Zentrum für
-		Lehrer*innenbildung zur Evaluation des Projektes <i>KommMit im Team</i></small>
+	<small class="w-full px-8 lg:px-0 lg:absolute p-4 bottom-1 lg:left-2 text-center lg:text-left">
+		<div>
+			Quelle: Datenerhebung des Zentrum für
+			Lehrer*innenbildung zur Evaluation des Projekts <i>KommMit im Team</i></div>
+	</small>
 </section>
