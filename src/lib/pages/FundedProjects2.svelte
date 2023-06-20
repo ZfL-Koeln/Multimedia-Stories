@@ -7,7 +7,7 @@
 
 </style>
 
-<section id="page-19" class="flex flex-col lg:flex-row h-screen page-container text-white page-background" data-scrollspy="Wirtschaftlich sinnvoll">
+<section id="page-19" class="flex flex-col lg:flex-row lg:h-screen page-container text-white page-background" data-scrollspy="Wirtschaftlich sinnvoll">
 	<div class="w-full lg:w-5/12 flex flex-col justify-between py-12 lg:pl-16 lg:py-32">
 		<div>
 			<p class="text-4xl tracking-wide text-center lg:text-left md:text-5xl xl:text-6xl 2xl:text-7xl font-sans font-extrabold">

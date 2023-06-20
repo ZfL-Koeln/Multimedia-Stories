@@ -1,11 +1,11 @@
-<section id="EducationalImbalance" class="flex flex-col lg:flex-row page-container h-screen bg-gradient-pink" data-scrollspy="Warum Bildungsprojekte?">
+<section id="EducationalImbalance" class="flex flex-col lg:flex-row page-container lg:h-screen bg-gradient-pink" data-scrollspy="Warum Bildungsprojekte?">
 
 
 	<div class="w-full lg:w-5/12 flex justify-center">
 		<div class="flex flex-col pt-12 lg:px-16 lg:pt-32">
-			<p class="text-5xl text-center lg:text-left xl:text-5xl 2xl:text-6xl mx-auto font-sans font-extrabold ">
+			<h2 class="text-4xl md:text-6xl 2xl:text-7xl text-center lg:text-left xl:text-5xl mx-auto font-sans font-extrabold break-words">
 				Bildungsungleichheit entgegenwirken
-			</p>
+			</h2>
 			<div class="flex justify-center lg:justify-start pt-8">
 				<div class="bg-black w-1/3 h-2"></div>
 			</div>

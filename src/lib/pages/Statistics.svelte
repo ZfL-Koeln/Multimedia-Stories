@@ -8,17 +8,17 @@
 		Wie profitieren Studierende von den Projekten?
 	</p>
 
-	<div class="w-full h-auto grid grid-cols-2 lg:grid-cols-4 leading-3 lg:grid-rows-4 pt-0 md:px-16 2xl:px-40 2xl:pt-12 3xl:pt-32 lg:gap-0 font-roboto">
+	<div class="w-full h-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 leading-3 lg:grid-rows-4 pt-0 md:px-16 2xl:px-40 2xl:pt-12 3xl:pt-32 lg:gap-0 font-roboto">
 
 	<!-- Bild Mitte -->
-		<div class="col-span-2 lg:row-span-2 lg:col-start-2 lg:row-start-2">
+		<div class="col-span-2 sm:col-span-2 lg:row-span-2 lg:col-start-2 lg:row-start-2">
 		<figure class="w-full flex justify-center">
 				<img src="{img01}" class="aspect-auto w-2/3 lg:w-full" alt="Illustration 01"/>
 			</figure>
 		</div>
 
 		<!-- Oben -->
-		<div class="lg:col-span-2 lg:col-start-2 lg:flex lg:justify-center">
+		<div class="lg:col-span-2 sm:col-span-1 lg:col-start-2 lg:flex lg:justify-center">
 			<article class="font-sans pl-8 pb-8 flex flex-row lg:flex-col w-fit justify-center">
 				<span class="text-[#00b4dc] font-extrabold text-3xl lg:text-5xl">90%&nbsp;</span>
 				<span class="text-lg xl:text-2xl font-normal">der befragten Studierenden<br/>entwickeln ein besseres Verständnis<br/>für Kinder und Jugendliche</span>

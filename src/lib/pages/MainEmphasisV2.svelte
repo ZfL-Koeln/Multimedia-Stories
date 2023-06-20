@@ -73,7 +73,7 @@
 </style>
 <section id="page-13" class="relative page-container h-screen bg-black" data-scrollspy="Schwerpunkte der Projekte">
 	<div class="flex flex-col justify-center h-1/6 lg:h-2/6">
-		<div class="text-6xl 2xl:text-7xl text-white text-center font-sans font-extrabold pt-2 " style="font-weight: bold">
+		<div class="text-6xl 2xl:text-7xl text-white text-center hyphens-auto font-sans font-extrabold pt-2 break-words">
 			SCHWERPUNKTE
 		</div>
 		<div class="flex justify-center pt-2 pb-12">
