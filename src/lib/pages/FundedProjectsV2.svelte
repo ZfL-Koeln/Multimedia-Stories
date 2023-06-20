@@ -1,12 +1,5 @@
 <script></script>
 
-<style>
-	.bg-img {
-		background-image: url("$lib/assets/img/stock-img/istockphoto-1033164240.jpg");
-		background-repeat: no-repeat;
-	}
-</style>
-
 <section id="our-projects" class="min-h-screen flex flex-col lg:h-screen page-container" data-scrollspy="Unsere Förderprojekte">
 	<div class="h-screen flex flex-col lg:h-auto grow">
 
@@ -83,5 +76,11 @@
 		</article>
 	</div>
 
-
 </section>
+
+<style>
+	.bg-img {
+		background-image: url("$lib/assets/img/stock-img/istockphoto-1033164240.jpg");
+		background-repeat: no-repeat;
+	}
+</style>

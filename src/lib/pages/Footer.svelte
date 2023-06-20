@@ -1,7 +1,6 @@
 <script>
     import zfl from "$lib/assets/img/zfl-logo.png";
 
-
     function openModal() {
         document.getElementById("modal2").classList.remove("hidden");
     }

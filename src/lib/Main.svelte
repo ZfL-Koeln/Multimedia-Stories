@@ -1,19 +1,11 @@
 <script>
 	import Intro from "./pages/Intro.svelte"
-	//import NoGraduation from "./pages/NoGraduation.svelte"
-	//import Page3 from "./pages/Page3.svelte"
 	import Feedback from "./pages/Feedback.svelte"
-	//import UnequalOpportunities from "./pages/UnequalOpportunities.svelte"
 	import Timeline from "./pages/Timeline.svelte"
-	//import FundedProjects from "./pages/FundedProjects.svelte"
 	import SophiaPentinghaus from "./pages/SophiaPentinghaus.svelte"
-	//import StudentAdvantages from "./pages/StudentAdvantages.svelte"
 	import Statistics from "./pages/Statistics.svelte"
 	import BarChart from "./pages/BarChart.svelte"
 	import AstridKraemer from "./pages/AstridKraemer.svelte"
-	//import MainEmphasis from "./pages/MainEmphasis.svelte"
-	//import SettingTheCourse from "./pages/SettingTheCourse.svelte"
-	//import Prompt from "./pages/Prompt.svelte"
 	import DanielKeil from "./pages/DanielKeil.svelte"
 	import BetuelSelcuk from "./pages/BetuelSelcuk.svelte"
 	import FundedProjects2 from "./pages/FundedProjects2.svelte"
@@ -50,48 +42,7 @@
 	<FundedProjects2/>
 	<CallToAction/>
 	<Footer/>
-
-	<!-- Aktuell Unbenutzt -->
-	<!--
-	<NoGraduation/>
-	<UnequalOpportunities/>
-	<FundedProjects/>
-	<StudentAdvantages/>
-	<MainEmphasis/>
-	<SettingTheCourse/>
-	<Prompt/>
-	-->
 </section>
-
-<!-- ################################################### -->
-<!-- Alte Seitenreihenfolge -->
-<!-- ################################################### -->
-<!--
-<section class="relative">
-<ScrollspyMap/>
-	<Intro/>
-	<NoGraduation/>
-	<Page3/>
-	<Feedback/>
-	<UnequalOpportunities/>
-	<Timeline/>
-	<FundedProjects/>
-	<SophiaPentinghaus/>
-	<StudentAdvantages/>
-	<Statistics/>
-	<BarChart/>
-	<AstridKraemer/>
-	<MainEmphasis/>
-	<SettingTheCourse/>
-	<Prompt/>
-	<Map/>
-	<DanielKeil/>
-	<BetuelSelcuk/>
-	<FundedProjects2/>
-	<CallToAction/>
-	<Footer/>
-</section>
--->
 
 <style lang="postcss">
 </style>

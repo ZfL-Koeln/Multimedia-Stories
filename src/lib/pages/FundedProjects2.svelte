@@ -1,12 +1,3 @@
-<style>
-	.page-background {
-		background: rgba(0, 0, 0, .50) url("$lib/assets/img/stock-img/kelly-sikkema-3-Tc_5LROrM-unsplash.jpg") center;
-		background-blend-mode: darken;
-		background-size: cover;
-	}
-
-</style>
-
 <section id="page-19" class="flex flex-col lg:flex-row lg:h-screen page-container text-white page-background" data-scrollspy="Wirtschaftlich sinnvoll">
 	<div class="w-full lg:w-5/12 flex flex-col justify-between py-12 lg:pl-16 lg:py-32">
 		<div>
@@ -44,3 +35,11 @@
 		</span>
 	</article>
 </section>
+
+<style>
+	.page-background {
+		background: rgba(0, 0, 0, .50) url("$lib/assets/img/stock-img/kelly-sikkema-3-Tc_5LROrM-unsplash.jpg") center;
+		background-blend-mode: darken;
+		background-size: cover;
+	}
+</style>
