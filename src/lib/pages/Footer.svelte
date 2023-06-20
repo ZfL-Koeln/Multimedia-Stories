@@ -2,11 +2,11 @@
     import zfl from "$lib/assets/img/zfl-logo.png";
 
     function openModal() {
-        document.getElementById("modal2").classList.remove("hidden");
+        document.getElementById("modal-imprint").classList.remove("hidden");
     }
 
     function closeModal() {
-        document.getElementById("modal2").classList.add("hidden");
+        document.getElementById("modal-imprint").classList.add("hidden");
     }
 
 
@@ -29,14 +29,14 @@
     }
 </script>
 
-<div id="modal2" use:clickOutside on:click_outside={closeModal}
+<div id="modal-imprint" use:clickOutside on:click_outside={closeModal}
      class="border-2 border-gray-200 fixed m-8 left-auto top-0 hidden lg:w-1/2 h-4/5 items-center overflow-y-scroll">
 
     <section class="relative bg-black p-8">
         <h2 class="text-[#ee9ac0] font-sans text-4xl font-extrabold uppercase">
             Impressum
         </h2>
-        <div id="footer-content">
+        <div id="imprint-content">
             <p>
                 <strong>Zentrum für Lehrer*innenbildung</strong><br>
                 Universität zu Köln<br>
@@ -81,15 +81,17 @@
             </p>
             <p>
                 <strong>Haftungsbeschränkung:</strong><br>
-            Das ZfL übernimmt keine Haftung für die Inhalte oder Aktualität externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+                Das ZfL übernimmt keine Haftung für die Inhalte oder Aktualität externer Links. Für den Inhalt der
+                verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
             </p>
             <p>
                 <strong>Fotos:</strong><br>
-            More Media (iStock), damircudic (iStock), Ryan Wallace (unsplash), lilartsy (unsplash) ,Vardan Papikyan (unsplash), Domingo Alvarez (unsplash), Kelly Sikkema (unsplash)
+                More Media (iStock), damircudic (iStock), Ryan Wallace (unsplash), lilartsy (unsplash) ,Vardan Papikyan
+                (unsplash), Domingo Alvarez (unsplash), Kelly Sikkema (unsplash)
             </p>
             <p>
                 <strong>Illustrationen & Icons:</strong><br>
-            sketchify (Canva), pause08 (Canva), Muhammad Usman (Canva), nounproject (Canva)
+                sketchify (Canva), pause08 (Canva), Muhammad Usman (Canva), nounproject (Canva)
             </p>
             ©2023 Universität zu Köln
         </div>
@@ -113,17 +115,20 @@
     <div class="lg:translate-y-12 w-full lg:w-fit">
         <img src="{zfl}" alt="ZfL Logo" class="w-60 mx-auto lg:ml-8">
     </div>
-    <nav id="linkbar" class="flex justify-center text-white py-4">
-        <span class=" after:content-['|']"><a href="https://zfl.uni-koeln.de">Website</a></span>
-        <span class=" after:content-['|']"><a href="#">Kontakt</a></span>
-        <span class=" after:content-['|']"><a href="https://www.instagram.com/zflkoeln/">Instagram</a></span>
-        <span class=" after:content-['|']"><a href="https://www.facebook.com/zflkoeln">Facebook</a></span>
-        <span class=""><a href="#" on:click={openModal}>Impressum</a></span>
+    <nav id="navbar" class="flex justify-center text-white py-4">
+        <a href="https://zfl.uni-koeln.de">Website</a>
+        <a href="https://www.instagram.com/zflkoeln/">Instagram</a>
+        <a href="https://www.facebook.com/zflkoeln">Facebook</a>
+        <span on:click={openModal}>Impressum</span>
     </nav>
 </footer>
 
 <style lang="scss">
-  #footer-content {
+  #modal-imprint {
+    z-index: 2;
+  }
+
+  #imprint-content {
     color: #fff;
     margin-top: 2rem;
     font-family: Roboto, sans-serif !important;
@@ -133,7 +138,16 @@
     }
   }
 
-  footer #linkbar a {
-    padding: 0 5px;
+  footer #navbar {
+    cursor: pointer;
+
+    a::after {
+      padding: 0 5px;
+      content: '|';
+    }
+
+    a:last-child::after {
+      content: '';
+    }
   }
 </style>
