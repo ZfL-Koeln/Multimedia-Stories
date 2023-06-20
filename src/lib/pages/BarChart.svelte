@@ -27,19 +27,19 @@
 							<td class="pr-2">
 								<div class="w-10 lg:w-12 h-10 lg:h-12 bg-[#e66ea5] rounded-lg"></div>
 							</td>
-							<td>Einschätzung der<br/>Studierenden</td>
+							<td>Einschätzung der<br>Studierenden</td>
 						</tr>
 						<tr class="text-[#33c3e3]">
 							<td class="pr-2">
 								<div class="w-10 lg:w-12 h-10 lg:h-12 bg-[#33c3e3] rounded-lg"></div>
 							</td>
-							<td>Selbsteinschätzung<br/>der Schüler*innen</td>
+							<td>Selbsteinschätzung<br>der Schüler*innen</td>
 						</tr>
 						<tr class="text-[#a15a8b]">
 							<td class="pr-2">
 								<div class="w-10 lg:w-12 h-10 lg:h-12 bg-[#a15a8b] rounded-lg"></div>
 							</td>
-							<td>Einschätzung<br/>der Lehrkräfte</td>
+							<td>Einschätzung<br>der Lehrkräfte</td>
 						</tr>
 					</table>
 				</div>

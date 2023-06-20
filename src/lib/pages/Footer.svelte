@@ -28,12 +28,10 @@
             }
         }
     }
-
-
 </script>
 
 <div id="modal2" use:clickOutside on:click_outside={closeModal}
-     class="border-2 border-gray-200 fixed m-8 left-auto top-0  lg:w-1/2 h-4/5 items-center overflow-y-scroll">
+     class="border-2 border-gray-200 fixed m-8 left-auto top-0 hidden lg:w-1/2 h-4/5 items-center overflow-y-scroll">
 
     <section class="relative bg-black p-8">
         <h2 class="text-[#ee9ac0] font-sans text-4xl font-extrabold uppercase">

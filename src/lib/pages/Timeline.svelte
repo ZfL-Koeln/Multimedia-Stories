@@ -58,7 +58,7 @@
 				durch Schulschließung, Home-Schooling
 				und Wechselunterricht entstandenen
 				Probleme bildungsbenachteiligter
-				Schüler*innen annimmt.<br/>
+				Schüler*innen annimmt.<br>
 			</span>
 
 			<span>

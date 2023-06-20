@@ -21,7 +21,7 @@
 		<div class="lg:col-span-2 sm:col-span-1 lg:col-start-2 lg:flex lg:justify-center">
 			<article class="font-sans pl-8 pb-8 flex flex-row lg:flex-col w-fit justify-center">
 				<span class="text-[#00b4dc] font-extrabold text-3xl lg:text-5xl">90%&nbsp;</span>
-				<span class="text-lg xl:text-2xl font-normal">der befragten Studierenden<br/>entwickeln ein besseres Verständnis<br/>für Kinder und Jugendliche</span>
+				<span class="text-lg xl:text-2xl font-normal">der befragten Studierenden<br>entwickeln ein besseres Verständnis<br>für Kinder und Jugendliche</span>
 			</article>
 		</div>
 
@@ -29,7 +29,7 @@
 		<div class="lg:row-start-2 lg:flex lg:justify-end">
 			<article class="font-sans pl-8 pb-8 flex flex-row lg:flex-col lg:text-right">
 				<span class="text-[#00b4dc] font-extrabold text-3xl lg:text-5xl">70%&nbsp;</span>
-				<span class="text-lg xl:text-2xl font-normal">der befragten Studierenden<br/> bauen das Wissen über<br/> Lernstrategien aus</span>
+				<span class="text-lg xl:text-2xl font-normal">der befragten Studierenden<br> bauen das Wissen über<br> Lernstrategien aus</span>
 			</article>
 		</div>
 
@@ -37,7 +37,7 @@
 		<div class="lg:col-start-1 lg:row-start-3 lg:flex lg:justify-end">
 			<article class="font-sans pl-8 pb-8 flex flex-row lg:flex-col lg:text-right">
 				<span class="text-[#00b4dc] font-extrabold text-3xl lg:text-5xl">85%&nbsp;</span>
-				<span class="text-lg xl:text-2xl font-normal">der befragten Studierenden fühlen<br/>sich in ihrem Berufswunsch bestärkt</span>
+				<span class="text-lg xl:text-2xl font-normal">der befragten Studierenden fühlen<br>sich in ihrem Berufswunsch bestärkt</span>
 			</article>
 		</div>
 
@@ -45,7 +45,7 @@
 		<div class="lg:col-start-4 lg:row-start-2">
 			<article class="font-sans pl-8 pb-8 lg:pl-0 flex flex-row lg:flex-col">
 				<span class="text-[#00b4dc] font-extrabold text-3xl lg:text-5xl">65%&nbsp;</span>
-				<span class="text-lg xl:text-2xl font-normal">der befragten Studierenden<br/>erweitern ihr Verständnis für<br/>sprachsensiblen Unterricht</span>
+				<span class="text-lg xl:text-2xl font-normal">der befragten Studierenden<br>erweitern ihr Verständnis für<br>sprachsensiblen Unterricht</span>
 			</article>
 		</div>
 
@@ -53,7 +53,7 @@
 		<div class="lg:col-start-4 lg:row-start-3 col-span-2 lg:col-span-1 flex justify-center lg:flex-none">
 			<article class="my-auto font-sans pl-8 pb-8 lg:pl-0 flex flex-row lg:flex-col">
 				<span class="text-[#00b4dc] font-extrabold text-3xl lg:text-5xl">80%&nbsp;</span>
-				<span class="text-lg xl:text-2xl font-normal">der befragten Studierenden können<br/>Förderbedarfe besser erkennen</span>
+				<span class="text-lg xl:text-2xl font-normal">der befragten Studierenden können<br>Förderbedarfe besser erkennen</span>
 			</article>
 		</div>
 

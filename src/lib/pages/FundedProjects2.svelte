@@ -35,7 +35,7 @@
 		Die Studie zeigt: Junge Menschen, die durch eine bessere Ausbildung in qualifiziertere Berufe gehen, zahlen auch
 		mehr Steuern
 		und sind seltener arbeitslos. Eine gezielte Hilfe beim Lernen und bei der Jobsuche hilft also nicht nur Betroffenen,
-		sondern allen.<br/><br/>
+		sondern allen.<br><br>
 		<div class="flex justify-center w-full lg:hidden">
 			<a href="" class="mx-auto border-[2px] border-white text-white font-roboto font-semibold rounded-full bg-opacity-0 hover:bg-opacity-10 w-fit hover:drop-shadow-2xl px-12 py-4 bg-white transition-colors duration-300 ease-in-out">
 				zur Studie

@@ -16,7 +16,7 @@
 		Fachkräfte können nicht ausgebildet werden,
 		Langzeitarbeitslosigkeit hat neben gesundheitlichen
 		auch wirtschaftliche Folgen.
-		<br/><br/>
+		<br><br>
 		<p class="text-lg md:text-xl xl:text-xl pb-8">
 			Klaus Klemm (2023): Jugendliche ohne Hauptschulabschluss.
 			Demografische Verknappung und qualifikatorische Vergeudung.

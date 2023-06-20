@@ -25,7 +25,7 @@
 			</figure>
 			<section class="text-black text-2xl md:text-4xl lg:text-2xl xl:text-2xl 2xl:text-3xl 3xl:text-4xl p-12 lg:p-16 2xl:p-20  w-full h-screen lg:h-fit lg:w-1/2 align-text-bottom pb-0 font-roboto" style="font-family: Roboto,serif;">
 				<span>
-				<b>PROMPT! Bildungsteilhabe stärken</b> wurde vom ZfL
+				<strong>PROMPT! Bildungsteilhabe stärken</strong> wurde vom ZfL
 				2014 ins Leben gerufen und wendet sich an neu
 				zugewanderte und bildungsbenachteiligten Kinder
 				und Jugendliche. Sie sollen möglichst schnell am

@@ -21,8 +21,8 @@
 			<!-- Subheading -->
 			<p class="font-roboto text-xl md:text-lg xl:text-xl px-8 h-fit lg:px-16 pb-4">
 				Das Zentrum für Lehrer*innenbildung der Universität zu Köln fördert bildungsbenachteiligte und neu zugewanderte
-				Kinder und Jugendliche mit den Bildungsprojekten <b>WEICHENSTELLUNG für Viertklässler</b> und <b>PROMPT!
-				Bildungsteilhabe</b> stärken.
+				Kinder und Jugendliche mit den Bildungsprojekten <strong>WEICHENSTELLUNG für Viertklässler</strong> und <strong>PROMPT!
+				Bildungsteilhabe</strong> stärken.
 			</p>
 		</div>
 
@@ -54,7 +54,7 @@
 		Monat kulturelle Aktivitäten mit ihnen.
 		</span>
 			<button class="bg-[#F7D3E4] hover:bg-pink-300 text-black font-bold py-2 px-8 border border-black rounded-full mx-auto mt-8 lg:mt-0" style="box-shadow:+6px 6px black;">
-				mehr Infos zu<br/>
+				mehr Infos zu<br>
 				WEICHENSTELLUNG
 			</button>
 		</article>
@@ -77,7 +77,7 @@
 
 			<!-- Buttons -->
 			<button class="bg-pink-200 hover:bg-pink-300 text-black font-bold py-2 px-8 border border-black rounded-full mx-auto mt-8 lg:mt-0" style="box-shadow:+6px 6px black;">
-				mehr Infos zu<br/>
+				mehr Infos zu<br>
 				PROMPT!
 			</button>
 		</article>
