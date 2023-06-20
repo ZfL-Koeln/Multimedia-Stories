@@ -1,8 +1,5 @@
 <script>
 	import page2 from "$lib/assets/img/stock-img/page-2.jpg";
-
-
-
 </script>
 
 

@@ -1,10 +1,10 @@
 <script>
-	import page3 from "$lib/assets/img/stock-img/page-14.jpg";
+	//import page3 from "$lib/assets/img/stock-img/page-14.jpg";
 </script>
 
 <section id="page-14" class="grid grid-cols-1 lg:grid-cols-2 gap-0 min-h-screen page-container font-roboto" data-scrollspy="Weichenstellung">
 	<article class="text-lg sm:text-xl md:text-2xl lg:text-xl 2xl:text-2xl 3xl:text-3xl h-screen p-16">
-		<b>WEICHENSTELLUNG für Viertklässler</b> ist ein von der
+		<strong>WEICHENSTELLUNG für Viertklässler</strong> ist ein von der
 		ZEIT-Stiftung Ebelin und Gerd Bucerius initiiertes
 		Projekt. Es unterstützt Grundschulkinder beim
 		Wechsel auf eine weiterführende Schule. Für viele
@@ -30,8 +30,9 @@
 
 	</article>
 	<figure class="h-screen page-scroll-subsection">
+		<!--
 		<img src="{page3}" alt="Stock P3" class="h-full lg:h-auto object-cover lg:object-contain lg:pt-16">
-
+		-->
 	</figure>
 
 </section>
