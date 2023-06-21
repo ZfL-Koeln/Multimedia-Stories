@@ -47,9 +47,9 @@
 		</div>
 
 	</div>
-	<small class="w-full px-8 lg:px-0 lg:absolute p-4 bottom-1 lg:left-2 text-center lg:text-left">
+	<p class="text-xs w-full px-8 lg:px-0 lg:absolute p-4 bottom-2 lg:left-2 text-center lg:text-left">
 
 				Quelle: Datenerhebung des Zentrums für Lehrer*innenbildung zur Evaluation des Projektes <i>WEICHENSTELLUNG für Viertklässler</i>
-		</small>
+		</p>
 
 </section>
