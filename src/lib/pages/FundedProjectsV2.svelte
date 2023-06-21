@@ -20,17 +20,19 @@
 		</div>
 
 		<!-- Bild Links Text Rechts-->
-		<figure class="grow block bg-center lg:bg-top bg-img bg-cover lg:bg-[length:55%]">
+		<figure class="grow block bg-center lg:bg-top bg-img bg-cover lg:bg-[length:75%] xl:bg-[length:65%]">
 
 		</figure>
 	</div>
-
+</section>
+<section id="our-projects-text" class="min-h-screen flex flex-col lg:h-screen page-container">
+	<div class="lg:h-screen flex flex-col lg:h-auto grow">
 	<!-- Text Links, Buttons Rechts -->
 	<div class="flex flex-col lg:flex-row w-full h-full lg:h-fit grow-0 mb-8 lg:mb-4">
 
 		<article class="w-full flex flex-col lg:w-1/2 lg:h-fit">
 
-			<span class="w-full text-lg 3xl:text-xl font-roboto p-12 py-4 lg:px-8 xl:px-16">
+			<span class="w-full text-xl lg:text-2xl 2xl:text-3xl 3xl:text-4xl font-roboto p-12 lg:py-16 lg:px-8 xl:px-16">
 		WEICHENSTELLUNG für Viertklässler ist
 		ein Förderprogramm der ZEIT-Stiftung
 		Ebelin und Gerd Bucerius. Es richtet sich
@@ -46,7 +48,7 @@
 		Lerngruppen und unternehmen einmal im
 		Monat kulturelle Aktivitäten mit ihnen.
 		</span>
-			<button class="bg-[#F7D3E4] hover:bg-pink-300 text-black font-bold py-2 px-8 border border-black rounded-full mx-auto mt-8 lg:mt-0" style="box-shadow:+6px 6px black;">
+			<button class="bg-[#F7D3E4] hover:bg-pink-300 text-black font-bold py-2 px-8 border border-black rounded-full mx-auto my-8 lg:mt-0" style="box-shadow:+6px 6px black;">
 				mehr Infos zu<br>
 				WEICHENSTELLUNG
 			</button>
@@ -54,7 +56,7 @@
 
 		<article class="w-full flex flex-col lg:w-1/2 lg:h-fit">
 
-			<span class="w-full text-lg 3xl:text-xl font-roboto p-12 py-4 lg:px-8 xl:px-16">
+			<span class="w-full text-xl lg:text-2xl 2xl:text-3xl 3xl:text-4xl font-roboto p-12 lg:py-16 lg:px-8 xl:px-16">
 			PROMPT! Bildungsteilhabe stärken wurde vom ZfL ins Leben
 			gerufen und wendet sich an neu zugewanderte und
 			bildungsbenachteiligte Kinder und Jugendliche. Sie sollen
@@ -69,13 +71,13 @@
 		</span>
 
 			<!-- Buttons -->
-			<button class="bg-pink-200 hover:bg-pink-300 text-black font-bold py-2 px-8 border border-black rounded-full mx-auto mt-8 lg:mt-0" style="box-shadow:+6px 6px black;">
+			<button class="bg-pink-200 hover:bg-pink-300 text-black font-bold py-2 px-8 border border-black rounded-full mx-auto my-8 lg:mt-0" style="box-shadow:+6px 6px black;">
 				mehr Infos zu<br>
 				PROMPT!
 			</button>
 		</article>
 	</div>
-
+	</div>
 </section>
 
 <style>

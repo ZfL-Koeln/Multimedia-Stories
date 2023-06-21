@@ -3,12 +3,7 @@
 	import imgCenter from "$lib/assets/img/Icon_Schule.svg"
 	import imgRight from "$lib/assets/img/Icon_Spenden.svg"
 </script>
-<style>
-	.bg-gradient {
-		background-image: linear-gradient(to right bottom, #ff82e4, #d296ff, #9ba8ff, #5cb5ff, #00bdff);
-	}
-</style>
-<section id="page-20" class="min-h-screen lg:h-screen page-container bg-gradient" data-scrollspy="Unterstützen und Mitmachen">
+<section id="page-20" class="min-h-screen bg-gradient-pink-to-blue lg:h-screen page-container bg-gradient" data-scrollspy="Unterstützen und Mitmachen">
 	<div class="flex flex-col justify-center h-1/3">
 		<div class="text-4xl lg:text-6xl text-white text-center font-sans lg:px-32 pt-12 " style="font-weight: bold">
 			Sie möchten sich für mehr
