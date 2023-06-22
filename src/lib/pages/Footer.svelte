@@ -30,8 +30,8 @@
 </script>
 
 <div id="modal-imprint" use:clickOutside on:click_outside={closeModal}
-     class="border-2 border-gray-200 fixed m-8 left-auto top-0 hidden lg:w-1/2 h-4/5 items-center overflow-y-scroll">
-
+     class="fixed m-8 left-auto top-0 hidden lg:w-1/2 h-4/5 items-center overflow-y-scroll drop-shadow-lg">
+	<div class="p-4 bg-gradient-pink-to-blue">
     <section class="relative bg-black p-8">
         <h2 class="text-[#ee9ac0] font-sans text-4xl font-extrabold uppercase">
             Impressum
@@ -96,10 +96,11 @@
             ©2023 Universität zu Köln
         </div>
         <div on:click={closeModal}
-             class="absolute top-4 right-4 text-lg text-gray-500 hover:text-white border-2 font-black rounded-full border-gray-500 hover:border-white w-10 h-10 pb-1 flex justify-center items-center hover:-rotate-90 duration-300 transition-all ease-in-out select-none cursor-pointer">
+             class="absolute top-4 right-4 text-lg text-gray-500 hover:text-white border-2 backdrop-blur-md rounded-full border-gray-500 hover:border-white w-10 h-10 pb-1 flex justify-center items-center hover:-rotate-90 duration-300 hover:font-black transition-all ease-in-out select-none cursor-pointer">
             ╳
         </div>
     </section>
+	</div>
 </div>
 <footer id="footer" class="relative bg-black w-full page-container">
     <div class="flex">
@@ -119,7 +120,7 @@
         <a href="https://zfl.uni-koeln.de">Website</a>
         <a href="https://www.instagram.com/zflkoeln/">Instagram</a>
         <a href="https://www.facebook.com/zflkoeln">Facebook</a>
-        <span on:click={openModal}>Impressum</span>
+        <button on:click={openModal}>Impressum</button>
     </nav>
 </footer>
 
