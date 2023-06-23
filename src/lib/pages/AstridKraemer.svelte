@@ -1,6 +1,16 @@
+<script>
+	export let acceptYoutube;
+	export let youtubeMessage;
+</script>
 <section id="page-12" class="flex flex-col-reverse lg:flex-row lg:h-screen page-container"  data-scrollspy="Praxisprojekte helfen">
 	<div class="w-full h-max lg:w-7/12 px-16">
+		<div class="relative">
 		<iframe class="aspect-video w-full lg:mt-8" src="https://www.youtube-nocookie.com/embed/mZpcDfHXGhw" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+			<div class="backdrop-blur-md backdrop-brightness-75 hover:backdrop-brightness-50 absolute inset-0 flex flex-col justify-center items-center {acceptYoutube ? 'hidden' : 'block'} transition-all">
+				<p class="font-roboto select-none text-white text-3xl drop-shadow-[2.5px_2.5px_2.5px_rgba(0,0,0,1)] text-center pb-4">{youtubeMessage}</p>
+				<button class="border-2 drop-shadow-xl text-lg rounded-full border-white font-roboto text-white py-2 px-4 bg-white bg-opacity-0 hover:bg-opacity-30 active:bg-opacity-50 transition-all duration-300" on:click={() => acceptYoutube = true}> Akzeptieren</button>
+			</div>
+		</div>
 		<p class="font-roboto text-3xl 2xl:text-5xl text-center lg:text-left font-bold my-4 md:pt-8">
 			Astrid Krämer, ZfL
 		</p>

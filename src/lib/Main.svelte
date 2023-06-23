@@ -16,11 +16,11 @@
 	import EducationalImbalance from "$lib/pages/EducationalImbalance.svelte";
 	import FundedProjectsV2 from "$lib/pages/FundedProjectsV2.svelte";
 	import MainEmphasisV2 from "$lib/pages/MainEmphasisV2.svelte";
+
+	let acceptYoutube = false;
+	const youtubeMessage = 'Um das Video abzuspielen, müssen Sie die Datenschutzbestimmungen von YouTube akzeptieren.'
+
 </script>
-
-<!-- Sticky IN ARBEIT Nachricht -->
-<!--<div class="fixed z-50 top-0 right-0 w-full text-center text-red-700 font-sans font-black">[IN ARBEIT]</div>-->
-
 <!-- ################################################### -->
 <!-- Seitenreihenfolge V2 -->
 <!-- ################################################### -->
@@ -28,17 +28,17 @@
 	<ScrollspyMap/>
 	<Intro/>
 	<EducationalImbalance/>
-	<AstridKraemer/>
+	<AstridKraemer bind:acceptYoutube="{acceptYoutube}" {youtubeMessage}/>
 	<FundedProjectsV2/> <!-- Neu -->
 	<Timeline/>
-	<SophiaPentinghaus/>
+	<SophiaPentinghaus bind:acceptYoutube="{acceptYoutube}" {youtubeMessage}/>
 	<Statistics/>
 	<BarChart/>
 	<Feedback/>
-	<DanielKeil/>
+	<DanielKeil bind:acceptYoutube="{acceptYoutube}" {youtubeMessage}/>
 	<MainEmphasisV2/> <!-- Neu. Bild Nr.4 noch nicht vorhanden -->
 	<Map/>
-	<BetuelSelcuk/>
+	<BetuelSelcuk bind:acceptYoutube="{acceptYoutube}" {youtubeMessage}/>
 	<FundedProjects2/>
 	<CallToAction/>
 	<Footer/>
@@ -50,7 +50,4 @@
 <!--
 !TODO: Links einfügen
 !TODO: Bilder ersetzen
-!TODO: Gewünschte Page 4 Variante auswählen. Rest Löschen
-*TODO: Diagramm (BarChart Component) Linien der X-Achse etwas auffälliger
-?*TODO: Floating ScrollSpy zur besseren Navigation?
 -->
