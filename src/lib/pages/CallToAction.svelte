@@ -32,8 +32,8 @@
 					absolvieren Sie Ihr
 					EOP/BFP. Informieren
 					Sie sich gerne zu
-					<a href="#" class="underline selection:cursor-auto">WEICHENSTELLUNG</a>
-					und <a href="#" class="underline selection:cursor-auto">PROMPT!</a>
+					<a href="https://zfl.uni-koeln.de/praxisphasen/projekte/weichenstellung" class="underline selection:cursor-auto">WEICHENSTELLUNG</a>
+					und <a href="https://zfl.uni-koeln.de/praxisphasen/projekte/prompt-bildungsteilhabe-staerken" class="underline selection:cursor-auto">PROMPT!</a>
 				</div>
 			</div>
 
@@ -69,7 +69,7 @@
 					unsere Projekte mit
 					Ihrer Spende. Über die
 					universitätseigene
-					<a href="#" class="underline selection:cursor-auto">Stiftung Studium und
+					<a href="https://portal.uni-koeln.de/foerdernde/jetzt-spenden" class="underline selection:cursor-auto">Stiftung Studium und
 						Lehre</a> kommt Ihre
 					Spende dort an, wo sie
 					gebraucht wird.

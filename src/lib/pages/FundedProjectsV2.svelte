@@ -48,10 +48,12 @@
 		Lerngruppen und unternehmen einmal im
 		Monat kulturelle Aktivitäten mit ihnen.
 		</span>
+			<a href="https://zfl.uni-koeln.de/praxisphasen/projekte/weichenstellung" style="text-align: center;">
 			<button class="bg-[#F7D3E4] hover:bg-pink-300 text-black font-bold py-2 px-8 border border-black rounded-full mx-auto my-8 lg:mt-0" style="box-shadow:+6px 6px black;">
 				mehr Infos zu<br>
 				WEICHENSTELLUNG
 			</button>
+			</a>
 		</article>
 
 		<article class="w-full flex flex-col lg:w-1/2 lg:h-fit">
@@ -70,11 +72,12 @@
 			für das Lernen wichtigen Beziehungsaufbau.
 		</span>
 
-			<!-- Buttons -->
+			<a href="https://www.canva.com/link?target=https%3A%2F%2Fzfl.uni-koeln.de%2Fpraxisphasen%2Fprojekte%2Fprompt-bildungsteilhabe-staerken&design=DAFfDTLsJUo&accessRole=editor&linkSource=comment" style="text-align: center;">
 			<button class="bg-pink-200 hover:bg-pink-300 text-black font-bold py-2 px-8 border border-black rounded-full mx-auto my-8 lg:mt-0" style="box-shadow:+6px 6px black;">
 				mehr Infos zu<br>
 				PROMPT!
 			</button>
+			</a>
 		</article>
 	</div>
 	</div>
