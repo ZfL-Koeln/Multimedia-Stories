@@ -10,45 +10,45 @@
 	<p class="text-center text-xl font-roboto">Anteil der Schüler*innen, die eine Weiterentwicklung durch den
 		Förderunterricht aufweisen (in%)</p>
 
-	<div class="flex flex-col-reverse lg:flex-row justify-center">
-		<figure class="mx-auto w-full sm:w-4/5 md:w-3/5 lg:w-2/3 ">
-			<img src="{chart}" alt="Bar Chart" class="lg:ml-auto md:h-4/5 aspect-auto -translate-y-10">
-		</figure>
-		<div class="grid grid-cols-2 lg:grid-cols-1 grid-rows-1 lg:grid-rows-2 lg:w-1/3 h-fit mb-auto">
+	<!--
 
-			<div class="flex justify-center">
-				<img src="{img02}" class=" aspect-auto lg:w-full h-fit sm:translate-x-12 lg:-translate-x-32" alt="Illustration 01"/>
-			</div>
-			<!-- Legend -->
-			<article class="flex lg:flex-col flex-col-reverse">
-				<div>
-					<table class="font-roboto lg:text-lg font-semibold">
-						<tr class="text-[#e66ea5]">
-							<td class="pr-2">
-								<div class="w-10 lg:w-12 h-10 lg:h-12 bg-[#e66ea5] rounded-lg"></div>
-							</td>
-							<td>Einschätzung der<br>Studierenden</td>
-						</tr>
-						<tr class="text-[#33c3e3]">
-							<td class="pr-2">
-								<div class="w-10 lg:w-12 h-10 lg:h-12 bg-[#33c3e3] rounded-lg"></div>
-							</td>
-							<td>Selbsteinschätzung<br>der Schüler*innen</td>
-						</tr>
-						<tr class="text-[#a15a8b]">
-							<td class="pr-2">
-								<div class="w-10 lg:w-12 h-10 lg:h-12 bg-[#a15a8b] rounded-lg"></div>
-							</td>
-							<td>Einschätzung<br>der Lehrkräfte</td>
-						</tr>
-					</table>
-				</div>
-			</article>
+	-->
+	<div class="grid grid-cols-2 lg:grid-cols-3 grid-rows-3 lg:grid-rows-2 w-full h-full">
+		<!-- Chart -->
+		<div class="row-start-2 lg:row-start-1 row-span-2 col-span-2">
+			<img src="{chart}" alt="Bar Chart" class="ml-auto h-5/6 lg:h-5/6 xl:h-5/6 max-h-fit -translate-y-12">
+		</div>
+
+		<!-- Legend -->
+		<div class="col-start-3 row-start-2 row-span-2 lg:row-span-1 my-auto lg:my-0 lg:row-start-2">
+			<table class="font-roboto lg:text-lg font-semibold">
+				<tr class="text-[#e66ea5]">
+					<td class="pr-2">
+						<div class="w-10 lg:w-12 h-10 lg:h-12 bg-[#e66ea5] rounded-lg"></div>
+					</td>
+					<td>Einschätzung der<br>Studierenden</td>
+				</tr>
+				<tr class="text-[#33c3e3]">
+					<td class="pr-2">
+						<div class="w-10 lg:w-12 h-10 lg:h-12 bg-[#33c3e3] rounded-lg"></div>
+					</td>
+					<td>Selbsteinschätzung<br>der Schüler*innen</td>
+				</tr>
+				<tr class="text-[#a15a8b]">
+					<td class="pr-2">
+						<div class="w-10 lg:w-12 h-10 lg:h-12 bg-[#a15a8b] rounded-lg"></div>
+					</td>
+					<td>Einschätzung<br>der Lehrkräfte</td>
+				</tr>
+			</table>
+		</div>
+		<!-- Illustration -->
+		<div class="col-span-3 lg:col-span-1 lg:col-start-3 mx-auto lg:-translate-x-12 xl:-translate-x-32">
+				<img src="{img02}" class="object- h-full" alt="Illustration 01"/>
 		</div>
 
 	</div>
 	<p class="text-xs w-full px-8 lg:px-0 lg:absolute p-4 bottom-2 lg:left-2 text-center lg:text-left">
-
 				Quelle: Datenerhebung des Zentrums für Lehrer*innenbildung zur Evaluation des Projektes <i>WEICHENSTELLUNG für Viertklässler</i>
 		</p>
 
