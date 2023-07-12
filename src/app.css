@@ -19,7 +19,10 @@
 }
 
 .bg-gradient-pink {
+	/*
 	background-image: linear-gradient(to right, #f1aecc, #fefdfd);
+	 */
+	background: linear-gradient(90deg, rgba(241,174,204,1) 0%, rgba(254,253,253,1) 55%);
 }
 
 .bg-gradient-pink-to-blue {
