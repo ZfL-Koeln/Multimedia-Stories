@@ -9,14 +9,16 @@
 	</p>
 	<p class="text-center text-xl font-roboto">Anteil der Schüler*innen, die eine Weiterentwicklung durch den
 		Förderunterricht aufweisen (in%)</p>
-	<div class="grid grid-cols-2 lg:grid-cols-3 grid-rows-3 lg:grid-rows-2 w-full h-full">
-		<!-- Chart -->
-		<div class="row-start-2 md:row-start-2 lg:row-start-1 md:row-span-2 md:col-span-2">
-			<img src="{chart}" alt="Bar Chart" class="mx-auto md:ml-auto h-full md:h-5/6 max-h-fit -translate-y-12">
-		</div>
 
-		<!-- Legend -->
-		<div class="col-start-1 row-start-3 row-span-1 md:col-start-3 md:row-start-2 md:row-span-2 lg:row-span-1 mx-auto md:my-auto lg:my-0 lg:row-start-2">
+		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 md:grid-rows-3 lg:grid-rows-2 w-full h-full">
+			<!-- Chart -->
+			<div class="row-start-2 md:row-start-2 lg:row-start-1 md:row-span-2 md:col-span-2">
+				<img src="{chart}" alt="Bar Chart" class="mx-auto md:ml-auto h-full md:h-5/6 max-h-fit -translate-y-12">
+			</div>
+
+			<!-- Legend -->
+			<div class="col-start-1 row-start-3 row-span-1 md:col-start-3 md:row-start-2 md:row-span-2 lg:row-span-1 mx-auto md:my-auto lg:my-0 lg:row-start-2">
+
 			<table class="font-roboto lg:text-lg font-semibold">
 				<tr class="text-[#e66ea5]">
 					<td class="pr-2">
