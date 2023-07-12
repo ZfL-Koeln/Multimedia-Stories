@@ -5,7 +5,7 @@
 
 		<div>
 			<!-- Headline -->
-			<h1 class="text-4xl md:text-6xl 2xl:text-7xl break-words hyphens-auto font-extrabold text-center font-sans pt-8 ">
+			<h1 class="text-3xl md:text-6xl 2xl:text-7xl break-words hyphens-auto font-extrabold text-center font-sans pt-8 ">
 				UNSERE FÖRDERPROJEKTE
 			</h1>
 			<div class="flex justify-center pt-2 pb-8">

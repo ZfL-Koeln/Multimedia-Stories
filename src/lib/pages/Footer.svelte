@@ -129,7 +129,7 @@
     <div class="flex">
         <div class="lg:w-1/5"></div>
 
-        <article class="text-white text-xl lg:text-3xl text-center font-roboto pt-20 lg:w-3/5">
+        <article class="text-white text-xl lg:text-3xl text-center font-roboto pt-20 lg:w-3/5 px-5">
             Das Zentrum für Lehrer*innenbildung (ZfL) unterstützt
             bildungsbenachteiligte Kinder und Jugendliche mit
             eigenen Förderprojekten, an denen Studierende im

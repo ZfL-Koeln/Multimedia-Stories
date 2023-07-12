@@ -5,7 +5,7 @@
 </script>
 <section id="page-20" class="min-h-screen bg-gradient-pink-to-blue lg:h-screen page-container bg-gradient" data-scrollspy="Unterstützen und Mitmachen">
 	<div class="flex flex-col justify-center h-1/3">
-		<div class="text-4xl md:text-5xl lg:text-7xl text-white font-sans font-extrabold text-center lg:px-32 pt-12 ">
+		<div class="text-3xl md:text-5xl lg:text-7xl text-white font-sans font-extrabold text-center lg:px-32 pt-12 px-5">
 			Sie möchten sich für mehr
 			Bildungsgerechtigkeit einsetzen?
 		</div>

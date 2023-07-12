@@ -1,8 +1,8 @@
 <script>
-	let openContent = 0
+	let openContent = 0;
 
 	function openModal(content) {
-		openContent = content
+		openContent = content;
 		document.getElementById("modal").classList.remove("hidden");
 	}
 
@@ -73,7 +73,7 @@
 </style>
 <section id="page-13" class="relative page-container h-screen bg-black" data-scrollspy="Schwerpunkte der Projekte">
 	<div class="flex flex-col justify-center h-1/6 lg:h-2/6">
-		<div class="text-6xl 2xl:text-7xl text-white text-center hyphens-auto font-sans font-extrabold pt-2 break-words">
+		<div class="text-4xl md:text-5xl 2xl:text-7xl text-white text-center hyphens-auto font-sans font-extrabold pt-2 break-words">
 			SCHWERPUNKTE
 		</div>
 		<div class="flex justify-center pt-2 pb-12">
@@ -119,7 +119,7 @@
 
 	<div id="modal" use:clickOutside on:click_outside={closeModal} class=" absolute top-1/4 left-12 right-12 lg:right-auto lg:top-1/3 lg:w-1/3 lg:h-1/3 lg:left-1/3 hidden items-center">
 		<div class="p-8 bg-gradient-pink-to-blue">
-			<div class="bg-white text-xl text-center font-medium font-roboto flex flex-col justify-center p-2">
+			<div class="bg-white text-md xl:text-xl text-center font-medium font-roboto flex flex-col justify-center p-2" style="padding: 30px 20px 10px 20px;">
 				<div>
 					{#if openContent === 0}
 						Kommunikation bildet die Basis unseres Lebens.
@@ -156,7 +156,7 @@
 
 					{/if}
 				</div>
-				<div class="mt-12 md:mt-14 w-full flex justify-center">
+				<div class="mt-12 md:mt-14 w-full flex justify-center" style="margin-top: 30px;">
 					<button on:click={closeModal} class="bg-white hover:bg-gray-300 active:bg-gray-800 active:text-white ring-2 outline-1 outline-white ring-gray-700 border-2 border-gray-200 text-xl rounded-full px-6 py-2 mb-4 transition-colors duration-200">Schließen</button>
 				</div>
 			</div>

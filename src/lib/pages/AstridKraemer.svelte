@@ -11,7 +11,7 @@
 				<button class="border-2 drop-shadow-xl text-lg rounded-full border-white font-sans text-white py-2 px-4 bg-white bg-opacity-0 hover:bg-opacity-30 active:bg-opacity-50 transition-all duration-300" on:click={() => acceptYoutube = true}> Akzeptieren</button>
 			</div>
 		</div>
-		<p class="font-roboto text-3xl 2xl:text-5xl text-center lg:text-left font-bold my-4 md:pt-8">
+		<p class="font-roboto text-2xl 2xl:text-5xl text-center lg:text-left font-bold my-4 md:pt-8">
 			Astrid Krämer, ZfL
 		</p>
 		<p class="font-roboto text-xl mb-4">
@@ -19,7 +19,7 @@
 		</p>
 	</div>
 	<div class="w-full lg:w-5/12 flex justify-center">
-		<p class="text-5xl text-center lg:text-left tracking-wide xl:text-5xl 2xl:text-6xl mx-auto font-sans font-extrabold py-12 lg:pr-32 lg:pt-32">
+		<p class="text-3xl text-center lg:text-left tracking-wide xl:text-5xl 2xl:text-6xl mx-auto font-sans font-extrabold py-12 lg:pr-32 lg:pt-32 px-5">
 			„Unsere Studierenden können einen Unterschied machen.“
 		</p>
 	</div>

@@ -18,25 +18,22 @@
 	import MainEmphasisV2 from "$lib/pages/MainEmphasisV2.svelte";
 
 	let acceptYoutube = false;
-	const youtubeMessage = 'Um das Video abzuspielen, müssen Sie die Datenschutzbestimmungen von YouTube akzeptieren.'
+	const youtubeMessage = 'Dieser Inhalt wird von YouTube bereitgestellt. Wenn Sie den Inhalt aktivieren, werden ggf. personenbezogene Daten verarbeitet und Cookies gesetzt.'
 
 </script>
-<!-- ################################################### -->
-<!-- Seitenreihenfolge V2 -->
-<!-- ################################################### -->
 <section class="relative">
 	<ScrollspyMap/>
 	<Intro/>
 	<EducationalImbalance/>
 	<AstridKraemer bind:acceptYoutube="{acceptYoutube}" {youtubeMessage}/>
-	<FundedProjectsV2/> <!-- Neu -->
+	<FundedProjectsV2/>
 	<Timeline/>
 	<SophiaPentinghaus bind:acceptYoutube="{acceptYoutube}" {youtubeMessage}/>
 	<Statistics/>
 	<BarChart/>
 	<Feedback/>
 	<DanielKeil bind:acceptYoutube="{acceptYoutube}" {youtubeMessage}/>
-	<MainEmphasisV2/> <!-- Neu. Bild Nr.4 noch nicht vorhanden -->
+	<MainEmphasisV2/>
 	<Map/>
 	<BetuelSelcuk bind:acceptYoutube="{acceptYoutube}" {youtubeMessage}/>
 	<FundedProjects2/>
@@ -44,10 +41,6 @@
 	<Footer/>
 </section>
 
-<style lang="postcss">
-</style>
+<style lang="scss">
 
-<!--
-!TODO: Links einfügen
-!TODO: Bilder ersetzen
--->
+</style>
