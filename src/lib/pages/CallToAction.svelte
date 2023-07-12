@@ -58,7 +58,8 @@
                     an die Projektleitungen von
                     <a href="https://zfl.uni-koeln.de/praxisphasen/projekte/weichenstellung"
                        class="underline selection:cursor-auto">WEICHENSTELLUNG</a> und
-                    <a href="#" class="underline selection:cursor-auto">PROMPT!</a>
+                    <a href="https://zfl.uni-koeln.de/praxisphasen/projekte/prompt-bildungsteilhabe-staerken"
+                       class="underline selection:cursor-auto">PROMPT!</a>
                 </div>
             </div>
 
