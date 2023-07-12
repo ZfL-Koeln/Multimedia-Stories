@@ -3,7 +3,7 @@
 	import chart from "$lib/assets/img/bar_chart-cropped.svg";
 </script>
 
-<section id="page-11" class=" relative page-container max-h-screen h-screen w-full overflow-clip bg-gradient-pink" data-scrollspy="Wie profitieren Schüler*innen?">
+<section id="page-11" class=" relative page-container md:max-h-screen md:h-screen w-full overflow-clip bg-gradient-pink" data-scrollspy="Wie profitieren Schüler*innen?">
 	<p class="text-3xl text-center md:text-4xl xl:text-5xl 2xl:text-5xl mx-auto p-8 font-sans font-extrabold ">
 		Wie profitieren Schüler*innen von den Projekten?
 	</p>
@@ -13,14 +13,14 @@
 	<!--
 
 	-->
-	<div class="grid grid-cols-2 lg:grid-cols-3 grid-rows-3 lg:grid-rows-2 w-full h-full">
+	<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 md:grid-rows-3 lg:grid-rows-2 w-full h-full">
 		<!-- Chart -->
-		<div class="row-start-2 lg:row-start-1 row-span-2 col-span-2">
-			<img src="{chart}" alt="Bar Chart" class="ml-auto h-5/6 lg:h-5/6 xl:h-5/6 max-h-fit -translate-y-12">
+		<div class="row-start-2 md:row-start-2 lg:row-start-1 md:row-span-2 md:col-span-2">
+			<img src="{chart}" alt="Bar Chart" class="mx-auto md:ml-auto h-full md:h-5/6 max-h-fit -translate-y-12">
 		</div>
 
 		<!-- Legend -->
-		<div class="col-start-3 row-start-2 row-span-2 lg:row-span-1 my-auto lg:my-0 lg:row-start-2">
+		<div class="col-start-1 row-start-3 row-span-1 md:col-start-3 md:row-start-2 md:row-span-2 lg:row-span-1 mx-auto md:my-auto lg:my-0 lg:row-start-2">
 			<table class="font-roboto lg:text-lg font-semibold">
 				<tr class="text-[#e66ea5]">
 					<td class="pr-2">
@@ -43,7 +43,7 @@
 			</table>
 		</div>
 		<!-- Illustration -->
-		<div class="col-span-3 lg:col-span-1 lg:col-start-3 mx-auto lg:-translate-x-12 xl:-translate-x-32">
+		<div class="col-span-1 md:col-span-3 lg:col-span-1 lg:col-start-3 mx-auto lg:-translate-x-12 xl:-translate-x-32">
 				<img src="{img02}" class="object- h-full" alt="Illustration 01"/>
 		</div>
 
