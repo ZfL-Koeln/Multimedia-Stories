@@ -33,7 +33,7 @@
 
             map = leaflet.map(mapElement, {
                 scrollWheelZoom: false
-            }).setView([50.9412784,6.9582814], 13);
+            }).setView([50.9412784, 6.9582814], 13);
             leaflet.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
                 attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
             }).addTo(map);
@@ -54,8 +54,12 @@
     });
 </script>
 
-<section id="map" bind:this={mapElement} class="relative page-container h-screen max-h-screen" data-scrollspy="Schulkarte">
-	<div class="absolute top-3 my-auto text-black drop-shadow-lg text-2xl md:text-4xl xl:text-4xl mt-12 font-black font-sans text-center w-full z-[1000] break-normal" style="line-height: 3.2rem; padding: 0 10px;">Hier sind Lehramtsstudierende für<br>Bildungsgerechtigkeit im Einsatz</div>
+<section id="map" bind:this={mapElement} class="relative page-container h-screen max-h-screen"
+         data-scrollspy="Schulkarte">
+    <div class="absolute top-3 my-auto text-black drop-shadow-lg text-2xl md:text-4xl xl:text-4xl mt-12 font-black font-sans text-center w-full z-[1000] break-normal"
+         style="line-height: 3.2rem; padding: 0 10px;">Hier sind Lehramtsstudierende für<br>Bildungsgerechtigkeit im
+        Einsatz
+    </div>
 </section>
 
 <style>

@@ -1,36 +1,36 @@
-<script></script>
+<section id="our-projects" class="min-h-screen flex flex-col lg:h-screen page-container"
+         data-scrollspy="Unsere Förderprojekte">
+    <div class="h-screen flex flex-col lg:h-auto grow">
 
-<section id="our-projects" class="min-h-screen flex flex-col lg:h-screen page-container" data-scrollspy="Unsere Förderprojekte">
-	<div class="h-screen flex flex-col lg:h-auto grow">
+        <div>
+            <!-- Headline -->
+            <h1 class="text-3xl md:text-6xl 2xl:text-7xl break-words hyphens-auto font-extrabold text-center font-sans pt-8 ">
+                UNSERE FÖRDERPROJEKTE
+            </h1>
+            <div class="flex justify-center pt-2 pb-8">
+                <div class="bg-black w-1/6 h-2"></div>
+            </div>
+            <!-- Subheading -->
+            <p class="font-roboto text-xl md:text-lg xl:text-xl px-8 h-fit lg:px-16 pb-4">
+                Das Zentrum für Lehrer*innenbildung der Universität zu Köln fördert bildungsbenachteiligte und neu
+                zugewanderte
+                Kinder und Jugendliche mit den Bildungsprojekten <strong>WEICHENSTELLUNG für Viertklässler</strong> und
+                <strong>PROMPT!
+                    Bildungsteilhabe</strong> stärken.
+            </p>
+        </div>
 
-		<div>
-			<!-- Headline -->
-			<h1 class="text-3xl md:text-6xl 2xl:text-7xl break-words hyphens-auto font-extrabold text-center font-sans pt-8 ">
-				UNSERE FÖRDERPROJEKTE
-			</h1>
-			<div class="flex justify-center pt-2 pb-8">
-				<div class="bg-black w-1/6 h-2"></div>
-			</div>
-			<!-- Subheading -->
-			<p class="font-roboto text-xl md:text-lg xl:text-xl px-8 h-fit lg:px-16 pb-4">
-				Das Zentrum für Lehrer*innenbildung der Universität zu Köln fördert bildungsbenachteiligte und neu zugewanderte
-				Kinder und Jugendliche mit den Bildungsprojekten <strong>WEICHENSTELLUNG für Viertklässler</strong> und <strong>PROMPT!
-				Bildungsteilhabe</strong> stärken.
-			</p>
-		</div>
+        <!-- Bild Links Text Rechts-->
+        <figure class="grow block bg-center lg:bg-top bg-img bg-cover lg:bg-[length:75%] xl:bg-[length:65%]">
 
-		<!-- Bild Links Text Rechts-->
-		<figure class="grow block bg-center lg:bg-top bg-img bg-cover lg:bg-[length:75%] xl:bg-[length:65%]">
-
-		</figure>
-	</div>
+        </figure>
+    </div>
 </section>
 <section id="our-projects-text" class="min-h-screen flex flex-col lg:h-screen page-container">
-	<div class="lg:h-screen flex flex-col lg:h-auto grow">
-	<!-- Text Links, Buttons Rechts -->
-	<div class="flex flex-col lg:flex-row w-full h-full lg:h-fit grow-0 mb-8 lg:mb-4">
+    <div class="lg:h-screen flex flex-col lg:h-auto grow">
+        <div class="flex flex-col lg:flex-row w-full h-full lg:h-fit grow-0 mb-8 lg:mb-4">
 
-		<article class="w-full flex flex-col lg:w-1/2 lg:h-fit">
+            <article class="w-full flex flex-col lg:w-1/2 lg:h-fit">
 
 			<span class="w-full text-xl lg:text-2xl 2xl:text-3xl 3xl:text-4xl font-roboto p-12 lg:py-16 lg:px-8 xl:px-16">
 		WEICHENSTELLUNG für Viertklässler ist
@@ -48,15 +48,16 @@
 		Lerngruppen und unternehmen einmal im
 		Monat kulturelle Aktivitäten mit ihnen.
 		</span>
-			<a href="https://zfl.uni-koeln.de/praxisphasen/projekte/weichenstellung" style="text-align: center;">
-			<button class="bg-[#F7D3E4] hover:bg-pink-300 text-black font-bold font-sans py-2 px-8 border border-black rounded-full mx-auto my-8 lg:mt-0" style="box-shadow:+6px 6px black;">
-				mehr Infos zu<br>
-				WEICHENSTELLUNG
-			</button>
-			</a>
-		</article>
+                <a href="https://zfl.uni-koeln.de/praxisphasen/projekte/weichenstellung" style="text-align: center;">
+                    <button class="bg-[#F7D3E4] hover:bg-pink-300 text-black font-bold font-sans py-2 px-8 border border-black rounded-full mx-auto my-8 lg:mt-0"
+                            style="box-shadow:+6px 6px black;">
+                        mehr Infos zu<br>
+                        WEICHENSTELLUNG
+                    </button>
+                </a>
+            </article>
 
-		<article class="w-full flex flex-col lg:w-1/2 lg:h-fit">
+            <article class="w-full flex flex-col lg:w-1/2 lg:h-fit">
 
 			<span class="w-full text-xl lg:text-2xl 2xl:text-3xl 3xl:text-4xl font-roboto p-12 lg:py-16 lg:px-8 xl:px-16">
 			PROMPT! Bildungsteilhabe stärken wurde vom ZfL ins Leben
@@ -72,20 +73,22 @@
 			für das Lernen wichtigen Beziehungsaufbau.
 		</span>
 
-			<a href="https://www.canva.com/link?target=https%3A%2F%2Fzfl.uni-koeln.de%2Fpraxisphasen%2Fprojekte%2Fprompt-bildungsteilhabe-staerken&design=DAFfDTLsJUo&accessRole=editor&linkSource=comment" style="text-align: center;">
-			<button class="bg-pink-200 hover:bg-pink-300 text-black font-bold font-sans py-2 px-8 border border-black rounded-full mx-auto my-8 lg:mt-0" style="box-shadow:+6px 6px black;">
-				mehr Infos zu<br>
-				PROMPT!
-			</button>
-			</a>
-		</article>
-	</div>
-	</div>
+                <a href="https://www.canva.com/link?target=https%3A%2F%2Fzfl.uni-koeln.de%2Fpraxisphasen%2Fprojekte%2Fprompt-bildungsteilhabe-staerken&design=DAFfDTLsJUo&accessRole=editor&linkSource=comment"
+                   style="text-align: center;">
+                    <button class="bg-pink-200 hover:bg-pink-300 text-black font-bold font-sans py-2 px-8 border border-black rounded-full mx-auto my-8 lg:mt-0"
+                            style="box-shadow:+6px 6px black;">
+                        mehr Infos zu<br>
+                        PROMPT!
+                    </button>
+                </a>
+            </article>
+        </div>
+    </div>
 </section>
 
 <style>
-	.bg-img {
-		background-image: url("$lib/assets/img/stock-img/istockphoto-1033164240.jpg");
-		background-repeat: no-repeat;
-	}
+    .bg-img {
+        background-image: url("$lib/assets/img/stock-img/istockphoto-1033164240.jpg");
+        background-repeat: no-repeat;
+    }
 </style>
