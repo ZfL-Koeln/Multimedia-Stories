@@ -1,4 +1,6 @@
 <script>
+	import Youtube from "svelte-youtube-embed";
+
 	export let acceptYoutube;
 	export let youtubeMessage;
 </script>
@@ -10,7 +12,10 @@
 	</div>
 	<div class="w-full h-max lg:w-7/12 lg:py-8 px-16">
 		<div class="relative">
+			<Youtube id="_R8v5aw6vUA" />
+			<!--
 			<iframe class="aspect-video w-full" src="https://www.youtube-nocookie.com/embed/_R8v5aw6vUA" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+			-->
 			<div class="backdrop-blur-md backdrop-brightness-75 hover:backdrop-brightness-50 absolute inset-0 flex flex-col justify-center items-center {acceptYoutube ? 'hidden' : 'block'} transition-all">
 				<p class="font-roboto select-none text-white md:text-2xl text-center pb-4 px-10">{youtubeMessage}</p>
 				<button class="border-2 drop-shadow-xl text-lg rounded-full border-white font-sans text-white py-2 px-4 bg-white bg-opacity-0 hover:bg-opacity-30 active:bg-opacity-50 transition-all duration-300 sm:px-1" on:click={() => acceptYoutube = true}> Akzeptieren</button>
