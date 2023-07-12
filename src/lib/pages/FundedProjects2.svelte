@@ -9,8 +9,8 @@
 			</div>
 		</div>
 
-		<a href="" class="mx-auto hidden lg:block border-[2px] border-white text-white font-roboto font-semibold rounded-full bg-opacity-0 hover:bg-opacity-10 w-fit hover:drop-shadow-2xl px-12 py-4 bg-white transition-colors duration-300 ease-in-out">zur
-			Studie</a>
+		<a href="https://zfl.uni-koeln.de/sites/zfl/Publikationen/discussion-papers/discussion-paper_2022_2.pdf" class="mx-auto hidden lg:block border-[2px] border-white text-white text-2xl font-sans rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
+			zur Studie</a>
 	</div>
 	<article class="h-screen p-8 xl:p-16 2xl:p-20 lg:flex lg:flex-row lg:items-center">
 		<span class="font-roboto text-base sm:text-lg lg:text-2xl  2xl:text-3xl 3xl:text-4xl h-fit my-auto">
@@ -27,12 +27,12 @@
 		mehr Steuern
 		und sind seltener arbeitslos. Eine gezielte Hilfe beim Lernen und bei der Jobsuche hilft also nicht nur Betroffenen,
 		sondern allen.<br><br>
+		</span>
 		<div class="flex justify-center w-full lg:hidden">
-			<a href="" class="mx-auto border-[2px] border-white text-white font-roboto font-semibold rounded-full bg-opacity-0 hover:bg-opacity-10 w-fit hover:drop-shadow-2xl px-12 py-4 bg-white transition-colors duration-300 ease-in-out">
+			<a href="https://zfl.uni-koeln.de/sites/zfl/Publikationen/discussion-papers/discussion-paper_2022_2.pdf" class="mx-auto border-[2px] border-white text-white text-2xl font-sans rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
 				zur Studie
 			</a>
 		</div>
-		</span>
 	</article>
 </section>
 

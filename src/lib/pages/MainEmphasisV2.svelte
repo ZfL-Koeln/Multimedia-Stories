@@ -86,7 +86,7 @@
 		<figure class="col-auto image-container image-left bg-contain">
 			<div class="flex flex-col justify-evenly text-center image-hover-content bg-black bg-opacity-75 w-full h-full text-white text-2xl sm:text-3xl  font-roboto">
 				Sprachförderung
-				<button on:click={() => openModal(0)} class="mx-auto border-[2px] border-white text-white text-2xl font-roboto rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
+				<button on:click={() => openModal(0)} class="mx-auto border-[2px] border-white text-white text-2xl font-sans rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
 					mehr Infos
 				</button>
 			</div>
@@ -94,7 +94,7 @@
 		<figure class="col-auto image-container image-middle-left bg-contain">
 			<div class="flex flex-col justify-evenly text-center image-hover-content bg-black bg-opacity-75  w-full h-full text-white text-2xl sm:text-3xl  font-roboto">
 				Bildungsüberänge
-				<button on:click={() => openModal(1)} class="mx-auto border-[2px] border-white text-white text-2xl font-roboto rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
+				<button on:click={() => openModal(1)} class="mx-auto border-[2px] border-white text-white text-2xl font-sans rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
 					mehr Infos
 				</button>
 			</div>
@@ -102,7 +102,7 @@
 		<figure class="col-auto image-container image-middle-right">
 			<div class="flex flex-col justify-evenly text-center image-hover-content bg-black bg-opacity-75  w-full h-full text-white text-2xl sm:text-3xl  font-roboto">
 				Lernlücken
-				<button on:click={() => openModal(2)} class="mx-auto border-[2px] border-white text-white text-2xl font-roboto rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
+				<button on:click={() => openModal(2)} class="mx-auto border-[2px] border-white text-white text-2xl font-sans rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
 					mehr Infos
 				</button>
 			</div>
@@ -110,7 +110,7 @@
 		<figure class="col-auto image-container image-right">
 			<div class="flex flex-col justify-evenly text-center image-hover-content bg-black bg-opacity-75  w-full h-full text-white text-2xl sm:text-3xl  font-roboto">
 				Sozial-Emotionales Lernen
-				<button on:click={() => openModal(3)} class="mx-auto border-[2px] border-white text-white text-2xl font-roboto rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
+				<button on:click={() => openModal(3)} class="mx-auto border-[2px] border-white text-white text-2xl font-sans rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
 					mehr Infos
 				</button>
 			</div>
@@ -119,7 +119,7 @@
 
 	<div id="modal" use:clickOutside on:click_outside={closeModal} class=" absolute top-1/4 left-12 right-12 lg:right-auto lg:top-1/3 lg:w-1/3 lg:h-1/3 lg:left-1/3 hidden items-center">
 		<div class="p-8 bg-gradient-pink-to-blue">
-			<div class="bg-white text-xl text-center font-medium font-roboto flex flex-col justify-center">
+			<div class="bg-white text-xl text-center font-medium font-roboto flex flex-col justify-center p-2">
 				<div>
 					{#if openContent === 0}
 						Kommunikation bildet die Basis unseres Lebens.

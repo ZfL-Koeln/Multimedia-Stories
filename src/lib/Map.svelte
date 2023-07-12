@@ -55,7 +55,7 @@
 </script>
 
 <section id="map" bind:this={mapElement} class="relative page-container h-screen max-h-screen" data-scrollspy="Schulkarte">
-	<p class="absolute top-3 my-auto text-black drop-shadow-lg text-5xl font-black font-sans text-center w-full z-[1000]">Hier sind Lehramtsstudierende für Bildungsgerechtigkeit im Einsatz</p>
+	<p class="absolute top-3 my-auto text-black drop-shadow-lg text-5xl mt-12 font-black font-sans text-center w-full z-[1000]">Hier sind Lehramtsstudierende für Bildungsgerechtigkeit im Einsatz</p>
 </section>
 
 <style>
