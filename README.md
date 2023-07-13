@@ -3,7 +3,7 @@
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 # Multimedia Stories
-A project of the Zentrum für LehrerInnenbildung.<br>
+A project of the Zentrum für LehrerInnenbildung.
 Visit the website [here](https://zfl-stories.uni-koeln.de)!
 
 
@@ -27,9 +27,20 @@ Cologne student teachers.
 The multimedia story shows why student support of the education system achieves 
 sustainable and overall societal success.
 
+## Developing
+
+Clone the repository, install dependencies with `npm install` (or `pnpm install` or `yarn`) and start a development server:
+
+```
+npm run dev
+
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
+```
+
 ## Building
 
-To create a production version of your app:
+To create a production version run:
 
 ```bash
 npm run build
