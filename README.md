@@ -1,29 +1,31 @@
-# create-svelte
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# Multimedia Stories
+A project of the Zentrum für LehrerInnenbildung.<br>
+Visit the website [here](https://zfl-stories.uni-koeln.de)!
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-## Creating a project
+## Description
+### Deutsch
+Die One-Page-Website des Zentrums für LehrerInnenbildung der Universität zu Köln 
+informiert in Form eines multimedialen Storytellings über die Förderprojekte 
+WEICHENSTELLUNG für Viertklässler und PROMPT!. 
+Beide Programme stärken die Teilhabe bildungsbenachteiligter Kinder und Jugendliche 
+und sind aufgrund der engen Betreuung durch Kölner Lehramtsstudierende an die 
+universitäre Lehre gebunden. Die Multimedia-Story zeigt, warum die Förderung des 
+Bildungssystems durch Studierende nachhaltige und gesamtgesellschaftliche Erfolge erzielt.
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+### English
+The one-page website of the "Zentrum für LehrerInnenbildung" 
+at the University of Cologne uses multimedia storytelling to provide information about the 
+support projects "WEICHENSTELLUNG für Viertklässler" and PROMPT! 
+Both programs strengthen the participation of educationally disadvantaged children and 
+adolescents and are linked to university teaching due to the close supervision by 
+Cologne student teachers. 
+The multimedia story shows why student support of the education system achieves 
+sustainable and overall societal success.
 
 ## Building
 
