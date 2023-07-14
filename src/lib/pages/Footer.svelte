@@ -48,7 +48,7 @@
                 </p>
                 <p>
                     Tel.: +49 (0)221-470 5687 (Merle Hettesheimer)<br>
-                    zfl-kommunikationevents (at)uni-koeln.de<br>
+                    zfl-kommunikationevents(at)uni-koeln.de<br>
                     <a href="https://zfl.uni-koeln.de">https://zfl.uni-koeln.de</a>
                 </p>
                 <p>
@@ -79,8 +79,8 @@
                     Hier finden Sie die Datenschutzerklärung der Universität zu Köln: <a
                         href="https://www.portal.uni-koeln.de/datenschutz1.html">https://www.portal.uni-koeln.de/datenschutz1.html</a>
                 </p>
-                <strong>YouTube:</strong>
                 <p>
+                <strong>YouTube:</strong><br>
                     Unsere Seite verwendet für die Einbindung von Videos den Anbieter YouTube LLC , 901 Cherry Avenue,
                     San Bruno, CA 94066, USA, vertreten durch Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA
                     94043, USA. Normalerweise wird bereits bei Aufruf einer Seite mit eingebetteten Videos Ihre
@@ -97,7 +97,7 @@
                 <p>
                     Von der dann möglichen Erhebung und Verwendung Ihrer Daten durch YouTube haben wir keine Kenntnis
                     und darauf auch keinen Einfluss. Nähere Informationen können Sie der Datenschutzerklärung von
-                    YouTube unter www.google.de/intl/de/policies/privacy/ entnehmen. Zudem verweisen wir für den
+                    YouTube unter <a href="https://policies.google.com/privacy?hl=de&gl=de">https://policies.google.com/privacy?hl=de&gl=de</a> entnehmen. Zudem verweisen wir für den
                     generellen Umgang mit und die Deaktivierung von Cookies auf unsere allgemeine Darstellung in dieser
                     Datenschutzerklärung.
                 </p>
@@ -143,6 +143,7 @@
         <a href="https://zfl.uni-koeln.de">Website</a>
         <a href="https://www.instagram.com/zflkoeln/">Instagram</a>
         <a href="https://www.facebook.com/zflkoeln">Facebook</a>
+        <a href="https://twitter.com/zflkoeln">Twitter</a>
         <button on:click={openModal}>Impressum</button>
     </nav>
 </footer>

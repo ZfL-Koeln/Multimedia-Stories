@@ -63,7 +63,6 @@
     </div>
 
     <p class="text-xs w-full px-8 lg:px-0 lg:absolute p-4 bottom-2 lg:left-2 text-center lg:text-left">
-        Quelle: Datenerhebung des Zentrum für
-        Lehrer*innenbildung zur Evaluation des Projekts <i>KommMit im Team</i>
+        Quelle: Datenerhebung des Zentrums für Lehrer*innenbildung zur Evaluation des Projekts <i>KommMit im Team</i>
     </p>
 </section>

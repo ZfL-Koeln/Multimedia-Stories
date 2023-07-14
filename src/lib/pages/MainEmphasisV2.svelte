@@ -95,7 +95,7 @@
         </figure>
         <figure class="col-auto image-container image-middle-left bg-contain">
             <div class="flex flex-col justify-evenly text-center image-hover-content bg-black bg-opacity-75  w-full h-full text-white text-2xl sm:text-3xl  font-roboto">
-                Bildungsüberänge
+                Bildungsübergänge
                 <button on:click={() => openModal(1)}
                         class="mx-auto border-[2px] border-white text-white text-2xl font-sans rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
                     mehr Infos

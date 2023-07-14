@@ -8,7 +8,7 @@
 		Wie profitieren Schüler*innen von den Projekten?
 	</p>
 	<p class="text-center text-xl font-roboto">Anteil der Schüler*innen, die eine Weiterentwicklung durch den
-		Förderunterricht aufweisen (in%)</p>
+		Förderunterricht aufweisen (in %)</p>
 
 		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 md:grid-rows-3 lg:grid-rows-2 w-full h-full">
 			<!-- Chart -->
@@ -46,7 +46,7 @@
 		</div>
 	</div>
 	<p class="text-xs w-full px-8 lg:px-0 lg:absolute p-4 bottom-2 lg:left-2 text-center lg:text-left">
-				Quelle: Datenerhebung des Zentrums für Lehrer*innenbildung zur Evaluation des Projektes <i>WEICHENSTELLUNG für Viertklässler</i>
+				Quelle: Datenerhebung des Zentrums für Lehrer*innenbildung zur Evaluation des Projekts <i>WEICHENSTELLUNG für Viertklässler</i>
 		</p>
 
 </section>

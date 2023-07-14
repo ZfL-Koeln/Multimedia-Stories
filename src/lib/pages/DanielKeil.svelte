@@ -8,7 +8,7 @@
          data-scrollspy="Individueller Förderbedarf">
     <div class="w-full lg:w-5/12 flex justify-center">
         <p class="text-center tracking-wide lg:text-right text-3xl 2xl:text-6xl mx-auto font-sans font-extrabold py-12 lg:pl-32 lg:pt-32 px-5">
-            "Diese enge Betreuung sieht die Schüler*innen als Ganzes.“
+            „Diese enge Betreuung sieht die Schüler*innen als Ganzes.“
         </p>
     </div>
     <div class="w-full h-max lg:w-7/12 lg:py-8 px-16">
