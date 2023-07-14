@@ -20,7 +20,7 @@
             Astrid Krämer, ZfL
         </p>
         <p class="font-roboto text-xl mb-4">
-            Astrid Krämer ist es ein Anliegen, sich für Bildungsteilhabe einzusetzen. Sie leitet das Team Praxisphasen
+            Astrid Krämer setzt sich für mehr Bildungsteilhabe ein. Sie leitet das Team Praxisphasen
             am ZfL und ist überzeugt, dass die Praxisprojekte im Lehramtsstudium eine enorme Bedeutung haben.
         </p>
     </div>

@@ -52,11 +52,8 @@
     <!-- Redundanz aus der Hölle -->
     <div class="ml-28 sm:ml-32 my-16 lg:container lg:mx-auto grid grid-rows-4 grid-cols-1 lg:grid-rows-3 lg:grid-cols-4 absolute inset-0 text-white text-xs md:text-base lg:text-lg xl:text-xl 2xl:text-xl 3xl:text-3xl px-4 font-roboto">
         <div class="lg:col-start-1 lg:row-start-1 lg:row-span-2 flex flex-col justify-center lg:justify-start lg:opacity-0 hover:opacity-100 transition-opacity duration-500">
-            Das Sprachförderprojekt PROMPT! startet,
-            bei dem Kölner Lehramtsstudierende mit
-            geflüchteten und neu zugewanderten Kindern,
-            Jugendlichen und jungen Erwachsenen arbeiten –
-            erst in der Notunterkunft, dann in der Schule.
+            Das Sprachförderprojekt PROMPT! startet. Kölner Lehramtsstudierende arbeiten mit geflüchteten und neu
+            zugewanderten Kindern, Jugendlichen und jungen Erwachsenen – erst in der Notunterkunft, dann in der Schule.
 
         </div>
         <div class="lg:col-start-auto lg:row-start-2 lg:row-span-3 flex flex-col justify-center lg:justify-end lg:opacity-0 hover:opacity-100 transition-opacity duration-500">
