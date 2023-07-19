@@ -15,12 +15,13 @@
     onMount(async () => {
         if (browser) {
             const leaflet = await import('leaflet');
+            await import('leaflet.markercluster');
 
-            const iconRetinaUrl = markerIcon2x;
             const iconUrl = markerIcon;
             const shadowUrl = markerShadow;
-            const iconDefault = leaflet.icon({
-                iconRetinaUrl,
+
+            leaflet.Marker.prototype.options.icon = leaflet.icon({
+                markerIcon2x,
                 iconUrl,
                 shadowUrl,
                 iconSize: [25, 41],
@@ -29,7 +30,6 @@
                 tooltipAnchor: [16, -28],
                 shadowSize: [41, 41]
             });
-            leaflet.Marker.prototype.options.icon = iconDefault;
 
             map = leaflet.map(mapElement, {
                 scrollWheelZoom: false
@@ -38,11 +38,15 @@
                 attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
             }).addTo(map);
 
+            let markers = L.markerClusterGroup();
+
             data.schools.forEach((school) => {
-                leaflet.marker([school.lat, school.long]).addTo(map)
+                markers.addLayer(leaflet.marker([school.lat, school.long]).addTo(map)
                     .bindPopup(`<h3>${school.name}</h3>
-                                <a href="${school.url}" target="_blank">Link zur Schulwebsite</a>`);
+                                <a href="${school.url}" target="_blank">Link zur Schulwebsite</a>`));
             });
+
+            map.addLayer(markers);
         }
     });
 
@@ -65,6 +69,8 @@
 
 <style>
     @import 'leaflet/dist/leaflet.css';
+    @import 'leaflet.markercluster/dist/MarkerCluster.css';
+    @import 'leaflet.markercluster/dist/MarkerCluster.Default.css';
 
     #map {
         height: 100vh;
