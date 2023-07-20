@@ -54,7 +54,7 @@
       "type": "Berufskolleg",
       "lat": "50.940958",
       "long": "6.92325",
-      "url": "https://www.bke-koeln.de/index.php/bildungsgaenge/schueler-ohne-ausbildung/internat-foerderklasse"
+      "url": "https://www.bke-koeln.de"
     },
     {
       "name": "Berufskolleg Südstadt",
@@ -174,7 +174,7 @@
       "type": "Grundschule",
       "lat": "50.982568",
       "long": "6.947609 ",
-      "url": "www.florianschule.de "
+      "url": "https://florianschule.de"
     },
     {
       "name": "Förderschule Thymianweg: Standort Höhenhaus",
@@ -206,7 +206,7 @@
       "type": "Gymnasium",
       "lat": "50.964309",
       "long": "7.007204 ",
-      "url": "https://www.genoveva-gymnasium.de/lernen/sprachfoerderung"
+      "url": "https://www.genoveva-gymnasium.de"
     },
     {
       "name": "Georg-Büchner-Gymnasium",
@@ -278,7 +278,7 @@
       "type": "Grundschule",
       "lat": "50.970733",
       "long": "6.928253 ",
-      "url": "www.ggs-alzeyer.de"
+      "url": "https://www.ggs-alzeyer.de/"
     },
     {
       "name": "GGS An St. Theresia",
@@ -286,7 +286,7 @@
       "type": "Grundschule",
       "lat": "50.964344",
       "long": "7.0244 ",
-      "url": "www.ggstheresia.kbs-koeln.de"
+      "url": "https://www.ggstheresia-koeln.de/"
     },
     {
       "name": "GGS Anna-Langohr-Schule (Lebensbaumweg)",
@@ -294,7 +294,7 @@
       "type": "Grundschule",
       "lat": "51.019778",
       "long": "6.88478 ",
-      "url": "www.anna-langohr-schule.de"
+      "url": "https://anna-langohr-schule.de/"
     },
     {
       "name": "GGS Badorf",
@@ -334,7 +334,7 @@
       "type": "Grundschule",
       "lat": "50.907875",
       "long": "6.938844 ",
-      "url": "www.sanktnikolausschule-koeln.de"
+      "url": "https://www.sanktnikolausschule-koeln.de/"
     },
     {
       "name": "GGS Weimarer Straße ",
@@ -342,7 +342,7 @@
       "type": "Grundschule",
       "lat": "50.944909",
       "long": "7.021722 ",
-      "url": "www.ggs-weimar-koeln.de"
+      "url": "https://www.ggs-weimar-koeln.de/"
     },
     {
       "name": "GGS Westerwaldstraße Europaschule",
@@ -350,7 +350,7 @@
       "type": "Grundschule",
       "lat": "50.930415",
       "long": "6.993786 ",
-      "url": "www.ggswesterwalstr-koeln.de"
+      "url": "https://ggswesterwaldstr-koeln.de/"
     },
     {
       "name": "Grüneberg-Schule",
@@ -430,7 +430,7 @@
       "type": "Gesamtschule",
       "lat": "51.026495",
       "long": "6.899692 ",
-      "url": "http://www.heinrich-boell-gesamtschule-koeln.de"
+      "url": "https://hbg-koeln.de/"
     },
     {
       "name": "Heinrich-Heine-Gymnasium",
@@ -446,7 +446,7 @@
       "type": "Gymnasium",
       "lat": "51.018382",
       "long": "6.883714 ",
-      "url": "https://bkdf.de/"
+      "url": "https://hmg-koeln.de/"
     },
     {
       "name": "Helios-Gesamtschule",
@@ -454,7 +454,7 @@
       "type": "Gesamtschule",
       "lat": "50.955788",
       "long": "6.928012 ",
-      "url": "https://www.heliosschule.com/sekundarstufe/"
+      "url": "https://heliosschule.de"
     },
     {
       "name": "Henry-Ford-Realschule",
@@ -582,7 +582,7 @@
       "type": "Grundschule",
       "lat": "50.957513",
       "long": "6.998104 ",
-      "url": "www-kgs-horststrasse.de"
+      "url": "https://kgs-horststrasse.de/"
     },
     {
       "name": "KGS Langemaß",
@@ -590,7 +590,7 @@
       "type": "Grundschule",
       "lat": "50.968554",
       "long": "7.009106 ",
-      "url": "www.kgs-langemass.de"
+      "url": "http://www.kgs-langemass.de/"
     },
     {
       "name": "KGS Lebensbaumweg ",
@@ -598,7 +598,7 @@
       "type": "Grundschule",
       "lat": "51.00974",
       "long": "6.902605 ",
-      "url": "www.kgs-lebensbaumweg.de"
+      "url": "https://www.kgs-lebensbaumweg.de/"
     },
     {
       "name": "Königin-Luise-Schule",
@@ -630,7 +630,7 @@
       "type": "Gesamtschule",
       "lat": "50.899281",
       "long": "7.062436",
-      "url": "https://lmgporz.de/konzepte-projekte/ivk/"
+      "url": "https://lmgporz.de"
     },
     {
       "name": "Maria-Montessori-Schule ",
@@ -638,7 +638,7 @@
       "type": "Grundschule",
       "lat": "50.836145",
       "long": "6.872343 ",
-      "url": "www.monte-gs.de"
+      "url": "https://www.monte-gs.de/"
     },
     {
       "name": "Max-Ernst-Gesamtschule",
@@ -659,7 +659,7 @@
     {
       "name": "Migrafrica VJAAD e. V.",
       "project": "PROMPT!",
-      "type": "Außerschulischer\r\nPartner",
+      "type": "Außerschulischer Partner",
       "lat": "50.936418",
       "long": "6.898394",
       "url": "https://www.migrafrica.org/"
@@ -675,7 +675,7 @@
     {
       "name": "Notunterkunft Herkulesstraße Ehrenfeld",
       "project": "PROMPT!",
-      "type": "Außerschulischer\r\nPartner",
+      "type": "Außerschulischer Partner",
       "lat": "50.952177",
       "long": "6.933923"
     },
@@ -709,7 +709,7 @@
       "type": "Realschule",
       "lat": "50.929391",
       "long": "6.977616 ",
-      "url": "http://hasental.de.ps-server.net"
+      "url": "https://www.hasental.de/"
     },
     {
       "name": "Rhein-Gymnasium",
@@ -797,7 +797,7 @@
       "type": "Gesamtschule",
       "lat": "50.98347",
       "long": "7.044082 ",
-      "url": "https://www.wbgs-koeln.de/uber-die-schule/internationale-forderklasse-ifok/"
+      "url": "https://www.wbgs-koeln.de"
     }
   ]
 }

@@ -33,6 +33,7 @@
 </script>
 <style>
     .sidebar {
+        font-size: .9rem;
         position: fixed;
         top: 0;
         right: -240px;
@@ -74,14 +75,15 @@
         <span class="text-xl font-bold underline">Inhaltsverzeichnis</span>
         <ul class="">
             {#each scrollspyItems as item}
-                <li
-                        class="scrollspy-item pl-1 list-decimal list-inside {item.id === activeItem ? 'active' : ''} "
-                        on:click={() => {
+                <li class="scrollspy-item pl-1 list-decimal list-inside {item.id === activeItem ? 'active' : ''} ">
+                    <button
+                            on:click={() => {
           const section = document.getElementById(item.id);
           const sectionOffset = section.offsetTop;
           window.scrollTo({ top: sectionOffset, behavior: 'smooth' });
         }}>
-                    {item.label}
+                        {item.label}
+                    </button>
                 </li>
             {/each}
         </ul>
