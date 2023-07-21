@@ -118,7 +118,7 @@
                 </p>
                 ©2023 Universität zu Köln
             </div>
-            <div on:click={closeModal}
+            <div on:click={closeModal} on:keypress={closeModal()} role="button" tabindex="0"
                  class="absolute top-4 right-4 text-lg text-gray-500 hover:text-white border-2 backdrop-blur-md rounded-full border-gray-500 hover:border-white w-10 h-10 pb-1 flex justify-center items-center hover:-rotate-90 duration-300 hover:font-black transition-all ease-in-out select-none cursor-pointer">
                 ╳
             </div>
@@ -129,7 +129,9 @@
     <div class="flex">
         <div class="lg:w-1/5"></div>
 
-        <article class="text-white text-xl lg:text-3xl text-center font-roboto pt-20 lg:w-3/5 px-5">
+        <article role="heading"
+                 aria-level="1"
+                 class="text-white text-xl lg:text-3xl text-center font-roboto pt-20 lg:w-3/5 px-5">
             Das Zentrum für Lehrer*innenbildung (ZfL) unterstützt
             bildungsbenachteiligte Kinder und Jugendliche mit
             eigenen Förderprojekten, an denen Studierende im

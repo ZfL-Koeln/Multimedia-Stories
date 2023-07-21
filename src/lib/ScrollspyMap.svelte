@@ -46,11 +46,6 @@
         right: 0;
     }
 
-    .sidebar:hover,
-    .sidebar-control:hover + .sidebar {
-        right: 0;
-    }
-
     .scrollspy-item {
         cursor: pointer;
         transition: background-color 0.3s ease;
