@@ -130,16 +130,14 @@
                 <div>
                     {#if openContent === 0}
                         Kommunikation bildet die Basis unseres Lebens.
-                        Bei Kindern, die außerhalb der Schule kaum
-                        Sprache oder eine andere als Deutsch hören, ist
-                        die Sprachentwicklung im Deutschen meist
-                        verzögert. <strong>WEICHENSTELLUNG</strong> und <strong>PROMPT!</strong>
+                        Kinder, die wenig Kontakt mit der deutschen Sprache haben, beherrschen Deutsch in der Regel
+                        weniger gut als Gleichaltrige. <strong>WEICHENSTELLUNG</strong> und <strong>PROMPT!</strong>
                         unterstützen die Entwicklung sprachlicher
                         Fähigkeiten durch individuelle
                         Fördermaßnahmen.
 
                     {:else if openContent === 1}
-                        Die soziale Herkunft spielt bei dem Übergang von
+                        Die soziale Herkunft spielt in Deutschland bei dem Übergang von
                         der Grundschule auf die weiterführende Schule
                         eine entscheidende Rolle. Die Förderprogramme
                         verfolgen das Ziel, bestehenden sozialen
@@ -149,8 +147,7 @@
                     {:else if openContent === 2}
                         Die Projekte <strong>WEICHENSTELLUNG</strong> und
                         <strong>PROMPT!</strong> gehen gezielt auf die individuellen
-                        Bedürfnisse von Schüler*innen ein und helfen
-                        auf diesem Weg, Lücken zu schließen. Damit
+                        Bedürfnisse von Schüler*innen ein und stärken Lernen und Persönlichkeitsentwicklung. Damit
                         werden langfristig Lernerfolge erreicht.
 
                     {:else if openContent === 3}

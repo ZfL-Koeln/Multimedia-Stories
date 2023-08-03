@@ -35,16 +35,12 @@
 			<span class="w-full text-xl lg:text-2xl 2xl:text-3xl 3xl:text-4xl font-roboto p-12 lg:py-16 lg:px-8 xl:px-16">
                 <strong>WEICHENSTELLUNG für Viertklässler</strong> ist
 		ein Förderprogramm der ZEIT-Stiftung
-		Ebelin und Gerd Bucerius. Es richtet sich
-		an Grundschulkinder, die das Potenzial
-		haben, eine weiterführende Schule zu
-		besuchen, aber für den Übergang
-		Unterstützung benötigen.
-		Lehramtsstudierende begleiten die Kinder
-		über einen Zeitraum von drei Jahren,
+		Ebelin und Gerd Bucerius. Es soll Grundschulkindern helfen, den schwierigen Übergang von der
+                Grundschule auf eine weiterführende Schule zu bewältigen und ihr Potenzial bestmöglich auszuschöpfen.
+                Lehramtsstudierende begleiten die Kinder im Rahmen ihrer Praxisphasen
+                über einen Zeitraum von drei Jahren,
 		jeweils vom Beginn der vierten Klasse bis
-		zum Ende des sechsten Schuljahrs. Sie
-		unterrichten sie, arbeiten mit ihnen in
+		zum Ende des sechsten Schuljahrs. Sie arbeiten mit ihnen in
 		Lerngruppen und unternehmen einmal im
 		Monat kulturelle Aktivitäten mit ihnen.
 		</span>
@@ -64,9 +60,8 @@
 			gerufen und wendet sich an neu zugewanderte und
 			bildungsbenachteiligte Kinder und Jugendliche. Sie sollen
 			möglichst schnell am regulären Schulunterricht teilnehmen und
-			einen Schulabschluss erreichen können. In beiden Förderlinien
-			spielen Lehramtsstudierende eine Schlüsselrolle. Im Rahmen ihrer
-			Praxisphasen lernen Studierende in Eins-zu-Eins-Situationen oder
+			einen Schulabschluss erreichen können. Auch hier spielen Lehramtsstudierende eine Schlüsselrolle. Im Rahmen ihrer
+			Praxisphasen arbeiten sie in Eins-zu-Eins-Situationen oder
 			in Kleingruppen mit den Kindern und Jugendlichen – in der
 			Schule oder in einer Notunterkunft. Der direkte und längerfristige
 			Austausch zwischen Studierenden und Schüler*innen stärkt den

@@ -73,7 +73,7 @@
 			</span>
 
             <span>
-				Um Jugendliche beim
+				Um neu zugewanderte Jugendliche beim
 				Schulabschluss und beim Einstieg
 				in das Berufsleben zu unterstützen,
 				setzt das ZfL von 2020 bis 2022 das
@@ -84,9 +84,9 @@
 			</span>
         </div>
         <div class="lg:col-start-auto lg:row-span-2 lg:opacity-0 flex flex-col justify-center lg:justify-start hover:opacity-100 transition-opacity duration-500">
-            Das ZfL führt die Projekte <strong>KommMit</strong> und <strong>PROMPT!</strong> in
-            <strong>PROMPT! Bildungsteilhabe stärken</strong>
-            zusammen. In vier Teilprojekten
+            Das ZfL führt die Projekte KommMit und PROMPT! in
+            <strong>PROMPT! Bildungsteilhabe stärken</strong> zusammen.
+            In vier Teilprojekten
             fördern Lehramtsstudierende
             bildungsbenachteiligte und neu
             zugewanderte Kinder und

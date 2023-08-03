@@ -17,13 +17,12 @@
         Leistungen von Kindern und Jugendlichen in
         Deutschland seit Jahren auseinanderentwickeln.
         Verantwortlich sind oft außerschulische
-        Faktoren, zum Beispiel das Elternhaus. Aber
+        Faktoren, zum Beispiel der sozioökonomische Status. Aber
         auch das deutsche Schulsystem selbst trennt
         Schul- und Lebenswege zu früh.
-        Bildungsprojekte können Kinder mit
-        besonderem Lernbedarf stärken. Am Zentrum für
+        Bildungsprojekte können Kinder stärken. Am Zentrum für
         Lehrer*innenbildung der Uni Köln können
         Lehramtsstudierende in ihren Praxisphasen an
-        solchen Förderprojekten mitwirken.
+        solchen Projekten mitwirken.
     </div>
 </section>
