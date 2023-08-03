@@ -34,9 +34,9 @@
                     EOP/BFP. Informieren
                     Sie sich gerne zu
                     <a href="https://zfl.uni-koeln.de/praxisphasen/projekte/weichenstellung"
-                       class="underline selection:cursor-auto">WEICHENSTELLUNG</a>
+                       class="underline selection:cursor-auto"><strong>WEICHENSTELLUNG</strong></a>
                     und <a href="https://zfl.uni-koeln.de/praxisphasen/projekte/prompt-bildungsteilhabe-staerken"
-                           class="underline selection:cursor-auto">PROMPT!</a>
+                           class="underline selection:cursor-auto"><strong>PROMPT!</strong></a>
                 </div>
             </div>
 
@@ -57,9 +57,9 @@
                     Wenden Sie sich dazu gerne
                     an die Projektleitungen von
                     <a href="https://zfl.uni-koeln.de/praxisphasen/projekte/weichenstellung"
-                       class="underline selection:cursor-auto">WEICHENSTELLUNG</a> und
+                       class="underline selection:cursor-auto"><strong><strong>WEICHENSTELLUNG</strong></strong></a> und
                     <a href="https://zfl.uni-koeln.de/praxisphasen/projekte/prompt-bildungsteilhabe-staerken"
-                       class="underline selection:cursor-auto">PROMPT!</a>
+                       class="underline selection:cursor-auto"><strong>PROMPT!</strong></a>
                 </div>
             </div>
 

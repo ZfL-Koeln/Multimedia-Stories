@@ -12,7 +12,7 @@
             </article>
             <p class="peer-hover:opacity-100 font-roboto lg:leading-normal leading-snug text-sm md:text-lg lg:text-xl 2xl:text-2xl font-light lg:pt-4 lg:opacity-0 transition-opacity duration-500 flex flex-col justify-end ">
                 Aleyna, 9 Jahre, ist mit ihrer Familie aus Syrien geflüchtet. Lehramtsstudierende im
-                Projekt PROMPT! Bildungsteilhabe stärken helfen ihr beim Deutschlernen.
+                Projekt <strong>PROMPT! Bildungsteilhabe stärken</strong> helfen ihr beim Deutschlernen.
             </p>
         </div>
         <div class="flex lg:h-1/3">
@@ -25,8 +25,8 @@
                     Da lernt man dann mehr über die Römer.“
                 </article>
                 <p class="peer-hover:opacity-100 font-roboto text-sm leading-snug lg:leading-normal md:text-lg lg:text-xl 2xl:text-2xl font-light lg:pt-4 lg:opacity-0 transition-opacity duration-500 flex flex-col justify-end">
-                    Martin, 11 Jahre, gefällt am Projekt WEICHENSTELLUNG für
-                    Viertklässler, dass man nicht nur in der Schule lernt, sondern auch
+                    Martin, 11 Jahre, gefällt am Projekt <strong>WEICHENSTELLUNG für
+                    Viertklässler</strong>, dass man nicht nur in der Schule lernt, sondern auch
                     Ausflüge unternimmt.
                 </p>
             </div>
@@ -42,7 +42,7 @@
             </article>
             <p class="peer-hover:opacity-100 font-roboto text-sm leading-snug lg:leading-normal md:text-lg lg:text-xl 2xl:text-2xl font-light lg:pt-4 lg:opacity-0 hover:opacity-100 transition-opacity duration-500 flex flex-col justify-end">
                 Amela, 11 Jahre, hat mit Hilfe des Projekts
-                WEICHENSTELLUNG für Viertklässler den erfolgreichen
+                <strong>WEICHENSTELLUNG für Viertklässler</strong> den erfolgreichen
                 Wechsel auf die weiterführende Schule geschafft.
             </p>
         </div>

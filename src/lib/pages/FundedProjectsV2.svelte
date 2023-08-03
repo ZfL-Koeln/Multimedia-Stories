@@ -33,7 +33,7 @@
             <article class="w-full flex flex-col lg:w-1/2 lg:h-fit">
 
 			<span class="w-full text-xl lg:text-2xl 2xl:text-3xl 3xl:text-4xl font-roboto p-12 lg:py-16 lg:px-8 xl:px-16">
-		WEICHENSTELLUNG für Viertklässler ist
+                <strong>WEICHENSTELLUNG für Viertklässler</strong> ist
 		ein Förderprogramm der ZEIT-Stiftung
 		Ebelin und Gerd Bucerius. Es richtet sich
 		an Grundschulkinder, die das Potenzial
@@ -52,7 +52,7 @@
                     <button class="bg-[#F7D3E4] hover:bg-pink-300 text-black font-bold font-sans py-2 px-8 border border-black rounded-full mx-auto my-8 lg:mt-0"
                             style="box-shadow:+6px 6px black;">
                         mehr Infos zu<br>
-                        WEICHENSTELLUNG
+                        <strong>WEICHENSTELLUNG</strong>
                     </button>
                 </a>
             </article>
@@ -60,7 +60,7 @@
             <article class="w-full flex flex-col lg:w-1/2 lg:h-fit">
 
 			<span class="w-full text-xl lg:text-2xl 2xl:text-3xl 3xl:text-4xl font-roboto p-12 lg:py-16 lg:px-8 xl:px-16">
-			PROMPT! Bildungsteilhabe stärken wurde vom ZfL ins Leben
+                <strong>PROMPT! Bildungsteilhabe stärken</strong> wurde vom ZfL ins Leben
 			gerufen und wendet sich an neu zugewanderte und
 			bildungsbenachteiligte Kinder und Jugendliche. Sie sollen
 			möglichst schnell am regulären Schulunterricht teilnehmen und
@@ -78,7 +78,7 @@
                     <button class="bg-pink-200 hover:bg-pink-300 text-black font-bold font-sans py-2 px-8 border border-black rounded-full mx-auto my-8 lg:mt-0"
                             style="box-shadow:+6px 6px black;">
                         mehr Infos zu<br>
-                        PROMPT!
+                        <strong>PROMPT!</strong>
                     </button>
                 </a>
             </article>

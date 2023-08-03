@@ -133,7 +133,7 @@
                         Bei Kindern, die außerhalb der Schule kaum
                         Sprache oder eine andere als Deutsch hören, ist
                         die Sprachentwicklung im Deutschen meist
-                        verzögert. WEICHENSTELLUNG und PROMPT!
+                        verzögert. <strong>WEICHENSTELLUNG</strong> und <strong>PROMPT!</strong>
                         unterstützen die Entwicklung sprachlicher
                         Fähigkeiten durch individuelle
                         Fördermaßnahmen.
@@ -147,8 +147,8 @@
                         Bildungsübergänge chancengerechter sind.
 
                     {:else if openContent === 2}
-                        Die Projekte WEICHENSTELLUNG und
-                        PROMPT! gehen gezielt auf die individuellen
+                        Die Projekte <strong>WEICHENSTELLUNG</strong> und
+                        <strong>PROMPT!</strong> gehen gezielt auf die individuellen
                         Bedürfnisse von Schüler*innen ein und helfen
                         auf diesem Weg, Lücken zu schließen. Damit
                         werden langfristig Lernerfolge erreicht.

@@ -52,12 +52,12 @@
     <!-- Redundanz aus der Hölle -->
     <div class="ml-28 sm:ml-32 my-16 lg:container lg:mx-auto grid grid-rows-4 grid-cols-1 lg:grid-rows-3 lg:grid-cols-4 absolute inset-0 text-white text-xs md:text-base lg:text-lg xl:text-xl 2xl:text-xl 3xl:text-3xl px-4 font-roboto">
         <div class="lg:col-start-1 lg:row-start-1 lg:row-span-2 flex flex-col justify-center lg:justify-start lg:opacity-0 hover:opacity-100 transition-opacity duration-500">
-            Das Sprachförderprojekt PROMPT! startet. Kölner Lehramtsstudierende arbeiten mit geflüchteten und neu
+            Das Sprachförderprojekt <strong>PROMPT!</strong> startet. Kölner Lehramtsstudierende arbeiten mit geflüchteten und neu
             zugewanderten Kindern, Jugendlichen und jungen Erwachsenen – erst in der Notunterkunft, dann in der Schule.
 
         </div>
         <div class="lg:col-start-auto lg:row-start-2 lg:row-span-3 flex flex-col justify-center lg:justify-end lg:opacity-0 hover:opacity-100 transition-opacity duration-500">
-            Das ZfL setzt das Projekt WEICHENSTELLUNG für Viertklässler
+            Das ZfL setzt das Projekt <strong>WEICHENSTELLUNG für Viertklässler</strong>
             der ZEIT-Stiftung Ebelin und Gerd Bucerius am Standort Köln um.
             Es unterstützt Kinder beim Übergang auf eine weiterführende Schule.
 
@@ -77,15 +77,15 @@
 				Schulabschluss und beim Einstieg
 				in das Berufsleben zu unterstützen,
 				setzt das ZfL von 2020 bis 2022 das
-				Projekt WEICHENSTELLUNG
+                Projekt <strong>WEICHENSTELLUNG</strong>
 				Ausbildung und Beruf der
 				ZEIT-Stiftung in Köln um.
 
 			</span>
         </div>
         <div class="lg:col-start-auto lg:row-span-2 lg:opacity-0 flex flex-col justify-center lg:justify-start hover:opacity-100 transition-opacity duration-500">
-            Das ZfL führt die Projekte KommMit und PROMPT! in
-            PROMPT! Bildungsteilhabe stärken
+            Das ZfL führt die Projekte <strong>KommMit</strong> und <strong>PROMPT!</strong> in
+            <strong>PROMPT! Bildungsteilhabe stärken</strong>
             zusammen. In vier Teilprojekten
             fördern Lehramtsstudierende
             bildungsbenachteiligte und neu
