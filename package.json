@@ -24,9 +24,9 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@fontsource/open-sans": "^5.0.5",
-		"@fontsource/roboto": "^5.0.5",
-		"@fontsource/roboto-slab": "^5.0.5",
+		"@fontsource/open-sans": "^5.0.7",
+		"@fontsource/roboto": "^5.0.7",
+		"@fontsource/roboto-slab": "^5.0.7",
 		"leaflet": "^1.9.4",
 		"leaflet.markercluster": "^1.5.3",
 		"sass": "^1.64.2",
