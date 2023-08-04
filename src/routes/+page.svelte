@@ -13,7 +13,7 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="Bildungsungleichheit entgegenwirken">
     <meta property="og:description"
-          content='Wie das ZfL bildungsbenachteiligte Kinder und Jugendliche mit eigenen Förderprojekten unterstützt'/>
+          content='ZfL-Projekte unterstützen bildungsbenachteiligte Kinder und Jugendliche'/>
     <meta property="og:image" content="{`${og_image}`}">
     <meta property="og:image:alt" content="ZfL Multimedia Stories">
     <meta property="og:image:width" content="1200">
@@ -25,6 +25,6 @@
     <meta property="twitter:url" content="https://zfl-stories.uni-koeln.de">
     <meta name="twitter:title" content="ZfL Multimedia Stories">
     <meta name="twitter:description"
-          content="Bildungsungleichheit entgegenwirken – Wie das ZfL bildungsbenachteiligte Kinder und Jugendliche mit eigenen Förderprojekten unterstützt">
+          content="ZfL-Projekte unterstützen bildungsbenachteiligte Kinder und Jugendliche">
     <meta name="twitter:image" content="{`${og_image}`}">
 </svelte:head>
