@@ -15,7 +15,7 @@
         </div>
     </div>
 
-    <div class=" flex justify-center font-roboto">
+    <div class=" flex justify-center font-roboto pb-10">
 
         <div class="lg:w-2/3 flex lg:flex-row flex-col max-h-fit">
 
@@ -26,7 +26,7 @@
                     <div class="text-center text-white text-2xl lg:text-5xl">Studierende</div>
                 </figure>
 
-                <div class="group-hover:opacity-100 text-center text-2xl lg:text-3xl text-white opacity-0 absolute transition-all duration-300 px-0 md:px-16 lg:px-0">
+                <div class="group-hover:opacity-100 text-center text-1xl lg:text-3xl text-white opacity-0 absolute transition-all duration-300 px-6 md:px-16 lg:px-0">
                     Werden Sie Mentor*in
                     in einem unserer
                     Projekte und
@@ -48,7 +48,7 @@
                     <div class="w-full text-center text-white text-2xl lg:text-5xl">Schulen</div>
                 </figure>
 
-                <div class="group-hover:opacity-100 text-center text-2xl lg:text-3xl text-white opacity-0 absolute transition-all duration-300  px-0 md:px-16 lg:px-0">
+                <div class="group-hover:opacity-100 text-center text-1xl lg:text-3xl text-white opacity-0 absolute transition-all duration-300  px-6 md:px-16 lg:px-0">
                     Sie möchten Ihren
                     Schüler*innen die
                     Möglichkeit bieten, in
@@ -70,7 +70,7 @@
                     <div class="w-full text-center text-white text-2xl lg:text-5xl">Spenden</div>
                 </figure>
 
-                <div class="group-hover:opacity-100 text-center text-2xl lg:text-3xl text-white opacity-0 absolute transition-all duration-300  px-0 md:px-16 lg:px-0">
+                <div class="group-hover:opacity-100 text-center text-1xl lg:text-3xl text-white opacity-0 absolute transition-all duration-300 px-6 md:px-16 lg:px-0">
                     Unterstützen Sie
                     unsere Projekte mit
                     Ihrer Spende. Über die

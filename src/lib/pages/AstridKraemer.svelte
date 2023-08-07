@@ -10,7 +10,7 @@
         <div class="relative">
             <Youtube id="mZpcDfHXGhw"/>
             <div class="backdrop-blur-md backdrop-brightness-75 hover:backdrop-brightness-50 absolute inset-0 flex flex-col justify-center items-center {acceptYoutube ? 'hidden' : 'block'} transition-all">
-                <p class="font-roboto select-none text-white text-lg md:text-2xl text-center pb-4 md:px-10">{youtubeMessage}</p>
+                <p class="font-roboto select-none text-white text-lg md:text-2xl text-center pb-6 md:px-10">{youtubeMessage}</p>
                 <button class="border-2 drop-shadow-xl text-lg rounded-full border-white font-sans text-white py-2 px-4 bg-white bg-opacity-0 hover:bg-opacity-30 active:bg-opacity-50 transition-all duration-300"
                         on:click={() => acceptYoutube = true}> Ok
                 </button>

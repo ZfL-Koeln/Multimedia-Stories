@@ -21,7 +21,7 @@
 	const youtubeMessage = 'Dieser Inhalt wird von YouTube bereitgestellt. Wenn Sie den Inhalt aktivieren, werden ggf. personenbezogene Daten verarbeitet und Cookies gesetzt.'
 
 </script>
-<section class="relative">
+<div id="main" class="relative">
 	<ScrollspyMap/>
 	<Intro/>
 	<EducationalImbalance/>
@@ -39,8 +39,12 @@
 	<FundedProjects2/>
 	<CallToAction/>
 	<Footer/>
-</section>
+</div>
 
 <style lang="scss">
+	/* Hide scroll bar */
+	#main {
+		overflow: hidden;
+	}
 
 </style>

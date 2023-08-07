@@ -129,9 +129,7 @@
     <div class="flex">
         <div class="lg:w-1/5"></div>
 
-        <article role="heading"
-                 aria-level="1"
-                 class="text-white text-xl lg:text-3xl text-center font-roboto pt-20 lg:w-3/5 px-5">
+        <article class="text-white text-xl lg:text-3xl text-center font-roboto pt-20 lg:w-3/5 px-5">
             Das Zentrum für Lehrer*innenbildung (ZfL) unterstützt
             bildungsbenachteiligte Kinder und Jugendliche mit
             eigenen Förderprojekten, an denen Studierende im
@@ -141,7 +139,7 @@
     <div class="lg:translate-y-12 w-full lg:w-fit">
         <img src="{zfl}" alt="ZfL Logo" class="w-60 mx-auto lg:ml-8">
     </div>
-    <nav id="navbar" class="flex justify-center text-white py-4">
+    <nav id="navbar" class="text-center text-white py-4 px-6">
         <a href="https://zfl.uni-koeln.de">Website</a>
         <a href="https://www.instagram.com/zflkoeln/">Instagram</a>
         <a href="https://www.facebook.com/zflkoeln">Facebook</a>
