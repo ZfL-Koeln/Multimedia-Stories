@@ -24,7 +24,7 @@
 						den Bildungsweg werden
 						schon früh gestellt.
 				</div>
-            <img src="{zfl}" alt="ZfL-Logo" class="top-1 right-1 w-60 invert-0 -mt-12">
+            <img src="{zfl}" alt="ZfL-Logo" class="top-1 right-1 w-60 invert-0" style="margin-top: -120px;">
         </div>
 
         <div class="inset-y-0 right-0 lg:pl-8 lg:pr-0 lg:mb-0 lg:mx-0 lg:w-1/2 xl:w-3/5 xl:max-w-full h-screen lg:absolute xl:px-0 p-0">
