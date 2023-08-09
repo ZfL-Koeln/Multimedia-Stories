@@ -2,7 +2,7 @@
     import img01 from "$lib/assets/img/Illu1.svg";
 </script>
 
-<section id="page-10" class=" relative page-container lg:h-screen w-full overflow-clip bg-gradient-pink"
+<section id="page-10" class=" relative page-container w-full overflow-clip bg-gradient-pink"
          data-scrollspy="Weiterbildung für Studierende">
     <p class="text-3xl text-center md:text-4xl xl:text-5xl 2xl:text-5xl mx-auto pb-0 lg:pb-8 p-8 font-sans font-extrabold ">
         Wie profitieren Studierende von den Projekten?
@@ -59,10 +59,10 @@
                 <span class="text-lg xl:text-2xl font-normal">der befragten Studierenden können<br>Förderbedarfe besser erkennen</span>
             </article>
         </div>
-
+        <div class="row-start-8 col-span-4 text-sm w-full px-8 lg:px-0 text-center">
+            Quelle: Datenerhebung des Zentrums für Lehrer*innenbildung zur Evaluation des Projekts <i>KommMit im
+            Team</i>
+        </div>
     </div>
 
-    <p class="text-xs w-full px-8 lg:px-0 lg:absolute p-4 bottom-2 lg:left-2 text-center lg:text-left">
-        Quelle: Datenerhebung des Zentrums für Lehrer*innenbildung zur Evaluation des Projekts <i>KommMit im Team</i>
-    </p>
 </section>
