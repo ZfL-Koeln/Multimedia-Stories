@@ -15,7 +15,7 @@
     <img src="{datenerhebung}" alt="Datenerhbebung Förderunterricht" class="pt-6 max-w-[length:80%] md:max-w-[length:60%] mx-auto">
 
     <div class="text-xs w-full px-8 text-center pb-12 pt-12">
-        Quelle: Datenerhebung des Zentrums für Lehrer*innenbildung zur Evaluation des Projekts <i><strong>WEICHENSTELLUNG
-        für Viertklässler</strong></i>
+        Quelle: Datenerhebung des Zentrums für Lehrer*innenbildung zur Evaluation des Projekts <strong>WEICHENSTELLUNG
+        für Viertklässler</strong>
     </div>
 </section>
