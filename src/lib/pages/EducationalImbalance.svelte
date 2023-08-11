@@ -21,7 +21,7 @@
         auch das deutsche Schulsystem selbst trennt
         Schul- und Lebenswege zu früh.
         Bildungsprojekte können Kinder stärken. Am Zentrum für
-        Lehrer*innenbildung der Uni Köln können
+        Lehrer*innenbildung der Universität zu Köln können
         Lehramtsstudierende in ihren Praxisphasen an
         solchen Projekten mitwirken.
     </div>

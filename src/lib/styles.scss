@@ -11,10 +11,14 @@ iframe {
   aspect-ratio: auto !important;
 }
 
-.marker-cluster-small {
+.marker-cluster-small,
+.marker-cluster-medium,
+.marker-cluster-large {
   background-color: #7ac8d9;
 }
 
-.marker-cluster-small div {
+.marker-cluster-small div,
+.marker-cluster-medium div,
+.marker-cluster-large div {
   background-color: #00b4dc;
 }

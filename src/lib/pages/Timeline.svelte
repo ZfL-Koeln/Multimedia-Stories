@@ -51,47 +51,49 @@
 
     <!-- Redundanz aus der Hölle -->
     <div class="ml-28 sm:ml-32 my-16 lg:container lg:mx-auto grid grid-rows-4 grid-cols-1 lg:grid-rows-3 lg:grid-cols-4 absolute inset-0 text-white text-xs md:text-base lg:text-lg xl:text-xl 2xl:text-xl 3xl:text-3xl px-4 font-roboto">
-        <div class="lg:col-start-1 lg:row-start-1 lg:row-span-2 flex flex-col justify-center lg:justify-start lg:opacity-0 hover:opacity-100 transition-opacity duration-500">
-            Das Sprachförderprojekt <strong>PROMPT!</strong> startet. Kölner Lehramtsstudierende arbeiten mit geflüchteten und neu
-            zugewanderten Kindern, Jugendlichen und jungen Erwachsenen – erst in der Notunterkunft, dann in der Schule.
-
+        <div class="lg:opacity-0 lg:col-start-1 lg:row-start-1 lg:row-span-2 flex flex-col justify-center lg:justify-start hover:opacity-100 transition-opacity duration-500">
+            <p>
+                Das Sprachförderprojekt <strong>PROMPT!</strong> startet. Kölner Lehramtsstudierende arbeiten mit
+                geflüchteten und neu
+                zugewanderten Kindern, Jugendlichen und jungen Erwachsenen – erst in der Notunterkunft, dann in der
+                Schule.
+            </p>
         </div>
         <div class="lg:col-start-auto lg:row-start-2 lg:row-span-3 flex flex-col justify-center lg:justify-end lg:opacity-0 hover:opacity-100 transition-opacity duration-500">
-            Das ZfL setzt das Projekt <strong>WEICHENSTELLUNG für Viertklässler</strong>
-            der ZEIT-Stiftung Ebelin und Gerd Bucerius am Standort Köln um.
-            Es unterstützt Kinder beim Übergang auf eine weiterführende Schule.
-
+            <p>
+                Das ZfL setzt das Projekt <strong>WEICHENSTELLUNG für Viertklässler</strong>
+                der ZEIT-Stiftung Ebelin und Gerd Bucerius am Standort Köln um.
+                Es unterstützt Kinder beim Übergang auf eine weiterführende Schule.
+            </p>
         </div>
-        <div class="lg:col-start-auto lg:row-span-3 flex flex-col justify-center lg:justify-between lg:opacity-0 hover:opacity-100 transition-opacity duration-500">
-			<span>
-				Mit dem Aufkommen der Corona-Pandemie wird 2020 das Projekt
-				KommMit ins Leben gerufen, das sich der
-				durch Schulschließung, Home-Schooling
-				und Wechselunterricht entstandenen
-				Probleme bildungsbenachteiligter
-				Schüler*innen annimmt.<br>
-			</span>
-
-            <span>
-				Um neu zugewanderte Jugendliche beim
-				Schulabschluss und beim Einstieg
-				in das Berufsleben zu unterstützen,
-				setzt das ZfL von 2020 bis 2022 das
-                Projekt <strong>WEICHENSTELLUNG</strong>
-				Ausbildung und Beruf der
-				ZEIT-Stiftung in Köln um.
-
-			</span>
+        <div class="break-normal lg:col-start-auto lg:row-span-3 flex flex-col justify-center lg:justify-between lg:opacity-0 hover:opacity-100 transition-opacity duration-500">
+            <p>
+                Mit dem Aufkommen der Corona-Pandemie wird 2020 das Projekt
+                <strong>KommMit</strong> ins Leben gerufen, das sich der
+                durch Schulschließung, Home-Schooling und Wechselunterricht entstandenen
+                Probleme bildungsbenachteiligter
+                Schüler*innen annimmt.
+            </p>
+            <p>
+                Um neu zugewanderte Jugendliche beim
+                Schulabschluss und beim Einstieg
+                in das Berufsleben zu unterstützen,
+                setzt das ZfL von 2020 bis 2022 das
+                Projekt <strong>WEICHENSTELLUNG
+                Ausbildung und Beruf</strong> der
+                ZEIT-Stiftung in Köln um.
+            </p>
         </div>
         <div class="lg:col-start-auto lg:row-span-2 lg:opacity-0 flex flex-col justify-center lg:justify-start hover:opacity-100 transition-opacity duration-500">
-            Das ZfL führt die Projekte KommMit und PROMPT! in
-            <strong>PROMPT! Bildungsteilhabe stärken</strong> zusammen.
-            In vier Teilprojekten
-            fördern Lehramtsstudierende
-            bildungsbenachteiligte und neu
-            zugewanderte Kinder und
-            Jugendliche in Förder- und
-            Regelklassen, in der Notunterkunft und beim Berufseinstieg.
+            <p>Das ZfL führt die Projekte <strong>KommMit</strong> und <strong>PROMPT!</strong> in
+                <strong>PROMPT! Bildungsteilhabe stärken</strong> zusammen.
+                In vier Teilprojekten
+                fördern Lehramtsstudierende
+                bildungsbenachteiligte und neu
+                zugewanderte Kinder und
+                Jugendliche in Förder- und
+                Regelklassen, in der Notunterkunft und beim Berufseinstieg.
+            </p>
         </div>
     </div>
 </section>

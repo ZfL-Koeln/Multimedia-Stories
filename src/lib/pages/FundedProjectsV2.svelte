@@ -31,7 +31,7 @@
 		jeweils vom Beginn der vierten Klasse bis
 		zum Ende des sechsten Schuljahrs. Sie arbeiten mit ihnen in
 		Lerngruppen und unternehmen einmal im
-		Monat kulturelle Aktivitäten mit ihnen.
+		Monat gemeinsam kulturelle Aktivitäten.
 		</span>
         </div>
         <div id="prompt">

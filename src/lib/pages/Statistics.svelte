@@ -59,9 +59,9 @@
                 <span class="text-lg xl:text-2xl font-normal">der befragten Studierenden können<br>Förderbedarfe besser erkennen</span>
             </article>
         </div>
-        <div class="row-start-8 col-span-4 text-sm w-full px-8 lg:px-0 text-center">
-            Quelle: Datenerhebung des Zentrums für Lehrer*innenbildung zur Evaluation des Projekts <i>KommMit im
-            Team</i>
+        <div class="text-xs row-start-8 col-span-4 text-sm w-full px-8 lg:px-0 text-center" style="font-family: 'Open Sans', sans-serif;">
+            Quelle: Datenerhebung des Zentrums für Lehrer*innenbildung zur Evaluation des Projekts <strong>KommMit im
+            Team</strong>
         </div>
     </div>
 
