@@ -11,7 +11,7 @@
             „Diese enge Betreuung sieht die Schüler*innen als Ganzes.“
         </p>
     </div>
-    <div class="w-full h-max lg:w-7/12 lg:py-8 px-16">
+    <div class="w-full h-max lg:w-7/12 lg:py-8 px-6">
         <div class="relative">
             <Youtube id="_R8v5aw6vUA"/>
             <div class="backdrop-blur-md backdrop-brightness-75 hover:backdrop-brightness-50 absolute inset-0 flex flex-col justify-center items-center {acceptYoutube ? 'hidden' : 'block'} transition-all">

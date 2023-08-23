@@ -3,14 +3,15 @@
     import imgCenter from "$lib/assets/img/Icon_Schule.svg"
     import imgRight from "$lib/assets/img/Icon_Spenden.svg"
 </script>
-<section id="page-20" class="min-h-screen bg-gradient-pink-to-blue lg:h-screen page-container bg-gradient"
+
+<section id="page-20" class="bg-gradient-pink-to-blue lg:h-screen page-container bg-gradient"
          data-scrollspy="Unterstützen und Mitmachen">
-    <div class="flex flex-col justify-center h-1/3">
-        <div class="text-3xl md:text-5xl lg:text-7xl text-white font-sans font-extrabold text-center lg:px-32 pt-12 px-5">
+    <div class="flex flex-col justify-center pt-12">
+        <div class="text-4xl break-words tracking-wide md:text-5xl xl:text-6xl 2xl:text-7xl font-sans font-extrabold px-5 text-white text-center">
             Sie möchten sich für mehr
             Bildungsgerechtigkeit einsetzen?
         </div>
-        <div class="flex justify-center pt-4 lg:pb-16 pb-8">
+        <div class="flex justify-center pt-4 lg:pb-16 pb-8" style="margin-top: 2rem;">
             <div class="bg-white w-2/12 h-2 "></div>
         </div>
     </div>

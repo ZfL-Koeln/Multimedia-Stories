@@ -6,11 +6,11 @@
 </script>
 <section id="page-8" class="flex flex-col lg:flex-row lg:h-screen page-container" data-scrollspy="Wichtige Erfahrungen">
     <div class="w-full lg:w-5/12 flex justify-center">
-        <p class="text-3xl tracking-wide text-center lg:text-right 2xl:text-6xl mx-auto font-sans font-extrabold py-12 lg:pl-32 lg:pt-32 px-5">
+        <p class="text-3xl text-center lg:text-right tracking-wide xl:text-6xl 2xl:text-6xl mx-auto font-sans font-extrabold py-12 lg:pr-32 lg:pt-12 px-5">
             „Ich kann mich ausprobieren und meinen eigenen Lehrstil finden.“
         </p>
     </div>
-    <div class="w-full h-max lg:w-7/12 lg:py-8 px-16">
+    <div class="w-full h-max lg:w-7/12 lg:py-8 px-6">
         <div class="relative">
             <Youtube id="bq6elS95_kc"/>
             <div class="backdrop-blur-md backdrop-brightness-75 hover:backdrop-brightness-50 absolute inset-0 flex flex-col justify-center items-center {acceptYoutube ? 'hidden' : 'block'} transition-all">

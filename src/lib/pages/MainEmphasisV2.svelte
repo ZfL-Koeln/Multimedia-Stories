@@ -4,12 +4,14 @@
     function openModal(content) {
         openContent = content;
         document.getElementById("modal").classList.remove("hidden");
+        if (window.innerWidth < 500) {
+            document.getElementById('modal').scrollIntoView();
+        }
     }
 
     function closeModal() {
         document.getElementById("modal").classList.add("hidden");
     }
-
 
     export function clickOutside(node) {
         const handleClick = event => {
@@ -36,6 +38,7 @@
         background-size: cover;
         height: 100%;
         width: 100%;
+        min-height: 300px;
     }
 
     @media screen and (min-width: 1024px) {
@@ -72,9 +75,9 @@
     }
 
 </style>
-<section id="page-13" class="relative page-container h-screen bg-black" data-scrollspy="Schwerpunkte der Projekte">
+<section id="page-13" class="relative page-container md:h-screen bg-black pt-12" data-scrollspy="Schwerpunkte der Projekte">
     <div class="flex flex-col justify-center h-1/6 lg:h-2/6">
-        <div class="pt-10 text-4xl md:text-5xl 2xl:text-7xl text-white text-center hyphens-auto font-sans font-extrabold pt-2 break-words">
+        <div class="text-4xl md:text-5xl 2xl:text-7xl text-white text-center hyphens-auto font-sans font-extrabold pt-2 break-words">
             SCHWERPUNKTE
         </div>
         <div class="flex justify-center pt-2 pb-12">
@@ -82,13 +85,12 @@
         </div>
     </div>
 
-
-    <div class="h-5/6 w-3/5 mb-8 mx-auto lg:m-0 lg:w-full lg:h-2/5 grid grid-rows-4 lg:grid-rows-1 lg grid-cols-1 lg:grid-cols-4 pb-4">
+    <div class="h-6/6 md:h-5/6 mb-8 mx-auto lg:m-0 lg:w-full lg:h-2/5 grid grid-rows-4 lg:grid-rows-1 lg grid-cols-1 lg:grid-cols-4 pb-4">
         <figure class="col-auto image-container image-left bg-contain">
-            <div class="flex flex-col justify-evenly text-center image-hover-content bg-black bg-opacity-75 w-full h-full text-white text-2xl sm:text-3xl  font-roboto">
+            <div class="flex flex-col justify-evenly text-center image-hover-content bg-black bg-opacity-75 w-full h-full text-white text-2xl sm:text-3xl font-roboto">
                 Sprachförderung
                 <button on:click={() => openModal(0)}
-                        class="mx-auto border-[2px] border-white text-white text-2xl font-sans rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
+                        class="mx-auto border-[1px] md:border-[2px] border-white text-white text-sm md:text-2xl font-sans rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
                     mehr Infos
                 </button>
             </div>
@@ -97,7 +99,7 @@
             <div class="flex flex-col justify-evenly text-center image-hover-content bg-black bg-opacity-75  w-full h-full text-white text-2xl sm:text-3xl  font-roboto">
                 Bildungsübergänge
                 <button on:click={() => openModal(1)}
-                        class="mx-auto border-[2px] border-white text-white text-2xl font-sans rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
+                        class="mx-auto border-[1px] md:border-[2px] border-white text-white text-sm md:text-2xl font-sans rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
                     mehr Infos
                 </button>
             </div>
@@ -106,7 +108,7 @@
             <div class="flex flex-col justify-evenly text-center image-hover-content bg-black bg-opacity-75  w-full h-full text-white text-2xl sm:text-3xl  font-roboto">
                 Lernlücken
                 <button on:click={() => openModal(2)}
-                        class="mx-auto border-[2px] border-white text-white text-2xl font-sans rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
+                        class="mx-auto border-[1px] md:border-[2px] border-white text-white text-sm md:text-2xl font-sans rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
                     mehr Infos
                 </button>
             </div>
@@ -115,7 +117,7 @@
             <div class="flex flex-col justify-evenly text-center image-hover-content bg-black bg-opacity-75  w-full h-full text-white text-2xl sm:text-3xl  font-roboto">
                 Sozial-Emotionales Lernen
                 <button on:click={() => openModal(3)}
-                        class="mx-auto border-[2px] border-white text-white text-2xl font-sans rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
+                        class="mx-auto border-[1px] md:border-[2px] border-white text-white text-sm md:text-2xl font-sans rounded-full bg-opacity-10 hover:bg-opacity-30 active:bg-opacity-50 w-fit hover:drop-shadow-2xl px-8 py-2 bg-white transition-colors duration-500 ease-in-out">
                     mehr Infos
                 </button>
             </div>
@@ -123,10 +125,10 @@
     </div>
 
     <div id="modal" use:clickOutside on:click_outside={closeModal}
-         class=" absolute top-1/4 left-12 right-12 lg:right-auto lg:top-1/3 lg:w-1/3 lg:h-1/3 lg:left-1/3 hidden items-center">
+         class="hidden absolute top-1/4 left-12 right-12 lg:right-auto lg:top-1/3 lg:w-1/3 lg:h-1/3 lg:left-1/3 items-center">
         <div class="p-8 bg-gradient-pink-to-blue">
             <div class="bg-white text-md xl:text-xl text-center font-medium font-roboto flex flex-col justify-center p-2"
-                 style="padding: 30px 20px 10px 20px;">
+                 style="padding: 30px 10px 10px 10px;">
                 <div>
                     {#if openContent === 0}
                         Kommunikation bildet die Basis unseres Lebens.

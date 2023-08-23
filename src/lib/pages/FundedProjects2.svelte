@@ -2,7 +2,7 @@
          data-scrollspy="Wirtschaftlich sinnvoll">
     <div class="w-full lg:w-5/12 flex flex-col justify-between py-12 lg:pl-16 lg:py-32">
         <div>
-            <p class="text-3xl tracking-wide text-center lg:text-left md:text-5xl xl:text-6xl 2xl:text-7xl font-sans font-extrabold px-5">
+            <p class="text-4xl tracking-wide text-center lg:text-left md:text-5xl xl:text-6xl 2xl:text-7xl font-sans font-extrabold px-5">
                 Förderprogramme für Jugendliche rechnen sich
             </p>
             <div class="flex justify-center lg:justify-start pt-8">
@@ -16,7 +16,6 @@
     </div>
     <article class="min-h-screen p-8 xl:p-16 2xl:p-20 lg:flex lg:flex-row lg:items-center">
 		<span class="font-roboto text-base sm:text-lg lg:text-2xl  2xl:text-3xl 3xl:text-4xl h-fit my-auto">
-
 		Förderprogramme helfen nicht nur betroffenen Jugendlichen, sie zahlen sich auch wirtschaftlich aus.
 		Das ist das Ergebnis einer Studie, die das Zentrum für Lehrer*innenbildung der Universität zu Köln 2022
 		veröffentlicht hat. Damit sich eine Fördermaßnahme auch wirtschaftlich lohnt, genügen bereits zwei Jugendliche,

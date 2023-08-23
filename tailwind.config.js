@@ -8,8 +8,7 @@ export default {
 				'4xl': '2400px'
 			},
 			fontFamily: {
-				'roboto': ['Roboto', 'serif'],
-				'roboto-slab': ['Roboto Slab', 'serif']
+				'roboto': ['Roboto Slab', 'serif']
 			}
 		},
 	},

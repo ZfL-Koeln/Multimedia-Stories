@@ -4,9 +4,9 @@
     export let acceptYoutube;
     export let youtubeMessage;
 </script>
-<section id="page-12" class="flex flex-col-reverse lg:flex-row lg:h-screen page-container"
+<section id="page-12" class="flex flex-col-reverse lg:flex-row lg:h-screen page-container pt-12"
          data-scrollspy="Praxisprojekte helfen">
-    <div class="w-full h-max lg:w-7/12 px-16">
+    <div class="w-full h-max lg:w-7/12 px-6">
         <div class="relative">
             <Youtube id="mZpcDfHXGhw"/>
             <div class="backdrop-blur-md backdrop-brightness-75 hover:backdrop-brightness-50 absolute inset-0 flex flex-col justify-center items-center {acceptYoutube ? 'hidden' : 'block'} transition-all">
@@ -16,10 +16,10 @@
                 </button>
             </div>
         </div>
-        <p class="font-roboto text-3xl 2xl:text-5xl text-center lg:text-left font-bold my-4 md:pt-8">
+        <p class="font-roboto text-2xl 2xl:text-5xl text-center lg:text-left font-bold my-4 md:pt-8">
             Astrid Krämer, ZfL
         </p>
-        <p class="font-roboto text-2xl mb-4">
+        <p class="font-roboto text-xl mb-4">
             Astrid Krämer setzt sich für mehr Bildungsteilhabe ein. Sie leitet das Team Praxisphasen
             am ZfL und ist überzeugt, dass die Praxisprojekte im Lehramtsstudium eine enorme Bedeutung haben.
         </p>
