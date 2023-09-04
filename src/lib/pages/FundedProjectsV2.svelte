@@ -23,8 +23,8 @@
         <div id="weichenstellung">
         <span class="text-xl lg:text-2xl 2xl:text-3xl 3xl:text-4xl font-roboto">
                 <strong>WEICHENSTELLUNG für Viertklässler</strong> ist
-		ein Förderprogramm der ZEIT-Stiftung
-		Ebelin und Gerd Bucerius. Es soll Grundschulkindern helfen, den schwierigen Übergang von der
+		ein Mentoringprogramm der ZEIT-Stiftung
+		Ebelin und Gerd Bucerius. Es soll Grundschulkindern helfen, den Übergang von der
                 Grundschule auf eine weiterführende Schule zu bewältigen und ihr Potenzial bestmöglich auszuschöpfen.
                 Lehramtsstudierende begleiten die Kinder im Rahmen ihrer Praxisphasen
                 über einen Zeitraum von drei Jahren,
