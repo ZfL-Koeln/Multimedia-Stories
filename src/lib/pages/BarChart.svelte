@@ -9,10 +9,8 @@
     <p class="text-3xl text-center md:text-4xl xl:text-5xl 2xl:text-5xl mx-auto p-8 font-sans font-extrabold">
         Wie profitieren Schüler*innen von den Projekten?
     </p>
-    <p class="text-center text-sm md:text-xl font-roboto">Anteil der Schüler*innen, die sich durch den Förderunterricht
-        weiterentwickeln konnten (in %)</p>
     <img src="{datenerhebung}" alt="Datenerhbebung Förderunterricht"
-         class="pt-6 max-w-[length:95%] md:max-w-[length:70%] mx-auto">
+         class="pt-6 max-w-[length:90%] md:max-w-[length:70%] mx-auto">
     <div class="text-xs w-full px-8 text-center pb-12 pt-12"
          style="margin-top: 20px;">
         Quelle: Datenerhebung des Zentrums für Lehrer*innenbildung zur Evaluation des Projekts <strong>WEICHENSTELLUNG
