@@ -9,7 +9,7 @@
     <div class="flex flex-col lg:flex-row ml-4 lg:ml-0 lg:items-center h-full">
         <div class="flex-auto border-l-4 ml-10 lg:ml-0  lg:border-l-0 border-t-0 lg:border-t-4 transition duration-500 ease-in-out border-white"></div>
         <div class="flex flex-col lg:flex-row w-full lg:items-center h-full lg:container">
-            <div  class="flex-auto border-l-4 ml-[1.4rem] lg:ml-0 lg:border-l-0 border-t-0 lg:border-t-4 transition duration-500 ease-in-out border-white"></div>
+            <div class="flex-auto border-l-4 ml-[1.4rem] lg:ml-0 lg:border-l-0 border-t-0 lg:border-t-4 transition duration-500 ease-in-out border-white"></div>
 
             <div on:mouseenter={ hover(0) } class="year flex items-center text-teal-200 relative">
                 <div class="rounded-full transition duration-500 ease-in-out h-12 w-12 lg:h-20 lg:w-20 p-2 lg:p-4 border-4 border-white">

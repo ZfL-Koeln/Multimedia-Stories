@@ -60,7 +60,7 @@
     });
 </script>
 
-<section id="map" bind:this={mapElement} class="relative page-container h-screen max-h-screen"
+<section id="map" bind:this={mapElement}
          data-scrollspy="Schulkarte">
     <div class="absolute top-3 my-auto text-black drop-shadow-lg text-2xl md:text-4xl xl:text-4xl mt-12 font-black font-sans text-center w-full z-[1000] break-normal"
          style="padding: 0 10px;">Hier sind Lehramtsstudierende für<br>Bildungsgerechtigkeit im
@@ -70,7 +70,6 @@
          style="z-index: 1337; left: 10px;">Stand: SoSe 2023
     </div>
 </section>
-<div style="background-color: green; width: 100px; height: 100px; position: absolute; left: 10px; bottom: 10px;"></div>
 
 <style>
     @import 'leaflet/dist/leaflet.css';
@@ -78,6 +77,7 @@
     @import 'leaflet.markercluster/dist/MarkerCluster.Default.css';
 
     #map {
+        margin-top: -40px;
         height: 100vh;
     }
 </style>

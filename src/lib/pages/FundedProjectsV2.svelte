@@ -10,7 +10,7 @@
     <div class="flex justify-center pt-4 pb-12">
         <div class="bg-black w-1/3 h-2" style="max-width: 200px;"></div>
     </div>
-    <p class="font-roboto text-xl md:text-xl xl:text-2xl pb-12 max-w-[length:85%] text-center"
+    <p class="font-roboto text-xl md:text-xl xl:text-2xl lg:text-2xl 2xl:text-3xl 3xl:text-4xl pb-12 max-w-[length:85%] text-center"
        style="margin: 0 auto;">
         Das Zentrum für Lehrer*innenbildung der Universität zu Köln fördert bildungsbenachteiligte und neu
         zugewanderte
