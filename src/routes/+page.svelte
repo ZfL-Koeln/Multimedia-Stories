@@ -1,7 +1,7 @@
 <script>
     import Starter from "$lib/Main.svelte";
     import '$lib/styles.scss';
-    import og_image from '$lib/assets/img/multimedia-story-zfl.jpg';
+    import og_image from '$lib/assets/img/multimedia-story-og.jpg';
 </script>
 
 <Starter/>
