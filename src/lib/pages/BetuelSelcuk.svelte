@@ -4,7 +4,9 @@
 	export let acceptYoutube;
 	export let youtubeMessage;
 </script>
-<section id="page-18" class="flex flex-col-reverse justify-end lg:flex-row lg:h-screen page-container" data-scrollspy="Nachhaltige Förderung">
+<section id="page-18"
+		 style="min-height: 100vh; height: 100%;"
+		 class="flex flex-col-reverse justify-end lg:flex-row lg:h-screen page-container" data-scrollspy="Nachhaltige Förderung">
 	<div class="w-full h-max lg:w-7/12 lg:py-8 px-6">
 		<div class="relative">
 			<Youtube id="1rZx6fXCAj8" />

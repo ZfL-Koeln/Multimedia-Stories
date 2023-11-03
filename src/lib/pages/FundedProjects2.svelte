@@ -1,4 +1,4 @@
-<section id="page-19" class="flex flex-col lg:flex-row lg:h-screen page-container text-white page-background"
+<section id="page-19" style="min-height: 100vh; height: 100%;" class="flex flex-col lg:flex-row lg:h-screen page-container text-white page-background"
          data-scrollspy="Wirtschaftlich sinnvoll">
     <div class="w-full lg:w-5/12 flex flex-col justify-between py-12 lg:pl-16 lg:py-32">
         <div>

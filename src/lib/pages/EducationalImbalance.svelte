@@ -1,4 +1,6 @@
-<section style="padding-top: 40px;" id="EducationalImbalance" class="flex flex-col lg:flex-row page-container lg:h-screen bg-gradient-pink"
+<section style="padding-top: 40px; min-height: 100vh; height: 100%;"
+         id="EducationalImbalance"
+         class="flex flex-col lg:flex-row page-container lg:h-screen bg-gradient-pink"
          data-scrollspy="Warum Bildungsprojekte?">
     <div class="w-full lg:w-5/12 flex justify-center">
         <div class="flex flex-col pt-12 lg:px-12">

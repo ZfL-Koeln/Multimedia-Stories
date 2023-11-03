@@ -4,7 +4,7 @@
     import imgRight from "$lib/assets/img/Icon_Spenden.svg"
 </script>
 
-<section id="page-20" class="bg-gradient-pink-to-blue lg:h-screen page-container bg-gradient"
+<section id="page-20" style="min-height: 100vh; height: 100%;" class="bg-gradient-pink-to-blue lg:h-screen page-container bg-gradient"
          data-scrollspy="Unterstützen und Mitmachen">
     <div class="flex flex-col justify-center pt-12">
         <div class="text-4xl break-words tracking-wide md:text-5xl xl:text-6xl 2xl:text-7xl font-sans font-extrabold px-5 text-white text-center">

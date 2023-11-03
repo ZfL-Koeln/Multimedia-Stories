@@ -4,7 +4,7 @@
     export let acceptYoutube;
     export let youtubeMessage;
 </script>
-<section id="page-12" class="flex flex-col-reverse lg:flex-row lg:h-screen page-container pt-12"
+<section id="page-12" style="min-height: 100vh; height: 100%;" class="flex flex-col-reverse lg:flex-row lg:h-screen page-container pt-12"
          data-scrollspy="Praxisprojekte helfen">
     <div class="w-full h-max lg:w-7/12 px-6">
         <div class="relative">

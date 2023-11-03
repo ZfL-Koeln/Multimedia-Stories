@@ -1,4 +1,6 @@
-<section id="page-4" class="flex flex-col text-white page-container sm:h-screen bg-gradient-pink-to-blue"
+<section id="page-4"
+         style="min-height: 100vh; height: 100%;"
+         class="flex flex-col text-white page-container sm:h-screen bg-gradient-pink-to-blue"
          data-scrollspy="Positives Feedback">
     <div class="flex flex-col lg:content-between justify-around h-full p-12 xl:p-12">
         <div class="lg:h-1/3 w-full xl:w-3/4 ">

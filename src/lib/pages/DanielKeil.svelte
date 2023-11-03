@@ -4,7 +4,9 @@
     export let acceptYoutube;
     export let youtubeMessage;
 </script>
-<section id="page-17" class="flex flex-col lg:flex-row lg:h-screen page-container"
+<section id="page-17"
+         style="min-height: 100vh; height: 100%;"
+         class="flex flex-col lg:flex-row lg:h-screen page-container"
          data-scrollspy="Individueller Förderbedarf">
     <div class="w-full lg:w-5/12 flex justify-center">
         <p class="text-center tracking-wide lg:text-right text-3xl 2xl:text-6xl mx-auto font-sans font-extrabold py-12 lg:pl-32 lg:pt-32 px-5">

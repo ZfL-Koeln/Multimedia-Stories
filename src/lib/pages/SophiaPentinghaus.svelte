@@ -4,7 +4,7 @@
     export let acceptYoutube;
     export let youtubeMessage;
 </script>
-<section id="page-8" class="flex flex-col lg:flex-row lg:h-screen page-container" data-scrollspy="Wichtige Erfahrungen">
+<section id="page-8" style="min-height: 100vh; height: 100%;" class="flex flex-col lg:flex-row lg:h-screen page-container" data-scrollspy="Wichtige Erfahrungen">
     <div class="w-full lg:w-5/12 flex justify-center">
         <p class="text-3xl text-center lg:text-right tracking-wide xl:text-6xl 2xl:text-6xl mx-auto font-sans font-extrabold py-12 lg:pr-32 lg:pt-12 px-5">
             „Ich kann mich ausprobieren und meinen eigenen Lehrstil finden.“
