@@ -46,8 +46,7 @@
     <nav id="navbar" class="text-center text-white py-4 px-6">
         <a href="https://zfl.uni-koeln.de">Website</a>
         <a href="https://www.instagram.com/zflkoeln/">Instagram</a>
-        <a href="https://www.facebook.com/zflkoeln">Facebook</a>
-        <a href="https://twitter.com/zflkoeln">Twitter</a>
+        <a href="https://www.linkedin.com/company/zflkoeln/">LinkedIn</a>
         <a href="/impressum">Impressum</a>
     </nav>
 </footer>
