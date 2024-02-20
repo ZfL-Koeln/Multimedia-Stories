@@ -1,5 +1,5 @@
 <script>
-    import starter from "$lib/assets/img/intro.jpeg";
+    import starter from "$lib/assets/img/intro.jpg";
     import zfl from "$lib/assets/img/uzk-zfl-logo.png";
 </script>
 <style>
