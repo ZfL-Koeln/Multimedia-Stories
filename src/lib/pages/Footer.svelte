@@ -1,5 +1,5 @@
 <script>
-    import zfl from "$lib/assets/img/zfl-logo.png";
+    import zfl from "$lib/assets/img/uzk-zfl-logo.png";
 
     function openModal() {
         document.getElementById("modal-imprint").classList.remove("hidden");
@@ -41,7 +41,7 @@
         </article>
     </div>
     <div class="lg:translate-y-12 w-full lg:w-fit">
-        <img src="{zfl}" alt="ZfL Logo" class="w-60 mx-auto lg:ml-8">
+        <img src="{zfl}" alt="ZfL Logo" class="w-80 mx-auto lg:ml-8">
     </div>
     <nav id="navbar" class="text-center text-white py-4 px-6">
         <a href="https://zfl.uni-koeln.de">Website</a>
