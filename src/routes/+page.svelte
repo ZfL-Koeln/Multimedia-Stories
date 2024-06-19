@@ -7,6 +7,11 @@
 <Starter/>
 
 <svelte:head>
+    <title>ZfL Multimedia Stories</title>
+    <meta name="description"
+          content="Das Zentrum für Lehrer*innenbildung (ZfL) unterstützt bildungsbenachteiligte Kinder und Jugendliche mit eigenen Förderprojekten, an denen Studierende im Rahmen ihrer Praxisphasen mitwirken.">
+    <meta name="keywords"
+          content="Zentrum für Lehrer*innenbildung Köln, ZfL Köln, Multimedia Stories, Universität zu Köln">
     <meta property="og:site_name" content="ZfL Multimedia Stories">
     <meta property="og:locale" content="de">
     <meta property="og:url" content="https://zfl-stories.uni-koeln.de">
