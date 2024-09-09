@@ -23,13 +23,12 @@
         <div id="weichenstellung">
         <span class="text-xl lg:text-2xl 2xl:text-3xl 3xl:text-4xl font-roboto">
                 <strong>WEICHENSTELLUNG für Viertklässler</strong> ist
-		ein Mentoringprogramm der ZEIT-Stiftung
-		Ebelin und Gerd Bucerius. Es soll Grundschulkindern helfen, den Übergang von der
+		ein Mentoringprogramm der ZEIT-Stiftung Bucerius. Es soll Grundschulkindern helfen, den Übergang von der
                 Grundschule auf eine weiterführende Schule zu bewältigen und ihr Potenzial bestmöglich auszuschöpfen.
                 Lehramtsstudierende begleiten die Kinder im Rahmen ihrer Praxisphasen
-                über einen Zeitraum von drei Jahren,
+                über einen Zeitraum von zwei Jahren,
 		jeweils vom Beginn der vierten Klasse bis
-		zum Ende des sechsten Schuljahrs. Sie arbeiten mit ihnen in
+		zum Ende des fünften Schuljahrs. Sie arbeiten mit ihnen in
 		Lerngruppen und unternehmen einmal im
 		Monat gemeinsam kulturelle Aktivitäten.
 		</span>
@@ -71,72 +70,72 @@
 </section>
 
 <style lang="scss">
-    .bg-img {
-        background-image: url("$lib/assets/img/stock-img/istockphoto-1033164240.jpg");
-        background-repeat: no-repeat;
-    }
+  .bg-img {
+    background-image: url("$lib/assets/img/stock-img/istockphoto-1033164240.jpg");
+    background-repeat: no-repeat;
+  }
 
-    #projects-grid {
-        margin-top: 50px;
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-template-rows: 1fr 0.2fr;
-        gap: 0;
-        grid-template-areas:
+  #projects-grid {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 0.2fr;
+    gap: 0;
+    grid-template-areas:
     "weichenstellung prompt"
     "weichenstellung-info prompt-info";
-        justify-content: space-between;
-        align-content: space-around;
-        text-align: center;
-    }
+    justify-content: space-between;
+    align-content: space-around;
+    text-align: center;
+  }
 
-    #weichenstellung {
-        grid-area: weichenstellung;
-        text-align: center;
-    }
+  #weichenstellung {
+    grid-area: weichenstellung;
+    text-align: center;
+  }
 
-    #prompt {
-        grid-area: prompt;
-    }
+  #prompt {
+    grid-area: prompt;
+  }
 
-    #prompt,
-    #weichenstellung {
-        padding: 25px 50px;
-    }
+  #prompt,
+  #weichenstellung {
+    padding: 25px 50px;
+  }
 
-    #weichenstellung-info {
-        grid-area: weichenstellung-info;
-    }
+  #weichenstellung-info {
+    grid-area: weichenstellung-info;
+  }
 
-    #prompt-info {
-        grid-area: prompt-info;
-    }
+  #prompt-info {
+    grid-area: prompt-info;
+  }
 
-    #weichenstellung-info,
-    #prompt-info {
-        padding-top: 50px;
-        padding-bottom: 50px;
-    }
+  #weichenstellung-info,
+  #prompt-info {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
 
-    @media (max-width: 600px) {
-      #projects-grid {
-        grid-template-columns: 1fr;
-        grid-template-areas:
+  @media (max-width: 600px) {
+    #projects-grid {
+      grid-template-columns: 1fr;
+      grid-template-areas:
                     "weichenstellung"
                     "weichenstellung-info"
                     "prompt"
                     "prompt-info";
-      }
-
-      #prompt,
-      #weichenstellung {
-        padding: 0;
-      }
-
-      #weichenstellung-info,
-      #prompt-info {
-        padding-top: 10px;
-        padding-bottom: 10px;
-      }
     }
+
+    #prompt,
+    #weichenstellung {
+      padding: 0;
+    }
+
+    #weichenstellung-info,
+    #prompt-info {
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+  }
 </style>

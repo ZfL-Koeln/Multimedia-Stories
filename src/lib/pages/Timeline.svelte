@@ -65,7 +65,7 @@
         <div class="description lg:col-start-2 lg:row-span-3 flex flex-col justify-center lg:justify-start lg:opacity-0 hover:opacity-100 transition-opacity duration-500">
             <p class="transparent-bgr">
                 Das ZfL setzt das Projekt <strong>WEICHENSTELLUNG für Viertklässler</strong>
-                der ZEIT-Stiftung Ebelin und Gerd Bucerius am Standort Köln um.
+                der ZEIT-Stiftung Bucerius am Standort Köln um.
                 Es unterstützt Kinder beim Übergang auf eine weiterführende Schule.
             </p>
         </div>
