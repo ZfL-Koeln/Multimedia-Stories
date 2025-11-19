@@ -8,7 +8,7 @@
         font-family: Roboto, serif
     }
 </style>
-<div class="page-container " id="Page1" data-scrollspy="Startseite">
+<div class="page-container" id="Page1" data-scrollspy="Startseite">
     <section class="pt-2 lg:pt-0 m-0 lg:flex-col lg:pb-0" style="background-color: #009DCC;">
         <div class="flex flex-col justify-around mx-auto w-full lg:w-1/2 xl:w-2/5 max-w-xl lg:mx-4 px-4 lg:px-8 max-h-screen h-screen overflow-hidden">
             <div class="mb-0 mx-auto text-white p-8 pt-2 sm:pt-8 px-2 custom-font">
